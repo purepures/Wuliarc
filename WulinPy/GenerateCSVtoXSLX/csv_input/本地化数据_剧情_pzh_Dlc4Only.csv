@@ -638,7 +638,7 @@ M2346-4_5_5_15,"Wait, what is the ""martial tomb"" you mentioned?",ช้าก�
 M2346-4_5_5_16,"The martial tomb is on this island, in the mountain cave on the right, where the great heroes left their unique martial arts insights, and where Blood Rakshasa recovers his power.",สุสานยุทธ์ตั้งอยู่บนเกาะนี้ ในถ้ำทางขวามือ ณ ที่นั้นคือสถานที่ ที่จอมยุทธ์ผู้ยิ่งใหญ่ทิ้งเคล็ดวิชาสุดยอดไว้ และเป็นสถานที่ ที่รากษสโลหิตใช้ฟื้นฟูกำลังภายในอีกด้วย
 M2346-4_5_5_17,"(So, Gongsun Hui stole these things when Blood Rakshasa had already recovered his power, what was Gongsun Hui's purpose?)",(เช่นนั้นแล้ว ตอนกงซุนฮุ่ยลอบขโมยสิ่งของเหล่านี้ รากษสโลหิตก็ฟื้นฟูกำลังภายในไปแล้ว แล้วกงซุนฮุ่ยมีเจตนาอันใด?)
 M2346-4_5_5_18,"But the martial tomb has many strange places, many people in the ""Penglai Sect"" have benefited from it, but there are also many people who have died inexplicably. No one knows why.","แต่สุสานยุทธ์มีจุดพิศวงมากมาย คนใน""สำนักเผิงไหล""จำนวนไม่น้อยได้รับผลประโยชน์จากที่นั่น แต่ก็มีคนจำนวนไม่น้อยที่เสียสติจนถึงแก่ความตายอย่างมีปริศนา ไม่มีผู้ใดล่วงรู้ถึงสาเหตุ"
-M2346-4_5_5_19,"The plan was originally well prepared, but then there was an accident."
+M2346-4_5_5_19,"The plan was originally well prepared, but then there was an accident.",เดิมทีได้ตระเตรียมแผนการมาเป็นอย่างดี แต่กลับเกิดเหตุไม่คาดฝันขึ้น
 M2346-4_5_5_20,"While we were sending out invitations, some kid went to the Swordsmanship Conference and caused trouble at the Three Teachings, risking the exposure of the name ""Blood Rakshasa""."
 M2346-4_5_5_21,"""Penglai Sect"" is a group of villains gathered together, naturally it is impossible to be united, there is a lot of calculation and infighting between each other."
 M2346-4_5_5_22,"Usually with the prestige of Blood Rakshasa and the common goal of revenge, although there are constant frictions, there will always be one side that has to give in. But that kid completely ignited the contradictions within the ""Penglai Sect""."
@@ -1106,7 +1106,7 @@ M2348-2_20_20,"(So I'm the talented chosen one, hahahahaha!)"
 M2348-2_20_21,"Do you know, the vision you were born with, is something that even a grandmaster like the Eight Saints can't achieve! It's something I learned from the ""Heart Observation Sutra"" at a great cost!"
 M2348-2_20_22,Do you know what I've given up? And you were born with it! Why... why? Why do you {PlayerName} deserve it!!
 M2348-2_20_23,"Don't get excited yet. In my experience, this kind of vision can only play a supporting role. If your martial arts are not good, this vision is useless."
-M2348-2_20_24,……
+M2348-2_20_24,……,……
 M2348-2_20_25,"Do you know why your grandfather forbade the whole family from practicing the ""Heart Observation Scripture""?"
 M2348-2_20_26,"Because after learning the ""Heart Observation Sutra"", you will gradually become alienated from the world."
 M2348-2_20_27,"I have joined many sects, but after learning all the martial arts, I unhesitatingly left the sect. Regardless of how the master and brothers tried to retain me."
@@ -1118,21 +1118,21 @@ M2348-2_20_32,"No matter how loyal they are, I only choose the fastest one."
 M2348-2_20_33,"I make friends just for their Martial Arts. After learning, if they are useless to me, I leave them and never see them again."
 M2348-2_20_34,"I get involved with women just to make them work harder in battle, and also for worldly achievements."
 M2348-2_20_35,"Don't I know what they are thinking? This is my... path of revenge, and the inevitable result of my learning the ""Heart Observation Sutra""."
-M2348-2_20_36,"You feel the same way, don't you? Because you are the same kind of person as me."
-M2348-2_op3_1,I do feel the same way.
-M2348-2_op3_2,"You're totally wrong, I'm not like you."
-M2348-2_21_1,I didn't expect there to be another me in this world...
-M2348-2_21_2,"I have to admit, I do have the same mentality."
+M2348-2_20_36,"You feel the same way, don't you? Because you are the same kind of person as me.",เจ้าก็รู้สึกเช่นกันใช่ไหม? เพราะว่าเราเป็นคนประเภทเดียวกันนี่นา
+M2348-2_op3_1,I do feel the same way.,ข้าก็รู้สึกเช่นเดียวกัน
+M2348-2_op3_2,"You're totally wrong, I'm not like you.",ผิดแล้ว ข้าไม่เหมือนเจ้า
+M2348-2_21_1,I didn't expect there to be another me in this world...,ข้าไม่คิดว่าจะมีคนเช่นเดียวกับข้าอยู่บนโลกนี้อีก...
+M2348-2_21_2,"I have to admit, I do have the same mentality.",ถ้าให้พูดตรงๆ ข้าเองก็มีความคิดเช่นนี้เหมือนกัน
 M2348-2_21_3,"Most importantly, we always feel that you don't belong here, and one day you will run away from here, run away from everyone and everything, right?"
 M2348-2_21_4,"That's right. I always feel that when this journey is over, I won't appear here again."
 M2348-2_21_5,"The great hero thought the same way, so he disappeared without a trace, just like a legend."
 M2348-2_21_6,And the reason I feel this way is because I've already seen my own end.
 M2348-2_22_1,Don't compare me with people like you! I treat people sincerely and interact with them with my heart. I treat my girls with sincerity!
 M2348-2_22_2,"Don't deceive yourself, please ask yourself. Aren't you always going to run away from here, run away from everyone and everything, right?"
-M2348-2_22_3,……
+M2348-2_22_3,……,……
 M2348-2_22_4,"The great hero thought the same way, so he disappeared without a trace, just like a legend."
 M2348-2_22_5,And the reason I feel this way is because I've already seen my own end.
-M2348-2_23_1,……
+M2348-2_23_1,……,……
 M2348-2_23_2,"Actually, I wasn't excited just now, I was delighted."
 M2348-2_23_3,"(From your actions just now, I don't believe a word of it!)"
 M2348-2_23_4,"Because I'm not sure if I can pass the test of the Martial Tomb with my own strength, if you, a natural observer, can help, my chances of success will greatly increase."
