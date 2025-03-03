@@ -1578,43 +1578,43 @@ part-16-1-17,Sure!,ได้สิ เชิญท่าน!
 part-16-1-18,"In a dilapidated temple not far away, a man is lying on his back in the corner, facing away from the entrance.",ในศาลเจ้าผุพังที่อยู่ไม่ไกลนัก มีบุรุษผู้หนึ่งนอนหันหลังให้ประตูในมุมอับของศาลเจ้า
 part-16-1-19,"Daddy, someone from {MyFaction} is here to see you.",ท่านพ่อ มีคนจาก{MyFaction}มาหาท่าน
 part-16-1-20,"Daddy, you lazybones! Are you still asleep?",ท่านพ่อจอมขี้เซา! ยังไม่ตื่นอีกรึ?
-part-16-1-21,"Senior, I am a disciple of {MyFaction}, may I ask you to stand up and talk?"
-part-16-1-22,Daddy! Someone's calling you!
-part-16-1-23,"Wow, daddy, why is your hand so cold?"
-part-16-1-25,"Little girl, let me see your daddy."
-part-16-1-26,What's wrong? Is my daddy sick?
-part-16-1-27,"No pulse, he's already dead, he probably died around Shen Shi yesterday."
-part-16-1-28,"Little girl, I need to have a private talk with your daddy, why don't you go outside and play for a while?"
-part-16-1-29,Okay.
-part-16-1-30,"Yu Wei'er hopped out of the Dilapidated Temple. The temple was silent, you were thinking about how to deal with the cold body, but the intermittent flute sound came from outside the temple."
-part-16-1-31,"I see, senior, you wanted to entrust your daughter to {MyFaction}, didn't you?"
-part-16-1-32,A moment later
-part-16-1-33,"Sister, are you out? Did daddy bully you? He likes to soak his hands in cold water and then pinch my face."
-part-16-1-34,"But don't be afraid! If he bullies you, I'll teach him a lesson!"
-part-16-1-35,Your daddy told me...
-part-16_option1,Send you to {MyFaction} to learn Musical.
-part-16_option2,Find a good family to take care of you.
-part-16-2-1,"Your father asked you to go to {MyFaction}, where there are many sisters who will like you."
-part-16-2-2,What about my daddy?
-part-16-2-3,"Your father just turned into a big fish, he asked me to put him into the stream next to the Dilapidated Temple, he is going to find your mother."
-part-16-2-4,Hahaha! Daddy really did it!
-part-16-2-5,What did your daddy do?
-part-16-2-6,"He said, once someone comes to pick me up, he will turn into a big fish and swim away to find mommy."
-part-16-2-7,Would you miss him?
-part-16-2-8,"I do miss him a bit... but he told me a long time ago, I've already cried it all out!"
-part-16-2-9,"From today on, you have to go to {MyFaction}! First of all... you need to relearn how to hold the flute steadily."
-part-16-2-10,Yes! Wei'er will definitely work hard!
-part-16-3-1,"Your father asked me to find a good family for you, don't worry, I know a lot of people who can help {MyFaction}, they will definitely take good care of you!"
-part-16-3-2,What about my daddy?
-part-16-3-3,"Your father just turned into a big fish, he asked me to put him into the stream next to the Dilapidated Temple, he is going to find your mother."
-part-16-3-4,Hahaha! Daddy really did it!
-part-16-3-5,What did your daddy do?
-part-16-3-6,"He said, once someone comes to pick me up, he will turn into a big fish and swim away to find mommy."
-part-16-3-7,Would you miss him?
-part-16-3-8,"I do miss him a bit... but he told me a long time ago, I've already cried it all out!"
-part-16-3-9,"I'll take you to their homes to have a look, you must behave yourself!"
-part-16-3-10,Yes! Wei'er will definitely be good!
-part-16-4-1,"It's been a long time since I heard that unpleasant flute sound, I wonder if the player will come again..."
+part-16-1-21,"Senior, I am a disciple of {MyFaction}, may I ask you to stand up and talk?",คารวะผู้อาวุโส ข้าเป็นศิษย์แห่ง {MyFaction} ไม่ทราบว่าท่านจะกรุณาลุกขึ้นมาสนทนาได้หรือไม่?
+part-16-1-22,Daddy! Someone's calling you!,นี่ท่านพ่อ! มีคนกำลังคุยกับท่านอยู่นะเจ้าคะ!
+part-16-1-23,"Wow, daddy, why is your hand so cold?",หืม ท่านพ่อ ทำไมมือของท่านถึงเย็นเยียบได้เพียงนี้?
+part-16-1-25,"Little girl, let me see your daddy.",แม่หนูน้อย ขอข้าได้ดูบิดาเจ้าสักครู่เถิด
+part-16-1-26,What's wrong? Is my daddy sick?,เกิดอะไรขึ้น? พ่อของข้าท่านป่วยเหรอ?
+part-16-1-27,"No pulse, he's already dead, he probably died around Shen Shi yesterday.",ชีพจรหยุดนิ่ง ลมปราณดับสูญโดยสิ้นเชิง คาดว่าสิ้นลมหายใจเมื่อวานยาม Shen Shi ราวๆ นั้น
+part-16-1-28,"Little girl, I need to have a private talk with your daddy, why don't you go outside and play for a while?",แม่หนูน้อย ให้ข้าได้พูดคุยเรื่องส่วนตัวกับบิดาเจ้าสักครู่ ใยเจ้าไม่ออกไปเล่นข้างนอกสักประเดี๋ยวล่ะ?
+part-16-1-29,Okay.,ได้เจ้าค่ะ
+part-16-1-30,"Yu Wei'er hopped out of the Dilapidated Temple. The temple was silent, you were thinking about how to deal with the cold body, but the intermittent flute sound came from outside the temple.",อวี๋เว่ยเอ๋อร์กระโดดลิงโลดออกจากศาลร้าง พลันที่นี่จึงเหลือไว้เพียงความเงียบงัน เจ้ากำลังครุ่นคิดถึงวิธีจัดการกับร่างไร้วิญญาณอันเย็นเยียบ ทว่าเสียงขลุ่ยที่ดังแว่วไร้จังหวะ กลับดังลอยมาจากภายนอก
+part-16-1-31,"I see, senior, you wanted to entrust your daughter to {MyFaction}, didn't you?",ทราบแล้วผู้อาวุโส...ท่านหมายฝากฝังบุตรสาวไว้กับ {MyFaction} ใช่ไหม?
+part-16-1-32,A moment later,ผ่านไปครู่หนึ่ง
+part-16-1-33,"Sister, are you out? Did daddy bully you? He likes to soak his hands in cold water and then pinch my face.",พี่สาว พี่ออกมาแล้ว? พ่อข้ารังแกท่านรึเปล่า? เขามักใช้มือเย็น ๆ มาหยิกแก้มข้าตลอดเลย
+part-16-1-34,"But don't be afraid! If he bullies you, I'll teach him a lesson!",ไม่ต้องห่วง! ถ้าเขากล้ารังแกพี่สาวคนนี้ เขาคงโดนข้าสั่งสอนไปแล้ว!
+part-16-1-35,Your daddy told me...,นี่ บิดาของเจ้าได้บอกกับข้าว่า...
+part-16_option1,Send you to {MyFaction} to learn Musical.,จะส่งเจ้าให้ {MyFaction} เพื่อให้ได้เรียนวิชาดนตรีล่ะ!
+part-16_option2,Find a good family to take care of you.,ให้เจ้าไปอยู่กับครอบครัวที่ดีที่จะดูแลเจ้าได้
+part-16-2-1,"Your father asked you to go to {MyFaction}, where there are many sisters who will like you.",บิดาของเจ้าบอกให้เข้าไปอยู่ที่ {MyFaction} ที่นั่นนะ มีพี่สาวใจดีมากมายที่จะต้องเอ็นดูเจ้าเป็นแน่
+part-16-2-2,What about my daddy?,แล้วพ่อของข้าล่ะ?
+part-16-2-3,"Your father just turned into a big fish, he asked me to put him into the stream next to the Dilapidated Temple, he is going to find your mother.",บิดาของเจ้าเมื่อครู่ได้แปลงกายเป็นปลาตัวมหึมาไปแล้ว ทั้งยังกล่าวให้ข้านำร่างของเขาไปปล่อยลงลำธารน้อยข้างศาลร้าง เพื่อไปตามหาท่านมารดาของเจ้ายังไงล่ะ
+part-16-2-4,Hahaha! Daddy really did it!,ฮ่าๆๆ! ท่านพ่อทำสำเร็จแล้วจริงรึ!
+part-16-2-5,What did your daddy do?,บิดาของเจ้าทำสิ่งใดสำเร็จกัน?
+part-16-2-6,"He said, once someone comes to pick me up, he will turn into a big fish and swim away to find mommy.",เขากล่าวว่า เมื่อมีผู้มารับข้าไป เขาจะแปลงกายเป็นปลาตัวมหึมาในพริบตา แล้วว่ายน้ำจากไปตามหาท่านแม่
+part-16-2-7,Would you miss him?,แล้วเจ้าจะคิดถึงเขาไหม?
+part-16-2-8,"I do miss him a bit... but he told me a long time ago, I've already cried it all out!",แน่นอนว่าต้องคิดถึงอยู่บ้าง... แต่ท่านพ่อบอกข้าไว้เนิ่นนานแล้ว ข้าจึงร่ำไห้จนหมดสิ้นแล้วเจ้าค่ะ!
+part-16-2-9,"From today on, you have to go to {MyFaction}! First of all... you need to relearn how to hold the flute steadily.",เช่นนั้นนับแต่วันนี้เจ้าจะได้เริ่มร่ำเรียนที่ {MyFaction}! ประการแรก... เจ้าต้องฝึกฝนการจับขลุ่ยให้มั่นคงเสียก่อน
+part-16-2-10,Yes! Wei'er will definitely work hard!,เจ้าค่ะ! เว่ยเอ๋อร์จะตั้งใจพากเพียรอย่างสุดกำลังเลยเจ้าค่ะ!
+part-16-3-1,"Your father asked me to find a good family for you, don't worry, I know a lot of people who can help {MyFaction}, they will definitely take good care of you!",บิดาของเจ้าฝากฝังให้ข้าหาครอบครัวที่ดีเพื่อดูแลเจ้าด้วย จงวางใจเถิด ข้ารู้จักพันธมิตรของ {MyFaction} อยู่มากมาย พวกเขาต้องดูแลเจ้าเป็นอย่างดีแน่นอน!
+part-16-3-2,What about my daddy?,แล้วพ่อของข้าล่ะ?
+part-16-3-3,"Your father just turned into a big fish, he asked me to put him into the stream next to the Dilapidated Temple, he is going to find your mother.",บิดาของเจ้าเมื่อครู่ได้แปลงกายเป็นปลาตัวมหึมาไปแล้ว ทั้งยังกล่าวให้ข้านำร่างของเขาไปปล่อยลงลำธารน้อยข้างศาลร้าง เพื่อไปตามหาท่านมารดาของเจ้ายังไงล่ะ
+part-16-3-4,Hahaha! Daddy really did it!,ฮ่าๆๆ! ท่านพ่อทำสำเร็จแล้วจริงรึ!
+part-16-3-5,What did your daddy do?,บิดาของเจ้าทำสิ่งใดสำเร็จกัน?
+part-16-3-6,"He said, once someone comes to pick me up, he will turn into a big fish and swim away to find mommy.",เขากล่าวว่า เมื่อมีผู้มารับข้าไป เขาจะแปลงกายเป็นปลาตัวมหึมาในพริบตา แล้วว่ายน้ำจากไปตามหาท่านแม่
+part-16-3-7,Would you miss him?,แล้วเจ้าจะคิดถึงเขาไหม?
+part-16-3-8,"I do miss him a bit... but he told me a long time ago, I've already cried it all out!",แน่นอนว่าต้องคิดถึงอยู่บ้าง... แต่ท่านพ่อบอกข้าไว้เนิ่นนานแล้ว ข้าจึงร่ำไห้จนหมดสิ้นแล้วเจ้าค่ะ!
+part-16-3-9,"I'll take you to their homes to have a look, you must behave yourself!",ข้าจะพาเจ้าไปดูบ้านของครอบครัวเหล่านั้น เจ้าเองก็ต้องเป็นเด็กดีนะรู้ไหม!
+part-16-3-10,Yes! Wei'er will definitely be good!,เจ้าค่ะ! เว่ยเอ๋อร์จะทำให้ดีที่สุดเลยเจ้าค่ะ!
+part-16-4-1,"It's been a long time since I heard that unpleasant flute sound, I wonder if the player will come again...",นี่ก็นานมาแล้วที่มิได้ยินเสียงขลุ่ยอันแสนแสบแก้วหูนั้นอีก ผู้เป่าขลุ่ยผู้นั้นจะกลับมาอีกหรือไม่หนอ...
 part-17-0-1,Something terrible has happened!
 part-17-0-2,"Stop making noise, unless it's something important, you'll suffer!"
 part-17-0-3,"Saintess Miao Caidie ran out to play, we must hurry to find her back!"

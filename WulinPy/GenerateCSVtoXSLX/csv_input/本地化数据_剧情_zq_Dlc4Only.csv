@@ -1121,25 +1121,25 @@ PLD-1-3_13_8,"Even if I die today, I will never tolerate your nonsense in the Ta
 PLD-1-3_13_9,"Alas, isn't it good to be alive, why seek death.","เฮ้อ, มีชีวิตอยู่ก็ดีอยู่แล้ว ทำไมต้องหาเรื่องตายด้วยเล่า"
 PLD-1-3_13_10,"But what did he just say about ""destroying his forbidden stone door""? Could something have happened here?","แต่เมื่อครู่นี้เขาพูดว่าอะไรนะ ""ทำลายประตูหินต้องห้ามของเขา"" ? หรือว่าจะมีอะไรเกิดขึ้นที่นี่?"
 PLD-1-3_13_11,"Unfortunately, he can't talk anymore, and there's no trace of anything here, better Run away from here first.","น่าเสียดาย, เขาพูดไม่ได้อีกต่อไปแล้ว, และที่นี่ก็ไม่มีร่องรอยอะไรเลย, หนีไปจากที่นี่ก่อนดีกว่า"
-PLD-1-3_14_1,Is this... a pigeon message?
-PLD-1-3_14_2,"It's another letter from Senior Fu Yaozi, let's see what it says..."
-PLD-1-3_14_3,"""Please come to Linlang Temple quickly, {PlayerName}."" Only these few words, could something have happened at Linlang Temple?"
-PLD-1-3_14_4,"First it was the three sects, now it's Linlang Temple... It's really worrying, I should hurry to Linlang Temple."
-PLD-1-4_1_1,"{PlayerName}, hand over the ""Prayer Manual""!"
-PLD-1-4_1_2,Knowing who I am and still daring to trouble me? Who gave you the courage?
-PLD-1-4_1_3,"Enough talk, I'm taking this ""Prayer Manual"" today!"
-PLD-1-4_2_1,"{PlayerName} is nothing, this Prayer Manual, I'll take it!"
-PLD-1-4_2_2,Damn it...
-PLD-1-4_2_3,"Gongsun Hui! You've caused chaos in the three sects and stolen my things, what are you trying to do!"
+PLD-1-3_14_1,Is this... a pigeon message?,นี่คือ... ข้อความจากนกพิราบสื่อสารหรือ?
+PLD-1-3_14_2,"It's another letter from Senior Fu Yaozi, let's see what it says...",เป็นจดหมายอีกฉบับจากท่านอาวุโสฝูเหยาจื่อ มาดูกันว่ามีอะไรเขียนไว้...
+PLD-1-3_14_3,"""Please come to Linlang Temple quickly, {PlayerName}."" Only these few words, could something have happened at Linlang Temple?","""โปรดมาที่วัดหลินหลางโดยด่วน, {PlayerName}"" มีเพียงข้อความสั้นๆ แค่นี้ หรือว่าจะมีเรื่องอะไรเกิดขึ้นที่วัดหลินหลาง?"
+PLD-1-3_14_4,"First it was the three sects, now it's Linlang Temple... It's really worrying, I should hurry to Linlang Temple.",ตอนแรกก็สามนิกาย ตอนนี้ก็วัดหลินหลาง... น่าเป็นห่วงจริง ๆ ข้าควรรีบไปที่วัดหลินหลาง
+PLD-1-4_1_1,"{PlayerName}, hand over the ""Prayer Manual""!","{PlayerName} ส่ง ""คัมภีร์ภาวนา"" มา!"
+PLD-1-4_1_2,Knowing who I am and still daring to trouble me? Who gave you the courage?,รู้จักข้าแล้วยังกล้ามาหาเรื่องอีกรึ? ใครให้ความกล้ากับเจ้ามา?
+PLD-1-4_1_3,"Enough talk, I'm taking this ""Prayer Manual"" today!","ไม่ต้องพูดมาก วันนี้ข้าจะเอา ""คัมภีร์ภาวนา"" เล่มนี้ไป!"
+PLD-1-4_2_1,"{PlayerName} is nothing, this Prayer Manual, I'll take it!",{PlayerName} ไม่ได้เรื่อง คัมภีร์ภาวนา ข้าจะเอาไปเอง!
+PLD-1-4_2_2,Damn it...,บ้าเอ้ย...
+PLD-1-4_2_3,"Gongsun Hui! You've caused chaos in the three sects and stolen my things, what are you trying to do!",กงซุนฮุ่ย! เจ้าสร้างความวุ่นวายในสามสำนัก และขโมยของของข้า เจ้าต้องการอะไรกันแน่!
 PLD-1-4_2_4,……,……
-PLD-1-4_2_5,How did you recognize me?
-PLD-1-4_2_6,"You changed your clothes, but your voice didn't change, and your moves didn't change."
-PLD-1-4_2_7,...I see.
-PLD-1-4_2_8,"If you want to retrieve this Prayer Manual, come find me on <color=#c44b0e>Penglai Island</color>."
-PLD-1-4_2_9,Damn it...
-PLD-1-4_2_10,"Just a few days after the Swordsmanship Tournament, this guy has made such progress..."
-PLD-1-4_2_11,"He didn't deny the fact that he caused a ruckus in the three sects, it seems he really is the culprit."
-PLD-1-4_2_12,"Causing a ruckus in the three sects and stealing this Prayer Manual, not to mention the Blood Rakshasa and this Penglai Island..."
+PLD-1-4_2_5,How did you recognize me?,เจ้ารู้จักข้าได้อย่างไร?
+PLD-1-4_2_6,"You changed your clothes, but your voice didn't change, and your moves didn't change.",เจ้าเปลี่ยนเสื้อผ้า แต่เสียงของเจ้าไม่ได้เปลี่ยน และกระบวนท่าของเจ้าก็ไม่ได้เปลี่ยน
+PLD-1-4_2_7,...I see.,แบบนี้นี่เอง...
+PLD-1-4_2_8,"If you want to retrieve this Prayer Manual, come find me on <color=#c44b0e>Penglai Island</color>.","หากเจ้าต้องการ ""คัมภีร์ภาวนา"" เล่มนี้คืน จงมาหาข้าที่ <color=#c44b0e>เกาะเผิงไหล</color>"
+PLD-1-4_2_9,Damn it...,บ้าเอ้ย...
+PLD-1-4_2_10,"Just a few days after the Swordsmanship Tournament, this guy has made such progress...",เพียงไม่กี่วันหลังจากงานชุมนุมวิจารณ์กระบี่ หมอนี่กลับก้าวหน้าไปมากขนาดนี้...
+PLD-1-4_2_11,"He didn't deny the fact that he caused a ruckus in the three sects, it seems he really is the culprit.",เขาไม่ได้ปฏิเสธความจริงที่ว่าเขาสร้างความวุ่นวายในสามนิกาย ดูเหมือนว่าเขาจะเป็นตัวการจริง ๆ
+PLD-1-4_2_12,"Causing a ruckus in the three sects and stealing this Prayer Manual, not to mention the Blood Rakshasa and this Penglai Island...",สร้างความวุ่นวายในสามนิกายและขโมยคัมภีร์ภาวนาเล่มนี้ ยังไม่รวมถึงรากษสโลหิตและเกาะเผิงไหลนี่อีก...
 PLD-1-4_2_13,Could it be that the Blood Rakshasa is on Penglai Island? But where is this Penglai Island...
 PLD-1-4_3_1,Tsk...
 PLD-1-4_3_2,"Gongsun Hui, your martial arts have improved a lot in just a few days, but I'm afraid it's still hundreds of years too early for you to defeat me."
