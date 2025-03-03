@@ -1498,47 +1498,47 @@ part-14-3-13,"What else do you have, cold medicinal pills, fire-reducing pills, 
 part-14-4-1,I won't fight anymore! I admit defeat!,ข้าไม่สู้แล้ว! ข้ายอมแพ้!
 part-14-4-2,"Alas... My eating utensils have been broken, and I have to start all over again.",อนิจจา... เครื่องมือทำมาหากินของข้าพังเสียแล้ว ต้องเริ่มต้นใหม่หมดเลย
 part-14-4-3,"This guy is good at deceiving people and his martial arts are also good, maybe he can be used for {MyFaction}.",คนผู้นี้มีฝีมือในการหลอกล่อผู้อื่น อีกทั้งวรยุทธ์ก็แก่กล้า บางทีอาจนำมาใช้ประโยชน์เพื่อ {MyFaction}
-part-14-4-4,"Your persuasion skills are good, {MyFaction} needs talents like you.",วาจาคารมของท่านช่างล้ำเลิศนัก {MyFaction} กำลังขาดแคลนยอดคนเช่นท่านอยู่พอดี
+part-14-4-4,"Your persuasion skills are good, {MyFaction} needs talents like you.",วาจาคารมของเจ้าช่างล้ำเลิศนัก {MyFaction} กำลังขาดแคลนคนเช่นเจ้าอยู่พอดี
 part-14-4-5,Huh? You beat me up and smashed my bowl just to recruit me?,หา? ท่านลงมือทุบตีข้า ทุบชามข้าวของข้าทิ้ง เพียงเพื่อชักชวนข้าเข้าร่วมรึ?
 part-14-4-6,"Even if I didn't beat you up today, you would have been beaten up sooner or later for your deceitful ways, even chased for thousands of miles.",แม้วันนี้ข้ามิได้ลงมือสั่งสอนเจ้า หากเจ้ายังคงหลอกลวงผู้คนเช่นนี้ต่อไป ไม่ช้าก็เร็วคงต้องถูกผู้อื่นลงทัณฑ์ มิเช่นนั้นก็อาจต้องถูกตามล่าสังหารไกลนับพันลี้
 part-14-4-7,"Now I give you a chance, with {MyFaction} as your backing, you can slowly reform.",บัดนี้ข้ามอบโอกาสให้เจ้า โดยมี{MyFaction}เป็นร่มโพธิ์ร่มไทร เจ้าจงค่อยๆ แก้ไขตน กลับเนื้อกลับตัวเสีย
 part-14-4-8,"It's not a good life to be a drifter without a backing... It's not bad to eat under {MyFaction}. Okay, I'll join.",ชีวิตที่ร่อนเร่ในยุทธภพ ไร้ที่พึ่งพิงใด ช่างมิใช่ชีวิตที่ดีเลย... การได้ร่วม{MyFaction}เพื่อหาเลี้ยงตนก็มิเลว เอาล่ะ ข้าขอเข้าร่วมด้วย
 part-14-5-1,Alas! My eating utensils have been broken... I have to start all over again.,เฮ้อ! เครื่องมือทำมาหากินของข้า ถูกทำลายจนย่อยยับ... ครานี้คงต้องเริ่มต้นใหม่จากศูนย์เสียแล้ว
-part-14-5-2,"You are from {MyFaction}, right? Pay up! 1200 coins for a set!"
-part-14-5-3,Should I compensate?
-part-14_option3,"It's just 1200 coins, I'll compensate."
-part-14_option4,I suspect you're trying to scam me with these fragile items.
-part-14-6-1,"It's so damaged, it's only right for me to compensate both morally and logically."
-part-14-6-2,Go! Take me to {MyFaction}! I won't leave until I've made a full set of utensils!
-part-14-6-3,"Sun Daoren stayed in {MyFaction}, even after his scamming tools were made, he had no intention of leaving. Over time, everyone considered him as one of {MyFaction}."
-part-14-7-1,"So you're a lonely ghost! You were the one who started it... Forget it, I probably can't squeeze anything out of you. I'm leaving this place, goodbye!"
-part-14-7-2,Sun Daoren swaggered away. You barely recovered and returned to the sect with injuries.
-part-14-8-1,"Master, the swindling Taoist priest has run away."
-part-14-8-2,"He ran away after getting enough, huh? I guess he'll come back."
-part-15-0-1,"Master, recently there is a rumor in the city that a beautiful woman with excellent musical skills has appeared. Her music can be heard for miles. Can we recruit her into our sect?"
-part-15-0-2,"Oh? There is such a beauty? As long as she is willing, she can join my sect."
-part-15_name,Overwhelming beauty
-part-15_overview,"A woman of overwhelming beauty has appeared in the city, her music skills are quite good, she can be recruited into the sect."
-part-15-1-1,"Beautiful lady, beautiful lady, you accepted the red silk I sent you last night, why didn't you join me for a drink?"
-part-15-1-2,"Thank you for your love for my music, but I only play music and don't drink with others."
-part-15-1-3,"No problem, you can learn to drink slowly. Trust me, you'll love the taste of alcohol."
-part-15-1-4,"Thanks for the offer, but I have important things to do right now. If you keep blocking me..."
-part-15-1-5,"Hey, you guys, can't you see that the lady is not interested?"
-part-15-1-6,Who is this jerk? Don't disturb me and Miss Qincheng's conversation!
-part-15-1-7,"Miss... if you don't want to be bothered by these men, just stand behind us, we'll protect you!"
-part-15-1-8,Thank you both!
-part-15-1-9,"Damn it, how dare you interfere with my business! Boys, get them!"
-part-15-2-1,Ah! My ear!
-part-15-2-2,"You listen to me, the people of our sect are not to be trifled with!"
-part-15-2-3,My ear! It hurts so much!
-part-15-2-4,"Your ears won't be hearing anything for a while - Miss Qincheng, are you alright?"
-part-15-2-5,"Thank you both, I'm fine. I heard you mention earlier, are you from {MyFaction}?"
-part-15-2-6,"Indeed, we came specifically to recruit you."
-part-15-2-7,"Great, I went out today to find the seniors of {MyFaction}, but I didn't expect to encounter this scum on the road."
-part-15-2-8,"How about going back with us? With your performance just now, you might be the top of your class."
-part-15-2-9,"Well then, I'll respectfully comply."
-part-15-3-1,"You hit too hard, my ears are still buzzing, but it's a pity, Miss Qincheng is mine haha!"
-part-15-3-2,"I heard a commotion from afar, what's going on here?"
+part-14-5-2,"You are from {MyFaction}, right? Pay up! 1200 coins for a set!",ท่านมาจาก {MyFaction} ใช่ไหม จ่ายค่าเสียหายมาซะ 1200 อีแปะ
+part-14-5-3,Should I compensate?,ข้าควรจะชดใช้ดีไหมนะ?
+part-14_option3,"It's just 1200 coins, I'll compensate.",กะอีแค่ 1200 อีแปะ ข้าชดใช้ให้ก็แล้วกัน
+part-14_option4,I suspect you're trying to scam me with these fragile items.,ข้าสงสัยว่าเจ้าใช้ของหง่อย ๆ พวกนี้มาวางแผนตบตาข้าเพื่อเรียกค่าเสียหาย
+part-14-6-1,"It's so damaged, it's only right for me to compensate both morally and logically.",เสียหายมากเพียงนี้ ไม่ว่าจะมองเช่นไร ข้าก็สมควรเป็นผู้ชดใช้อยู่ดี
+part-14-6-2,Go! Take me to {MyFaction}! I won't leave until I've made a full set of utensils!,ไป! พาข้าไปยัง {MyFaction} หากเครื่องมือเครื่องใช้ของข้ายังไม่ครบชุด ข้าจะไม่จากไปไหนทั้งสิ้น!
+part-14-6-3,"Sun Daoren stayed in {MyFaction}, even after his scamming tools were made, he had no intention of leaving. Over time, everyone considered him as one of {MyFaction}.",ซุนเต้าเหรินปักหลักอยู่ ณ {MyFaction} แม้ว่าเครื่องมือต้มตุ๋นของเขาจะถูกสร้างเสร็จสิ้นแล้ว ก็มิมีวี่แววที่จะจากไปแต่ประการใด นานวันเข้า ทุกผู้คนต่างนับเขาเป็นคนของ {MyFaction}ไปเสียแล้ว
+part-14-7-1,"So you're a lonely ghost! You were the one who started it... Forget it, I probably can't squeeze anything out of you. I'm leaving this place, goodbye!",อ้อ ไอ้ผีขี้ตืด! แกนั่นแหละที่หาเรื่องก่อน... ช่างหัวมันเถอะ ดูท่าคงไม่มีน้ำมันให้รีดออกมาจาก ร่างแกหรอก ข้าเต้าเหรินจะไปจากที่นี่แล้ว ไป๊!
+part-14-7-2,Sun Daoren swaggered away. You barely recovered and returned to the sect with injuries.,ซุนเต้าเหริน ตัวแสบมันเดินจากไปอย่างผยอง เจ้าฝืนกล้ำกลืนฟื้นพลังเฮือกสุดท้าย แล้วแบกสังขารกลับไปยังสำนัก
+part-14-8-1,"Master, the swindling Taoist priest has run away.",ท่านเจ้าสำนักขอรับ ไอ้นักพรตเต๋าจอมปลอมนั่น หนีหางจุกตูดไปแล้วขอรับ!
+part-14-8-2,"He ran away after getting enough, huh? I guess he'll come back.",โกยอิ่มแล้วก็เผ่นเหรอ? ข้าว่ามันต้องกลับมาอีกแน่!
+part-15-0-1,"Master, recently there is a rumor in the city that a beautiful woman with excellent musical skills has appeared. Her music can be heard for miles. Can we recruit her into our sect?",ท่านเจ้าสำนักขอรับ ช่วงนี้ข้าได้ยินข่าวลือว่า ในเมืองปรากฏหญิงงามล่มเมืองคนหนึ่ง ฝีมือดนตรีเลิศล้ำ เพียงดีดพิณเพลงเดียว ก็ก้องกังวานไปไกลนับหมื่นลี้ ไม่ทราบว่าเราจะเชิญนาง เข้าสำนักได้หรือไม่ขอรับ?
+part-15-0-2,"Oh? There is such a beauty? As long as she is willing, she can join my sect.",โอ้? มีแม่นางงามล่มเมืองเช่นนั้นจริงหรือ? เพียงแค่นางยินดี ก็ย่อมเข้าสำนักข้าได้อยู่แล้ว!
+part-15_name,Overwhelming beauty,ความงามเลิศล้ำ
+part-15_overview,"A woman of overwhelming beauty has appeared in the city, her music skills are quite good, she can be recruited into the sect.",ในเมืองบังเกิดแม่นางงามล่มเมืองนางหนึ่ง ฝีมือดนตรีล้ำเลิศ ควรค่าแก่การเชิญมาเป็นศิษย์ในสำนักของเรา
+part-15-1-1,"Beautiful lady, beautiful lady, you accepted the red silk I sent you last night, why didn't you join me for a drink?",แม่นางผู้งาม เมื่อคืนเจ้าก็รับผ้าแพรแดง ที่ข้ามอบให้ไปแล้ว เหตุใดจึงไม่มาดื่มสุรา เป็นเพื่อนข้าสักจอกเล่า?
+part-15-1-2,"Thank you for your love for my music, but I only play music and don't drink with others.",ขอบคุณในน้ำใจที่ท่านชื่นชมในเสียงดนตรีของข้า แต่ข้าเพียงบรรเลงเพลง มิได้ดื่มสุรากับผู้ใด
+part-15-1-3,"No problem, you can learn to drink slowly. Trust me, you'll love the taste of alcohol.",ไม่เป็นไรหรอก เรื่องสุรานั้นเรียนรู้กันได้ช้าๆ เชื่อข้าเถิด เจ้าจะต้องหลงใหลในรสสุราอย่างแน่นอน
+part-15-1-4,"Thanks for the offer, but I have important things to do right now. If you keep blocking me...",ขอบคุณในไมตรีของท่าน แต่ข้ามีธุระสำคัญยิ่ง หากท่านยังขวางทางข้าอีก...
+part-15-1-5,"Hey, you guys, can't you see that the lady is not interested?",เฮ้ย พวกเจ้าบุรุษเหม็นเน่า มองไม่ออกรึว่าแม่นางเขาไม่เต็มใจ?
+part-15-1-6,Who is this jerk? Don't disturb me and Miss Qincheng's conversation!,ไอ้สารเลวมาจากไหน? อย่ามารบกวนข้าคุยกับแม่นางชิงเฉิง!
+part-15-1-7,"Miss... if you don't want to be bothered by these men, just stand behind us, we'll protect you!",แม่นาง...ชิงเฉิง หากท่านไม่ปรารถนา จะข้องเกี่ยวกับบุรุษเหล่านั้น ก็จงมาหลบอยู่ด้านหลังพวกข้า พวกข้าจะคุ้มครองท่านเอง!
+part-15-1-8,Thank you both!,ขอบคุณท่านทั้งสองยิ่งนัก!
+part-15-1-9,"Damn it, how dare you interfere with my business! Boys, get them!",ชิชะ บังอาจมาขวางทางข้า! พวกเจ้าลูกกระจ๊อกทั้งหลาย จัดการพวกมัน!
+part-15-2-1,Ah! My ear!,ว้าก! หูข้า!
+part-15-2-2,"You listen to me, the people of our sect are not to be trifled with!",พวกเจ้าจงฟังให้ดี คนของสำนักข้าหาใช่ผู้ที่ใครจะมาหยามได้!
+part-15-2-3,My ear! It hurts so much!,หูข้า! เจ็บปวดราวกับถูกฉีกกระชาก!
+part-15-2-4,"Your ears won't be hearing anything for a while - Miss Qincheng, are you alright?",หูของเจ้าคงไม่ได้ยินไปอีกพักใหญ่...แม่นางชิงเฉิง ท่านยังปลอดภัยดีหรือไม่?
+part-15-2-5,"Thank you both, I'm fine. I heard you mention earlier, are you from {MyFaction}?",ขอบคุณท่านทั้งสองยิ่งนัก ข้ามิเป็นไร เมื่อครู่ข้าได้ยินพวกท่านกล่าวว่า พวกท่านเป็นคนของ {MyFaction} หรือ?
+part-15-2-6,"Indeed, we came specifically to recruit you.",ถูกต้องแล้ว พวกเรามาเพื่อเชิญท่านเข้าสำนักโดยเฉพาะ
+part-15-2-7,"Great, I went out today to find the seniors of {MyFaction}, but I didn't expect to encounter this scum on the road.",ดีจริง! วันนี้ข้าออกเดินทางก็เพื่อตามหา เหล่าผู้อาวุโสแห่ง{MyFaction} เพียงแต่คาดไม่ถึงว่าจะมาพบ เจอเศษสวะเช่นนี้ระหว่างทาง
+part-15-2-8,"How about going back with us? With your performance just now, you might be the top of your class.",เช่นนั้นก็ดี ไปกับพวกเราเลยเป็นไร? ด้วยฝีมือดนตรีที่ท่านแสดงเมื่อครู่ ไม่แน่ว่าอาจจะได้เป็นอันดับหนึ่งของรุ่นก็เป็นได้
+part-15-2-9,"Well then, I'll respectfully comply.",ถ้าอย่างนั้นข้าไม่เกรงใจท่านแล้วนะ..
+part-15-3-1,"You hit too hard, my ears are still buzzing, but it's a pity, Miss Qincheng is mine haha!",ลงมือหนักเกินไปแล้ว หูข้ายังคงอื้ออึงอยู่เลย แต่ช่างน่าเสียดาย แม่นางชิงเฉิงเป็นของข้าแล้ว ฮ่าๆๆ!
+part-15-3-2,"I heard a commotion from afar, what's going on here?",ได้ยินเสียงอึกทึกครึกโครมมาจากไกล พวกเจ้ากำลังก่อเรื่องอันใดกัน?
 part-15-3-3,"Sir, this man and his gang are harassing me!"
 part-15-3-4,What! It's... I will not forgive those who dare to harass Miss Qincheng!
 part-15-3-5,"Miss Qincheng, don't worry, I will severely punish these scoundrels!"
