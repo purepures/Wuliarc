@@ -188,7 +188,7 @@ M2341-20_1_2,"Wait, I suddenly noticed that the wall behind this house seems to 
 M2341-20_2_1,The door is open!,ประตูเปิดออกแล้ว!
 M2341-20_2_2,"To avoid attracting attention, I should close the door as soon as I enter.",เพื่อหลบเลี่ยงสายตาผู้คน ข้าจะปิดประตูทันทีที่เข้าไป
 M2341-20_2_3,"There is only a sword here, nothing else, the scene is quite eerie...",ภายในห้องมีเพียงกระบี่เล่มหนึ่งวางอยู่ นอกเหนือจากนั้นกลับว่างเปล่า เป็นบรรยากาศที่น่าขนลุกนัก...
-M2341-20_2_4,"There are words on this scabbard... ""Roar of the Dragon""? So this is the ""Roar of the Dragon"" sword that the great hero used to inscribe the stele and left in the Sword Tomb!","บนฝักกระบี่สลักตัวอักษร... ""เสียงมังกรคำราม"" นี่คือกระบี่ ""เสียงมังกรคำราม"" ที่จอมยุทธ์ผู้ยิ่งใหญ่ใช้สลักศิลาจารึก และได้ทิ้งไว้ในสุสานกระบี่!"
+M2341-20_2_4,"There are words on this scabbard... ""Roar of the Dragon""? So this is the ""Roar of the Dragon"" sword that the great hero used to inscribe the stele and left in the Sword Tomb!","บนฝักกระบี่สลักตัวอักษร... ""เสียงมังกรคำราม"" นี่คือกระบี่ ""มังกรคำราม"" ที่จอมยุทธ์ผู้ยิ่งใหญ่ใช้สลักศิลาจารึก และได้ทิ้งไว้ในสุสานกระบี่!"
 M2341-20_2_5,"It was actually hidden here by Blood Rakshasa... hidden in the center of the backyard, as if afraid that others wouldn't covet it...",กลับถูกรากษสโลหิตซุกซ่อนไว้ที่นี่... ซ่อนไว้ใจกลางสวนหลังสำนัก ราวกับเกรงว่าผู้อื่นจะไม่หมายปอง...
 M2341-20_2_6,"Anyway, this sword once belonged to the great hero is now mine!",ไม่ว่าอย่างไรก็ตาม กระบี่คู่กายของจอมยุทธ์ผู้ยิ่งใหญ่ในอดีตเล่มนี้ เป็นของข้าแล้ว!
 M2341-20_2_7,"I'd better hurry up and run away from this room, it's really creepy here...",ข้ารีบออกจากห้องนี้ดีกว่า ที่นี่ช่างน่าขนลุกยิ่งนัก...
@@ -346,7 +346,7 @@ M2346-1_7_2,"I'm done with the painting here, I'm going to go somewhere else to 
 M2346-1_7_3,"Wait, HorsePavilion Master, this mountain path is dangerous...",ช้าก่อน ท่านเจ้าสำนักหอม้า ทางภูเขาสายนี้อันตรายนัก...
 M2346-1_7_4,"By the way, this mountain path is dangerous, just now a few people who looked like Mountain Bandits were running around in my painting frame, it was annoying, so I let them lie down for a while, you better be careful!",อีกอย่าง เส้นทางภูเขาสายนี้อันตราย เมื่อครู่มีคนที่ดูคล้ายโจรภูเขาวิ่งวุ่นอยู่ในกรอบภาพของข้า น่ารำคาญนัก ข้าจึงให้พวกมันนอนพักสักครู่... ท่านระวังตัวด้วย!
 M2346-1_7_5,Gone... What is Ma Qingshan's purpose?,หายตัวไปแล้วหรือ… หม่าชิงซาน คิดจะทำอะไรกันแน่?
-M2346-2_2a_1,"This must be one of the great hero's ink treasures, right?",นี่คงเป็นหนึ่งในกระบี่วาดหมึกของยอดวีรบุรุษกระมัง?
+M2346-2_2a_1,"This must be one of the great hero's ink treasures, right?",นี่คงเป็นหนึ่งในลายพู่กันของจอมยุทธ์ผู้ยิ่งใหญ่กระมัง?
 M2346-2_2a_2,"Looking at the depth and angle of the engraving, it feels like it was written with a sword. Using the sword as a pen, the writing is fast and not sluggish, engraving on the stone is as smooth as writing on paper, it can't be done without exquisite swordsmanship and profound internal strength.",ดูจากความลึกและมุมของร่องรอยที่สลัก ราวกับถูกเขียนด้วยดาบ... ใช้กระบี่แทนพู่กัน ลายอักษรรวดเร็วไม่ติดขัด สลักลงบนศิลาราบรื่นดุจเขียนบนกระดาษ... หากมิใช่ผู้ครองวิชากระบี่ขั้นเลิศและมีพลังภายในล้ำลึก ย่อมยากจะทำได้เช่นนี้
 M2346-2_1_1,This rope that doesn't look very sturdy... can it really support a person climbing up?,เชือกเส้นนี้ดูไม่แข็งแรงนัก... จะรับน้ำหนักยามปีนป่ายได้จริงหรือ?
 M2346-2_op1_1,Try to climb up along the rope.<color=#097a76>(10Stamina)</color>,ลองปีนขึ้นไปตามเชือกดู <color=#097a76>(10Stamina)</color>
@@ -639,108 +639,108 @@ M2346-4_5_5_16,"The martial tomb is on this island, in the mountain cave on the 
 M2346-4_5_5_17,"(So, Gongsun Hui stole these things when Blood Rakshasa had already recovered his power, what was Gongsun Hui's purpose?)",(เช่นนั้นแล้ว ตอนกงซุนฮุ่ยลอบขโมยสิ่งของเหล่านี้ รากษสโลหิตก็ฟื้นฟูกำลังภายในไปแล้ว แล้วกงซุนฮุ่ยมีเจตนาอันใด?)
 M2346-4_5_5_18,"But the martial tomb has many strange places, many people in the ""Penglai Sect"" have benefited from it, but there are also many people who have died inexplicably. No one knows why.","แต่สุสานยุทธ์มีจุดพิศวงมากมาย คนใน""สำนักเผิงไหล""จำนวนไม่น้อยได้รับผลประโยชน์จากที่นั่น แต่ก็มีคนจำนวนไม่น้อยที่เสียสติจนถึงแก่ความตายอย่างมีปริศนา ไม่มีผู้ใดล่วงรู้ถึงสาเหตุ"
 M2346-4_5_5_19,"The plan was originally well prepared, but then there was an accident.",เดิมทีได้ตระเตรียมแผนการมาเป็นอย่างดี แต่กลับเกิดเหตุไม่คาดฝันขึ้น
-M2346-4_5_5_20,"While we were sending out invitations, some kid went to the Swordsmanship Conference and caused trouble at the Three Teachings, risking the exposure of the name ""Blood Rakshasa""."
-M2346-4_5_5_21,"""Penglai Sect"" is a group of villains gathered together, naturally it is impossible to be united, there is a lot of calculation and infighting between each other."
-M2346-4_5_5_22,"Usually with the prestige of Blood Rakshasa and the common goal of revenge, although there are constant frictions, there will always be one side that has to give in. But that kid completely ignited the contradictions within the ""Penglai Sect""."
-M2346-4_5_5_23,"They all think it was done by the people under the other side, accusing each other, usually with Blood Rakshasa pressing, at most it is a matter of smashing a few cups, but Blood Rakshasa is in retreat, ""Penglai Sect"" has a huge internal strife..."
-M2346-4_5_5_24,"A while ago, our sect went through a great turmoil... In this chaos, I never expected it to turn out this way. I treated the chaos as a joke, bet on the wrong side, and when I rushed over, my best brothers were on the brink of death..."
-M2346-4_5_5_25,"Before they died, the way they looked at me was as if they were looking at a traitor, but I wasn't... I just chose the wrong time to say the wrong things, ended up on the wrong side, and survived wrongly..."
-M2346-4_5_5_26,"Because of this, I have nightmares every night, dreaming of those brothers standing in the fog, staring at me, silent."
-M2346-4_5_5_27,"If I could do it all over again, I wouldn't joke around. I'd rather choose to fight with my brothers to the end, even if it means dying together, it's better than living like this."
-M2346-4_5_5_28,"I tried to numb myself with alcohol, but it didn't work. I wanted to die, but I couldn't do it. I didn't dare to make a sound in front of the enemy who killed my brothers."
-M2346-4_5_5_29,"I tried gambling, telling myself to bet everything I have, even my life. If I lose my life... I might have the motivation to do it..."
-M2346-4_5_5_30,"But that's the thing about gambling, when you want to win, you end up losing. If you want to lose, you end up winning against all odds..."
-M2346-4_5_5_31,"Until later, because of my brothers, I understood..."
-M2346-4_5_5_32,Because of me? Really?
-M2346-4_5_5_33,"Yes, whether it's martial arts betting or playing dominoes or cockfighting, they're all insignificant gambling games. I was just running away. Running away from the real gamble, the real life-or-death gamble, not the one I mumbled about when I was gambling small..."
-M2346-4_5_5_34,How do you plan to gamble?
-M2346-4_5_5_35,"First, I need to rescue my last surviving brother, then face Blood Rakshasa together, and then, go to die."
-M2346-4_5_5_36,Why do you have to face Blood Rakshasa? Give me a reason to believe in you.
-M2346-4_5_5_37,"Because our stronghold was doing well until Blood Rakshasa came. He demanded that we join him. The leader refused, and the leader died. The second in command refused, and the second in command died. The rest agreed, and the rest became dogs."
-M2346-4_5_5_38,We swore to die together in the same year and month. The man in the prison is my last chance to keep this oath.
-M2346-4_5_5_39,"By the way, it was a mess at that time. When Blood Rakshasa came out, there was only a mess left, with more than half of the manpower dead, and the plan was almost scrapped..."
-M2346-4_5_5_40,"But he still managed to control everyone with his thunderous methods, declaring that as long as everyone cooperated fully, all past actions would be forgiven. Then he revised the plan overnight, changing from luring into the martial tomb to taking action in the main hall."
-M2346-4_5_5_41,"The huge gap in personnel, he revised the entire organizational structure, clarified each position's tasks, and even found a lot of small villains to fill in, these people are basically responsible for reception in the sect."
-M2346-4_5_5_42,"No wonder the whole sect is in a rush and sloppy, but even if the entire ""Penglai Sect"" is in a mess, Blood Rakshasa can quickly recover the entire sect and rebuild the plan, his methods and skills are worthy of a generation of heroes."
-M2346-4_5_5_43,If that's the case...
-M2346-4_op3_1,I believe you.
-M2346-4_op3_2,I don't believe you.<color=#097a76>(Duel)</color>
-M2346-4_5_6_1,"If that's the case, then I'll have to use force."
-M2346-4_5_7_1,"Brother, I'll go first..."
-M2346-4_5_7_2,"Brothers, I'm here..."
-M2346-4_5_8_1,(Sigh of relief)
-M2346-4_5_8_2,"Well then, let me tell you how to open this iron gate."
-M2346-4_5_8_3,The way to open the iron gate is on the north side of the stele.
-M2346-4_5_8_4,North side?
-M2346-4_5_8_5,"Originally, the south side of the stele was the front, where the great hero wrote his record of chasing eight villains to this place."
-M2346-4_5_8_6,"After Blood Rakshasa recovered his strength, for some reason, most of the steles turned around, the blank north side became the front, and the side with words turned to the back."
-M2346-4_5_8_7,The stele turned around? Why does it sound so strange?
-M2346-4_5_8_8,"In that case, let me go and see..."
-M2346-4_5_8_9,"""Eight thieves set up an ambush here, using all kinds of MachineryThrowing traps, full of deceit and tricks, which adds to my amusement."""
-M2346-4_5_8_10,"These are the words written by the great hero with his sword, right? It's really inspiring to read."
-M2346-4_5_8_11,It also wrote how to open this iron gate...
-M2346-4_5_8_12,What is written on the front?
-M2346-4_5_8_13,"""Blood Rakshasa imprisoned the Eight Saints here."""
-M2346-4_5_8_14,"What? This can't be Blood Rakshasa's delusion, can it?"
-M2346-4_5_8_15,"Or is this his previous plan, written in advance to deter the Eight Saints? Like ""Pang Juan died under this tree"" and so on."
-M2346-4_5_8_16,But now it seems a bit like a comedy...
-M2346-4_6_1_1,I remember you... How did you end up getting caught here?
-M2346-4_6_1_2,"Ah, don't mention it. I, Shi Heng, have fallen into this situation, and even ended up in the same cage with the likes of Pan Qing, Rotten Wood, and Empty Eaves, it's a great shame!"
-M2346-4_6_1_3,"Please, brother, go to the back of that stele and see how to open the iron gate!"
-M2346-4_6_2_1,"Brother Shi, didn't you say you were here to guard these three people? How did you all get caught?"
-M2346-4_6_2_2,"Brother, let's talk about it later, please go to the back of the stele to see how to open the iron gate first!"
-M2346-4_6_2_3,The back of the stele? Let me go and see.
-M2346-4_6_2_4,"""Eight thieves set an ambush here, with countless MachineryThrowing traps and numerous tricks, adding to my amusement."""
-M2346-4_6_2_5,"These must be the words written by the great hero with his sword, right? Just reciting them can stir up a heroic spirit."
-M2346-4_6_2_6,It also wrote how to open this iron gate...
-M2346-4_6_2_6a,You followed the instructions on the stele and used the Machinery to open the door.
-M2346-4_6_2_7,What is written on the front?
-M2346-4_6_2_8,"""Blood Rakshasa imprisoned the Eight Saints here."""
-M2346-4_6_2_9,Blood Rakshasa! I actually found his name here! Penglai Sect... what's their relationship with him?
-M2346-4_6_2_10,"""Blood Rakshasa imprisoned the eight saints here..."" Is this his plan? Or is it written in advance to intimidate the eight saints? Like ""Pang Juan died under this tree"" and so on."
-M2346-4_6_2_11,"No matter what his purpose is, I have finally found the side he has been trying to hide!"
-M2346-4_7_1_1,"Brother, you really have a good skill, I'm amazed!"
-M2346-4_7_1_2,"Thanks to your skills, brother, otherwise I, Shi Heng, would really fall here..."
-M2346-4_7_2_1,"I remember the ship sank, it's good that you guys are okay, but how did you get here, Brother Shi?"
-M2346-4_7_2_2,"When the ship sank, I quickly found a plank and swam to the nearest island with it."
-M2346-4_7_2_3,I landed on the island from the north side.
-M2346-4_7_2_4,"North side? I landed from the south side, we landed in completely different places..."
-M2346-4_7_2_5,What did you see on the north side of the island?
-M2346-4_7_2_6,"The north side of the island is just forest and mountains, at first I thought I landed on the wrong island, until I saw Pan Qing, Rotten Wood, and Empty Eaves. They also landed from the north side."
-M2346-4_7_2_7,I overheard their names.
-M2346-4_7_2_8,"I wanted to go up and say hello, but seeing their suspicious behavior, I didn't show up and followed them all the time."
-M2346-4_7_2_9,So they were the culprits who blew up the ship!
-M2346-4_7_2_10,"What happened next, how did you get caught with them?"
-M2346-4_7_2_11,"After these three people landed on the island, they wandered around like headless flies, and ended up in a deep valley. There were a lot of corpses in the valley, the scene was really horrifying."
-M2346-4_7_2_12,"Pan Qing was so scared that he wet his pants, crawling around and screaming, attracting the villains here."
-M2346-4_7_2_13,I want to go home...
-M2346-4_7_3_1,(A lot of corpses? So the method of cleaning up the battlefield is to throw all the corpses down the valley?)
-M2346-4_7_4_1,"So it is, Brother Shi, let me tell you, this is Penglai Island. If you land from the south, you will be greeted by the people of Penglai Sect, who will guide you to Penglai Sect."
-M2346-4_7_4_2,What a twist of fate...
-M2346-4_7_4_3,But the people who captured you are also from Penglai Sect.
-M2346-4_7_4_4,Are these people who can be seen as The Devil at a glance from Penglai Sect?
-M2346-4_7_4_5,"I suggest you don't go to any damn conference, this Penglai Sect is very suspicious, there might be a bloodbath."
-M2346-4_7_4_6,"But this place is also not safe, people from Penglai Sect may come back at any time..."
-M2346-4_7_4_7,There are also quite a few people patrolling in the woods...
-M2346-4_7_4_8,"Uh, I can't take care of you now, anyway, do as you please. Just keep these three ship-blowing people here. Try to find a place to hide, it's best to find a way to get away from Penglai Island."
-M2346-4_7_4_9,"Then I'll find a place where I can see the entrance of the Mountain cave to hide. When you're done, call me out."
-M2346-4_7_4_10,Please spare my life...
-M2346-4_7_4_11,"Speaking of this, I'm angry, these three people actually made me drink a belly full of seawater!"
-M2346-4_7_5_1,"Brother Shi, didn't you say you were going to watch these three people? How come you all got locked up together."
-M2346-4_7_5_2,"It's a shame, I, Shi Heng, have failed your trust, I didn't watch them, and they ran away."
-M2346-4_7_5_3,"They panicked and ran into the dense forest, I followed them. As a result, those people saw us, they were many and powerful, and I and those three were captured together."
-M2346-4_7_5_4,"It's not your fault, Brother Shi, don't take it to heart, who could have thought that there are so many forbidden areas on Penglai Island."
-M2346-4_7_5_5,"Actually, the people who captured you are also from Penglai Sect."
-M2346-4_7_5_6,"These people who can be recognized as The Devil at a glance are from Penglai Sect? I thought they were enemies of Penglai Sect, or nearby Pirates..."
-M2346-4_7_5_7,"I suggest you not to participate in any damn conference, this whole Penglai Sect is very evil, I guess there will be a disaster."
-M2346-4_7_5_8,"But this place is also not safe, people from Penglai Sect may come back at any time..."
-M2346-4_7_5_9,There are also quite a few people patrolling in the woods...
-M2346-4_7_5_10,"Uh, I can't take care of you now, anyway, do as you please. Just keep these three ship-blowing people here. Try to find a place to hide, if possible, it's best to find a way to get away from Penglai Island."
-M2346-4_7_5_11,"Then I'll find a place where I can see the entrance of the Mountain cave to hide. When you're done, call me out."
-M2346-4_7_5_12,Please spare my life...
-M2346-5_0_1,"Hero, I know I was wrong, let me go home..."
-M2346-5_0_2,"With your act of sinking the ship, don't expect me to let you go!"
-M2346-5_1_1,This place is quite suitable for you.
+M2346-4_5_5_20,"While we were sending out invitations, some kid went to the Swordsmanship Conference and caused trouble at the Three Teachings, risking the exposure of the name ""Blood Rakshasa"".","ในขณะที่พวกเรากำลังส่งคำเชิญอยู่นั้น เด็กน้อยคนหนึ่งได้บุกไปที่งานประชันยุทธ์ และก่อเรื่องที่สามนิกาย เสี่ยงที่จะเปิดเผยนาม ""รากษสโลหิต"""
+M2346-4_5_5_21,"""Penglai Sect"" is a group of villains gathered together, naturally it is impossible to be united, there is a lot of calculation and infighting between each other.",สำนักเผิงไหลน่ะรึ? ก็แค่พวกโจรที่มารวมหัวกัน จะหวังให้มันสามัคคีกันได้อย่างไร มีแต่จะคอยคิดหาผลประโยชน์และทรยศหักหลังกันไปมา
+M2346-4_5_5_22,"Usually with the prestige of Blood Rakshasa and the common goal of revenge, although there are constant frictions, there will always be one side that has to give in. But that kid completely ignited the contradictions within the ""Penglai Sect"".",ปกติแล้ว ด้วยบารมีของรากษสโลหิตและเป้าหมายร่วมในการแก้แค้น แม้จะมีความขัดแย้งกันอยู่เนืองๆ ก็ต้องมีฝ่ายใดฝ่ายหนึ่งยอมอ่อนข้อให้ แต่ไอ้เด็กคนนั้นกลับจุดชนวนให้ความขัดแย้งภายในสำนักเผิงไหลลุกลามบานปลาย
+M2346-4_5_5_23,"They all think it was done by the people under the other side, accusing each other, usually with Blood Rakshasa pressing, at most it is a matter of smashing a few cups, but Blood Rakshasa is in retreat, ""Penglai Sect"" has a huge internal strife...",ต่างฝ่ายต่างกล่าวหาว่าเป็นฝีมือของอีกฝั่ง ปกติเมื่อมีรากษสโลหิตคอยควบคุม มากสุดก็แค่ทำลายข้าวของสักสองสามชิ้น แต่คราวนี้รากษสโลหิตกลับเก็บตัว ทำให้สำนักเผิงไหลแตกเป็นเสี่ยงๆ ศึกภายในลุกลามใหญ่โต...
+M2346-4_5_5_24,"A while ago, our sect went through a great turmoil... In this chaos, I never expected it to turn out this way. I treated the chaos as a joke, bet on the wrong side, and when I rushed over, my best brothers were on the brink of death...",ไม่นานมานี้ สำนักของพวกเราเกิดความวุ่นวายครั้งใหญ่... ในความโกลาหลนั้น ข้าไม่เคยคิดว่าเรื่องจะลงเอยเช่นนี้ ข้ากลับเห็นความวุ่นวายนี้เป็นเรื่องตลก เลือกเข้าข้างผิดฝ่าย และเมื่อข้ารีบตามไป พี่น้องร่วมสาบานของข้ากำลังจะสิ้นใจ...
+M2346-4_5_5_25,"Before they died, the way they looked at me was as if they were looking at a traitor, but I wasn't... I just chose the wrong time to say the wrong things, ended up on the wrong side, and survived wrongly...",ยามใกล้สิ้นลม แววตาที่พวกเขามองมาที่ข้า เป็นดั่งสายตาที่มองคนทรยศ แต่ข้าหาใช่ไม่... ข้าเพียงแค่พลั้งปากในเวลาที่ไม่ควร ผลลัพธ์คือถูกจัดให้อยู่ผิดฝ่าย และมีชีวิตรอดมาอย่างผิดพลาด...
+M2346-4_5_5_26,"Because of this, I have nightmares every night, dreaming of those brothers standing in the fog, staring at me, silent.",เพราะเรื่องนี้ ข้าฝันร้ายทุกราตรี ฝันเห็นเหล่าพี่น้องยืนอยู่ท่ามกลางสายหมอก จ้องมองข้าด้วยความเงียบงัน ไร้วาจา
+M2346-4_5_5_27,"If I could do it all over again, I wouldn't joke around. I'd rather choose to fight with my brothers to the end, even if it means dying together, it's better than living like this.",หากข้าได้ย้อนเวลากลับไป ข้าจะไม่เห็นเป็นเรื่องสนุกสนานอีก ข้าขอเลือกที่จะสู้เคียงบ่าเคียงไหล่กับพี่น้องจนถึงที่สุด แม้ต้องตายด้วยกัน ก็ยังดีกว่ามีชีวิตอยู่เยี่ยงนี้
+M2346-4_5_5_28,"I tried to numb myself with alcohol, but it didn't work. I wanted to die, but I couldn't do it. I didn't dare to make a sound in front of the enemy who killed my brothers.",ข้าพยายามดับความทุกข์ด้วยสุรา แต่ก็ไร้ผล ข้าอยากตาย แต่ก็ไม่กล้าตาย ต่อหน้าศัตรูที่สังหารพี่น้องของข้า ข้ากลับไม่กล้าแม้แต่จะเอ่ยปาก
+M2346-4_5_5_29,"I tried gambling, telling myself to bet everything I have, even my life. If I lose my life... I might have the motivation to do it...",ข้าหันไปพึ่งการพนัน สัญญากับตนเองว่าจะเดิมพันทุกสิ่ง ทั้งทรัพย์สินและชีวิต หากข้าเสียพนันจนสิ้นเนื้อประดาตัว... บางทีข้าอาจพบความกล้าที่จะทำในสิ่งที่ควรทำมานานแล้ว...
+M2346-4_5_5_30,"But that's the thing about gambling, when you want to win, you end up losing. If you want to lose, you end up winning against all odds...",แต่นั่นแหละคือเรื่องน่าขันของการพนัน ยามที่เจ้าอยากชนะ เจ้ากลับพ่ายแพ้ยับเยิน แต่เมื่อเจ้าปรารถนาความพ่ายแพ้ กลับชนะอย่างไม่น่าเชื่อ ราวกับฟ้าเล่นตลก...
+M2346-4_5_5_31,"Until later, because of my brothers, I understood...",กระทั่งภายหลัง ที่ข้าได้พบน้องชาย ข้าจึงได้ประจักษ์แจ้ง...
+M2346-4_5_5_32,Because of me? Really?,เพราะข้างั้นหรือ? จริงๆ น่ะหรือ?
+M2346-4_5_5_33,"Yes, whether it's martial arts betting or playing dominoes or cockfighting, they're all insignificant gambling games. I was just running away. Running away from the real gamble, the real life-or-death gamble, not the one I mumbled about when I was gambling small...",ใช่แล้ว... ไม่ว่าจะเป็นการเดิมพันประลองยุทธ์ การทอยลูกเต๋า เล่นไพ่นกกระจอก หรือชนไก่ ทั้งหมดล้วนเป็นเพียงการเดิมพันที่ไร้ค่า ข้าเพียงแต่กำลังหลีกหนี หลีกหนีจากการเดิมพันครั้งใหญ่ที่แท้จริง การเดิมพันชีวิตที่ต้องเอาเป็นเอาตายกัน ไม่ใช่แค่คำพร่ำเพ้อไร้สาระที่ข้าเคยพูดยามเมามายด้วยการพนันเล็กๆ น้อยๆ เหล่านั้น...
+M2346-4_5_5_34,How do you plan to gamble?,แล้วครานี้ เจ้าจะเดิมพันด้วยวิธีใด?
+M2346-4_5_5_35,"First, I need to rescue my last surviving brother, then face Blood Rakshasa together, and then, go to die.",ประการแรก ข้าต้องช่วยน้องร่วมสาบานคนสุดท้ายให้รอดพ้นจากเงื้อมมือมาร หลังจากนั้น พวกเราจะร่วมเผชิญหน้ากับรากษสโลหิตด้วยกัน และเมื่อถึงเวลานั้น... ก็ถึงคราที่ข้าต้องจากไป
+M2346-4_5_5_36,Why do you have to face Blood Rakshasa? Give me a reason to believe in you.,เหตุใดเจ้าจึงต้องเผชิญหน้ากับรากษสโลหิต? จงให้เหตุผลที่จะทำให้ข้าเชื่อใจในตัวเจ้า
+M2346-4_5_5_37,"Because our stronghold was doing well until Blood Rakshasa came. He demanded that we join him. The leader refused, and the leader died. The second in command refused, and the second in command died. The rest agreed, and the rest became dogs.",เพราะสำนักของพวกเรารุ่งโรจน์มาตลอด จวบจนวันที่รากษสโลหิตย่างกรายมา มันบังอาจเรียกร้องให้พวกเราหมอบคลานรับใช้ หัวหน้าสำนักไม่ยอมก้มหัว... และท่านก็ถูกสังหาร รองหัวหน้าขัดขืน... และเขาก็ถูกประหาร ส่วนคนที่เหลือพากันยอมจำนน... และพวกเขาก็กลายเป็นเพียงสุนัขเฝ้าบ้านให้มัน
+M2346-4_5_5_38,We swore to die together in the same year and month. The man in the prison is my last chance to keep this oath.,พวกเราเคยสาบานต่อฟ้าดินว่าจะร่วมเป็นร่วมตายในห้วงเวลาเดียวกัน ผู้ที่ถูกขังอยู่ในคุกมืดนั่น... คือความหวังสุดท้ายของข้า ที่จะได้รักษาคำสัตย์ปฏิญาณนี้ไว้
+M2346-4_5_5_39,"By the way, it was a mess at that time. When Blood Rakshasa came out, there was only a mess left, with more than half of the manpower dead, and the plan was almost scrapped...",อีกอย่าง ตอนนั้นมันช่างวุ่นวายเหลือเกิน เมื่อรากษสโลหิตปรากฏตัว สิ่งที่เหลือไว้มีเพียงความยับเยิน กำลังพลตายไปมากกว่าครึ่ง แผนการเกือบล้มเหลวไม่เป็นท่า...
+M2346-4_5_5_40,"But he still managed to control everyone with his thunderous methods, declaring that as long as everyone cooperated fully, all past actions would be forgiven. Then he revised the plan overnight, changing from luring into the martial tomb to taking action in the main hall.",แต่มันก็ยังสามารถควบคุมทุกคนได้ด้วยวิธีการอันดุจฟ้าผ่า ประกาศว่าตราบใดที่ทุกคนให้ความร่วมมืออย่างเต็มที่ การกระทำในอดีตทั้งหมดจะได้รับการอภัย จากนั้นมันก็แก้ไขแผนการในชั่วข้ามคืน เปลี่ยนจากการล่อเข้าสุสานยุทธ์ เป็นการลงมือในห้องโถงใหญ่แทน
+M2346-4_5_5_41,"The huge gap in personnel, he revised the entire organizational structure, clarified each position's tasks, and even found a lot of small villains to fill in, these people are basically responsible for reception in the sect.",เมื่อเผชิญกับปัญหาขาดแคลนกำลังพลอย่างหนัก มันได้ปฏิรูปโครงสร้างการบริหารใหม่ทั้งหมด กำหนดหน้าที่แต่ละตำแหน่งอย่างชัดเจน อีกทั้งยังกวาดต้อนเหล่าอันธพาลไร้ยศถามาเติมเต็ม โดยมอบหมายให้พวกนี้รับผิดชอบงานต้อนรับในสำนักเป็นหลัก
+M2346-4_5_5_42,"No wonder the whole sect is in a rush and sloppy, but even if the entire ""Penglai Sect"" is in a mess, Blood Rakshasa can quickly recover the entire sect and rebuild the plan, his methods and skills are worthy of a generation of heroes.","ไม่น่าแปลกที่ทั้งสำนักจะดูสับสนวุ่นวาย แต่กระนั้น แม้ ""สำนักเผิงไหล"" ทั้งสำนักจะตกอยู่ในความโกลาหล รากษสโลหิตก็ยังสามารถพลิกฟื้นทุกสิ่งและร้อยเรียงแผนการขึ้นใหม่ได้ในพริบตา วิธีการและความสามารถของมันนั้น สมควรได้รับการขนานนามว่าเป็นยอดฝีมือแห่งยุค"
+M2346-4_5_5_43,If that's the case...,หากเป็นเช่นนั้น...
+M2346-4_op3_1,I believe you.,ข้าเชื่อเจ้า
+M2346-4_op3_2,I don't believe you.<color=#097a76>(Duel)</color>,ข้าไม่เชื่อเจ้า<color=#097a76>(เข้าสู่การต่อสู้)</color>
+M2346-4_5_6_1,"If that's the case, then I'll have to use force.",หากเป็นเช่นนั้น ข้าก็ต้องใช้กำลังเสียแล้ว
+M2346-4_5_7_1,"Brother, I'll go first...",พี่... ข้าขอตัวไปก่อนแล้ว...
+M2346-4_5_7_2,"Brothers, I'm here...",พี่น้องทั้งหลาย ข้ามาแล้ว...
+M2346-4_5_8_1,(Sigh of relief),(ถอนหายใจด้วยความโล่งอก)
+M2346-4_5_8_2,"Well then, let me tell you how to open this iron gate.",เอาล่ะ ข้าจะบอกวิธีเปิดประตูเหล็กนี้ให้
+M2346-4_5_8_3,The way to open the iron gate is on the north side of the stele.,กุญแจไขความลับของประตูเหล็กนั้น จารึกอยู่ทางทิศเหนือของแท่งศิลา
+M2346-4_5_8_4,North side?,ทิศเหนือหรือ?
+M2346-4_5_8_5,"Originally, the south side of the stele was the front, where the great hero wrote his record of chasing eight villains to this place.",แต่เดิมนั้น ด้านทิศใต้ของแท่งศิลาจารึกคือด้านหน้า ณ ที่นั้น จอมยุทธ์ผู้ยิ่งใหญ่ได้บันทึกเรื่องราวการไล่ล่าเหล่าวายร้ายทั้งแปดจนมาถึงสถานที่แห่งนี้
+M2346-4_5_8_6,"After Blood Rakshasa recovered his strength, for some reason, most of the steles turned around, the blank north side became the front, and the side with words turned to the back.",ภายหลังที่รากษสโลหิตได้ฟื้นคืนพลังอำนาจ ด้วยเหตุอันน่าพิศวง แท่งศิลาทั้งหลายพากันหันกลับด้าน ให้ด้านเหนือที่ว่างเปล่ากลายเป็นด้านหน้า ส่วนด้านที่มีอักขระจารึกกลับถูกซ่อนไว้เบื้องหลัง
+M2346-4_5_8_7,The stele turned around? Why does it sound so strange?,แท่งศิลาหันด้านเองงั้นหรือ? ทำไมมันถึงฟังดูประหลาดนักนะ?
+M2346-4_5_8_8,"In that case, let me go and see...",ถ้าอย่างนั้น ข้าจะไปดูเอง...
+M2346-4_5_8_9,"""Eight thieves set up an ambush here, using all kinds of MachineryThrowing traps, full of deceit and tricks, which adds to my amusement.""","""พวกโจรทั้งแปดตั้งกับดักซุ่มรออยู่ ณ ที่แห่งนี้ วางกลไกล้างพรางและกับระเบิดสารพัดชนิด เต็มไปด้วยเล่ห์กลและมารยา ช่างน่าขบขันยิ่งนักที่พวกมันพยายามถึงเพียงนี้"""
+M2346-4_5_8_10,"These are the words written by the great hero with his sword, right? It's really inspiring to read.",นี่คือตัวอักษรที่จอมยุทธ์ผู้ยิ่งใหญ่ใช้ดาบจารึกไว้สินะ? อ่านแล้วช่างสร้างแรงบันดาลใจจริงๆ
+M2346-4_5_8_11,It also wrote how to open this iron gate...,และในจารึกยังบอกถึงวิธีเปิดประตูเหล็กบานนี้ไว้ด้วย...
+M2346-4_5_8_12,What is written on the front?,มีอะไรจารึกอยู่ที่ด้านหน้าบ้าง?
+M2346-4_5_8_13,"""Blood Rakshasa imprisoned the Eight Saints here.""",รากษสโลหิตได้จองจำเหล่าเซียนทั้งแปดไว้ในสถานที่แห่งนี้
+M2346-4_5_8_14,"What? This can't be Blood Rakshasa's delusion, can it?",อะไรนะ? นี่คงไม่ใช่มายาภาพที่รากษสโลหิตสร้างขึ้นมาหลอกกระมัง?
+M2346-4_5_8_15,"Or is this his previous plan, written in advance to deter the Eight Saints? Like ""Pang Juan died under this tree"" and so on.",หรือนี่จะเป็นกลอุบายที่มันวางแผนไว้แต่แรก จารึกทิ้งไว้เพื่อหลอกล่อแปดเซียน? ก็เหมือนกับกลศึกในตำนาน 'ปังจวนตายใต้ต้นไม้นี้' นั่นแหละ
+M2346-4_5_8_16,But now it seems a bit like a comedy...,แต่ตอนนี้มันกลับดูเหมือนละครตลกไปซะแล้ว...
+M2346-4_6_1_1,I remember you... How did you end up getting caught here?,ข้าจำเจ้าได้... เจ้ามาติดอยู่ที่นี่ได้อย่างไรกัน?
+M2346-4_6_1_2,"Ah, don't mention it. I, Shi Heng, have fallen into this situation, and even ended up in the same cage with the likes of Pan Qing, Rotten Wood, and Empty Eaves, it's a great shame!",อา อย่าได้พูดถึงมันเลย ข้า ซือเหิง จำต้องมาตกอยู่ในสภาพอัปยศเช่นนี้ แถมยังต้องมาร่วมกรงกับพวกต่ำศักดิ์อย่างผานชิง ไม้ผุ และชายคาว่างเปล่า ช่างน่าอัปยศอดสูเสียจริง!
+M2346-4_6_1_3,"Please, brother, go to the back of that stele and see how to open the iron gate!",ได้โปรดเถิด น้องชาย รีบไปดูที่ด้านหลังศิลาจารึกนั่นที อาจมีวิธีเปิดประตูเหล็กนี้เขียนไว้!
+M2346-4_6_2_1,"Brother Shi, didn't you say you were here to guard these three people? How did you all get caught?",พี่ซือ ไม่ใช่หรือที่พี่บอกว่ามาคุมตัวคนทั้งสามนี่อยู่? แล้วทำไมถึงได้พากันมาติดกับอยู่ที่นี่กันหมด?
+M2346-4_6_2_2,"Brother, let's talk about it later, please go to the back of the stele to see how to open the iron gate first!",น้องชาย เรื่องอื่นรอไว้ก่อน! ขอร้องละ รีบไปดูที่ด้านหลังศิลาจารึกเถิด หาวิธีเปิดประตูเหล็กนี่ก่อนเป็นเรื่องสำคัญที่สุด!
+M2346-4_6_2_3,The back of the stele? Let me go and see.,ด้านหลังศิลาจารึกหรือ? เดี๋ยวข้าจะไปดู
+M2346-4_6_2_4,"""Eight thieves set an ambush here, with countless MachineryThrowing traps and numerous tricks, adding to my amusement.""","""โจรแปดคนวางกลอุบายไว้ ณ ที่นี้ พร้อมกับกลไกกับดักนับไม่ถ้วน และเล่ห์เหลี่ยมมากมาย ช่างเพิ่มความสนุกสนานให้ข้าเสียจริง"""
+M2346-4_6_2_5,"These must be the words written by the great hero with his sword, right? Just reciting them can stir up a heroic spirit.",นี่ต้องเป็นตัวอักษรที่จอมยุทธ์ผู้ยิ่งใหญ่ใช้กระบี่วาดไว้อย่างแน่นอน ใช่หรือไม่? แค่ได้ยินคำเหล่านี้ก็ทำให้จิตวิญญาณนักรบในใจลุกโชนขึ้นมาแล้ว
+M2346-4_6_2_6,It also wrote how to open this iron gate...,และที่นี่ก็ยังจารึกวิธีเปิดประตูเหล็กนี้ไว้ด้วย...
+M2346-4_6_2_6a,You followed the instructions on the stele and used the Machinery to open the door.,ท่านทำตามคำแนะนำที่จารึกไว้บนศิลา ใช้กลไกเปิดประตูออก
+M2346-4_6_2_7,What is written on the front?,แล้วที่ด้านหน้าจารึกว่าอย่างไร?
+M2346-4_6_2_8,"""Blood Rakshasa imprisoned the Eight Saints here.""","""รากษสโลหิตขังแปดเซียนไว้ ณ ที่นี้"""
+M2346-4_6_2_9,Blood Rakshasa! I actually found his name here! Penglai Sect... what's their relationship with him?,รากษสโลหิต! ไม่น่าเชื่อว่าข้าจะพบชื่อของมันที่นี่! สำนักเผิงไหล... พวกเขากับมันมีเรื่องราวอะไรกันแน่?
+M2346-4_6_2_10,"""Blood Rakshasa imprisoned the eight saints here..."" Is this his plan? Or is it written in advance to intimidate the eight saints? Like ""Pang Juan died under this tree"" and so on.","""รากษสโลหิตขังแปดเซียนไว้ ณ ที่นี้..."" จะเป็นไปได้หรือไม่ว่านี่คือแผนการของมัน? หรือบางทีมันอาจจารึกไว้ก่อนเพื่อทำลายขวัญแปดเซียน? คล้ายกับกลอุบายที่จารึก ""ผังเจวียนตายใต้ต้นไม้นี้"" นั่นเอง"
+M2346-4_6_2_11,"No matter what his purpose is, I have finally found the side he has been trying to hide!",ไม่ว่ามันจะมีจุดประสงค์อะไร ในที่สุดข้าก็พบด้านที่มันพยายามปกปิดมาตลอดเสียที!
+M2346-4_7_1_1,"Brother, you really have a good skill, I'm amazed!",น้องชาย ฝีมือท่านยอดเยี่ยมจริงๆ ข้าทึ่งมากเลย!
+M2346-4_7_1_2,"Thanks to your skills, brother, otherwise I, Shi Heng, would really fall here...",ขอบคุณในวิชาความสามารถของน้องชาย มิเช่นนั้นข้า ซือเหิง คงต้องพบจุดจบที่นี่อย่างแน่แท้...
+M2346-4_7_2_1,"I remember the ship sank, it's good that you guys are okay, but how did you get here, Brother Shi?",ข้าจำได้ว่าเรือล่มลง ดีใจที่พวกท่านปลอดภัยกันทุกคน แต่พี่ซือมาถึงที่นี่ได้อย่างไรกัน?
+M2346-4_7_2_2,"When the ship sank, I quickly found a plank and swam to the nearest island with it.",ตอนเรือล่ม ข้ารีบคว้าแผ่นกระดานได้แผ่นหนึ่ง แล้วใช้มันว่ายน้ำไปยังเกาะที่อยู่ใกล้ที่สุด
+M2346-4_7_2_3,I landed on the island from the north side.,ข้าขึ้นฝั่งที่ด้านเหนือของเกาะ
+M2346-4_7_2_4,"North side? I landed from the south side, we landed in completely different places...",ด้านเหนือหรือ? ข้าขึ้นฝั่งทางด้านใต้นะ พวกเราขึ้นฝั่งคนละที่กันเลยสินะ...
+M2346-4_7_2_5,What did you see on the north side of the island?,"""ท่านเห็นอะไรบ้างที่ด้านเหนือของเกาะหรือ?"
+M2346-4_7_2_6,"The north side of the island is just forest and mountains, at first I thought I landed on the wrong island, until I saw Pan Qing, Rotten Wood, and Empty Eaves. They also landed from the north side.",ทางเหนือของเกาะมีแต่ป่าและภูเขา ตอนแรกข้าก็นึกว่าตนเองมาขึ้นผิดเกาะเสียอีก จนกระทั่งได้พบกับผานชิง ไม้ผุ และเอ้อหลานเยี่ย พวกเขาก็ขึ้นฝั่งมาจากทางเหนือเช่นกัน
+M2346-4_7_2_7,I overheard their names.,ข้าแอบได้ยินชื่อของพวกเขา
+M2346-4_7_2_8,"I wanted to go up and say hello, but seeing their suspicious behavior, I didn't show up and followed them all the time.",ข้าอยากจะเข้าไปทักทาย แต่เมื่อเห็นพฤติกรรมน่าสงสัยของพวกเขา ข้าจึงไม่แสดงตัว และคอยแอบติดตามพวกเขาตลอดเวลา
+M2346-4_7_2_9,So they were the culprits who blew up the ship!,อ้อ! พวกมันนี่เองที่เป็นคนวางระเบิดเรือ!
+M2346-4_7_2_10,"What happened next, how did you get caught with them?",แล้วเกิดอะไรขึ้นต่อ พวกเขาจับตัวท่านได้อย่างไร?
+M2346-4_7_2_11,"After these three people landed on the island, they wandered around like headless flies, and ended up in a deep valley. There were a lot of corpses in the valley, the scene was really horrifying.",หลังจากขึ้นฝั่งได้ คนทั้งสามก็เดินวนเวียนไปมาอย่างไร้จุดหมาย ราวกับแมลงวันที่ถูกตัดหัว สุดท้ายก็พาตัวเองเข้าไปในหุบเขาลึก ที่นั่น... เต็มไปด้วยซากศพนับไม่ถ้วน ภาพที่ได้เห็นมันช่างน่าสยดสยองเกินจะบรรยาย
+M2346-4_7_2_12,"Pan Qing was so scared that he wet his pants, crawling around and screaming, attracting the villains here.",ผานชิงตกใจจนฉี่ราด คลานไปมาพลางกรีดร้องเสียงหลง จนเป็นเหตุให้พวกวายร้ายพากันมาที่นี่
+M2346-4_7_2_13,I want to go home...,ข้า...อยากกลับบ้าน...
+M2346-4_7_3_1,(A lot of corpses? So the method of cleaning up the battlefield is to throw all the corpses down the valley?),(ศพมากมายในหุบเขา... น่าจะเข้าใจแล้ว นี่คงเป็นวิธีที่พวกเขาจัดการทำความสะอาดสนามรบสินะ โยนศพทั้งหมดทิ้งลงหุบเขาให้พ้นๆ)
+M2346-4_7_4_1,"So it is, Brother Shi, let me tell you, this is Penglai Island. If you land from the south, you will be greeted by the people of Penglai Sect, who will guide you to Penglai Sect.",ถูกต้องแล้วขอรับ พี่สือ ข้าจะบอกความจริงให้ท่านรู้ ที่นี่คือเกาะเผิงไหล ตามธรรมเนียมแล้ว ผู้ที่เดินทางมาทางทิศใต้ของเกาะจะได้รับการต้อนรับจากศิษย์สำนักเผิงไหล พวกเขาจะนำทางท่านไปยังสำนักอย่างปลอดภัย
+M2346-4_7_4_2,What a twist of fate...,ช่างเล่นตลกเสียจริง... โชคชะตานี่..
+M2346-4_7_4_3,But the people who captured you are also from Penglai Sect.,แต่คนที่จับกุมพวกเจ้าก็เป็นคนจากสำนักเผิงไหลเช่นกัน
+M2346-4_7_4_4,Are these people who can be seen as The Devil at a glance from Penglai Sect?,พวกคนที่ดูเหมือนปีศาจตั้งแต่แรกเห็นพวกนี้... เป็นคนของสำนักเผิงไหลงั้นรึ?
+M2346-4_7_4_5,"I suggest you don't go to any damn conference, this Penglai Sect is very suspicious, there might be a bloodbath.",ฟังข้านะ อย่าไปงานประชุมบ้าๆ นั่นเลย สำนักเผิงไหลนี่มันมีเลศนัยบางอย่าง... ข้าเกรงว่าจะต้องมีการนองเลือดเกิดขึ้นแน่
+M2346-4_7_4_6,"But this place is also not safe, people from Penglai Sect may come back at any time...",แต่อยู่ที่นี่ก็ไม่ปลอดภัยหรอก... พวกสำนักเผิงไหลอาจจะย้อนกลับมาเมื่อไรก็ได้ทั้งนั้น
+M2346-4_7_4_7,There are also quite a few people patrolling in the woods...,ในป่านั่นก็มีคนเดินลาดตระเวนอยู่เยอะทีเดียว... 
+M2346-4_7_4_8,"Uh, I can't take care of you now, anyway, do as you please. Just keep these three ship-blowing people here. Try to find a place to hide, it's best to find a way to get away from Penglai Island.",อืม... ตอนนี้ข้าคงช่วยอะไรพวกท่านไม่ได้มากแล้ว ทำตามที่เห็นควรเถอะ แต่ขอแค่ช่วยเฝ้าสามคนที่ทำลายเรือนั่นไว้ให้ดี แล้วก็รีบหาที่หลบซ่อนตัวด้วย ถ้าทำได้... ทางที่ดีที่สุดคือหาทางหนีออกจากเกาะเผิงไหลนี่ไปเลย
+M2346-4_7_4_9,"Then I'll find a place where I can see the entrance of the Mountain cave to hide. When you're done, call me out.",งั้นข้าจะไปหาที่ซ่อนตัวตรงจุดที่มองเห็นปากถ้ำได้ เมื่อไหร่ที่พวกเจ้าเสร็จธุระแล้ว ก็เรียกข้าออกมา
+M2346-4_7_4_10,Please spare my life...,ได้โปรดไว้ชีวิตข้าด้วย...
+M2346-4_7_4_11,"Speaking of this, I'm angry, these three people actually made me drink a belly full of seawater!",พูดถึงเรื่องนี้แล้วข้าก็โมโห ไอ้พวกสามคนนั่นมันทำให้ข้าต้องกินน้ำทะเลเข้าไปจนท้องกางเชียวนะ!
+M2346-4_7_5_1,"Brother Shi, didn't you say you were going to watch these three people? How come you all got locked up together.",พี่สือ ก็ท่านบอกเองนี่ว่าจะคอยเฝ้าพวกสามคนนี้ไว้... แล้วนี่มันเกิดอะไรขึ้น ถึงได้มาติดอยู่ในกรงเดียวกันแบบนี้?
+M2346-4_7_5_2,"It's a shame, I, Shi Heng, have failed your trust, I didn't watch them, and they ran away.",น่าละอายนัก ข้า สือเหิง ทำให้ความไว้วางใจของท่านต้องสูญเปล่า ข้าดูแลพวกมันไม่ดี จนพวกมันหนีไปได้
+M2346-4_7_5_3,"They panicked and ran into the dense forest, I followed them. As a result, those people saw us, they were many and powerful, and I and those three were captured together.",พวกมันตื่นตระหนกวิ่งเข้าไปในป่าทึบ ข้าก็ไล่ตามไป สุดท้ายพวกนั้นก็เห็นพวกเรา พวกมันมีคนมากและแข็งแกร่งเกินต้าน ข้าเลยถูกจับพร้อมกับคนทั้งสามนั่น
+M2346-4_7_5_4,"It's not your fault, Brother Shi, don't take it to heart, who could have thought that there are so many forbidden areas on Penglai Island.",อย่าโทษตัวเองไปเลย พี่สือ มันไม่ใช่ความผิดของท่านสักหน่อย ใครจะไปคาดคิดล่ะว่าเกาะเผิงไหลนี้จะมีเขตต้องห้ามอยู่มากมายขนาดนี้
+M2346-4_7_5_5,"Actually, the people who captured you are also from Penglai Sect.",ที่จริงแล้ว คนที่จับพวกท่านไปก็เป็นคนจากสำนักเผิงไหลนั่นแหละ
+M2346-4_7_5_6,"These people who can be recognized as The Devil at a glance are from Penglai Sect? I thought they were enemies of Penglai Sect, or nearby Pirates...",พวกที่ดูเหมือนพวกมารร้ายแต่แรกเห็นพวกนี้ เป็นคนจากสำนักเผิงไหลงั้นรึ? ข้านึกว่าเป็นศัตรูของสำนักเผิงไหล หรือไม่ก็พวกโจรสลัดแถวนี้เสียอีก...
+M2346-4_7_5_7,"I suggest you not to participate in any damn conference, this whole Penglai Sect is very evil, I guess there will be a disaster.",ข้าแนะนำจริงๆ ว่าอย่าไปข้องเกี่ยวกับการประชุมบ้าๆ บอๆ นั่นเลย สำนักเผิงไหลทั้งสำนักมันเน่าถึงแก่นแล้ว ข้าสังหรณ์ใจว่าต้องเกิดเรื่องใหญ่แน่ๆ
+M2346-4_7_5_8,"But this place is also not safe, people from Penglai Sect may come back at any time...",แต่อยู่ที่นี่ก็ไม่ปลอดภัยหรอก... พวกสำนักเผิงไหลอาจจะย้อนกลับมาเมื่อไรก็ได้ทั้งนั้น
+M2346-4_7_5_9,There are also quite a few people patrolling in the woods...,ในป่านั่นก็มีคนเดินลาดตระเวนอยู่เยอะทีเดียว... 
+M2346-4_7_5_10,"Uh, I can't take care of you now, anyway, do as you please. Just keep these three ship-blowing people here. Try to find a place to hide, if possible, it's best to find a way to get away from Penglai Island.",อืม... ตอนนี้ข้าคงช่วยอะไรพวกท่านไม่ได้มากแล้ว ทำตามที่เห็นควรเถอะ แต่ขอแค่ช่วยเฝ้าสามคนที่ทำลายเรือนั่นไว้ให้ดี แล้วก็รีบหาที่หลบซ่อนตัวด้วย ถ้าทำได้... ทางที่ดีที่สุดคือหาทางหนีออกจากเกาะเผิงไหลนี่ไปเลย
+M2346-4_7_5_11,"Then I'll find a place where I can see the entrance of the Mountain cave to hide. When you're done, call me out.",งั้นข้าจะไปหาที่ซ่อนตัวตรงจุดที่มองเห็นปากถ้ำได้ เมื่อไหร่ที่พวกเจ้าเสร็จธุระแล้ว ก็เรียกข้าออกมา
+M2346-4_7_5_12,Please spare my life...,ได้โปรดไว้ชีวิตข้าด้วย...
+M2346-5_0_1,"Hero, I know I was wrong, let me go home...",ท่านจอมยุทธ์ ข้าน้อยรู้แล้วว่าตัวเองผิด ได้โปรดปล่อยให้ข้าน้อยกลับบ้านเถิด...
+M2346-5_0_2,"With your act of sinking the ship, don't expect me to let you go!",ด้วยการกระทำที่เจ้าวางระเบิดเรือให้จมเช่นนี้ เจ้าอย่าได้หวังเลยว่าข้าจะปล่อยเจ้าไป
+M2346-5_1_1,This place is quite suitable for you.,ที่นี่มันเหมาะกับคนอย่างพวกเจ้าแล้ว
 M2346-5_1_2,"After I finish my business, I will consider taking you back to the Central Plains, but if you dare to step out of this prison, I will dismantle your wheel, understand?"
 M2346-5_1_3,……
 M2346-5_2_1,"You'd better not have any crooked ideas, just stay here."
@@ -873,12 +873,12 @@ M2348-1_0_4_3,"""Fifth is Miao Shang Er who spreads plague everywhere, sixth is 
 M2348-1_0_4_4,"(The first few seem indeed insane and extremely evil, but are those who can't distinguish between men and women and force people to listen to music also worthy of sitting at the same table with them?)"
 M2348-1_0_4_5,(This Gong Sun Shuo who forces people to listen to music has some style of a madman.)
 M2348-1_1_1_1,"""These eight people, although their sins are different in severity, they are united and act together, now they have escaped here. They even learn from the sages and carve their life experiences on the stone wall, leaving them for future generations, like monkeys wearing crowns, their characters are as ugly as insects, their sentences are chaotic and incoherent, making people laugh."""
-M2348-1_1_1_2,(Does the great hero have a strong cultural bias?)
+M2348-1_1_1_2,(Does the great hero have a strong cultural bias?),(จอมยุทธ์ผู้ยิ่งใหญ่ผู้นี้มีทัศนคติเหยียดวัฒนธรรมอย่างรุนแรงเลยนี่หว่า?)
 M2348-1_1_1_3,"""After the eight thieves were executed, I read the whole text, although it is The Devil, there are some good points, I am pleased. So I thought for seven days, erased the original text, blended the works of the thieves with my lifelong learning, and carved them into six rooms."""
 M2348-1_1_1_4,"""These six rooms, the first is sword, the second is Confucianism, the third is Buddhism, the fourth is Taoism, the fifth is Longevity, the sixth is devil."""
 M2348-1_1_1_5,"(Long...Longevity! Is it true? If this is known by some princes and ambitious people, wouldn't it cause chaos in the world and there will be no peace?)"
 M2348-1_1_1_6,"""What a pity! What a pity! I don't know the way of the military, the art of numbers, otherwise I would have eight families, wouldn't they correspond one by one?"""
-M2348-1_1_1_7,"(The great hero also has a bit of obsessive-compulsive disorder? But he knows martial arts, Confucianism, Buddhism, Taoism, as well as the way of longevity and the devil, he is already a learned person in the world.)"
+M2348-1_1_1_7,"(The great hero also has a bit of obsessive-compulsive disorder? But he knows martial arts, Confucianism, Buddhism, Taoism, as well as the way of longevity and the devil, he is already a learned person in the world.)",(จอมยุทธ์ผู้ยิ่งใหญ่ผู้นี้ดูจะมีอาการย้ำคิดย้ำทำอยู่บ้าง? แต่กระนั้น ท่านก็แตกฉานทั้งวรยุทธ์ ปรัชญาขงจื๊อ ธรรมของพุทธองค์ และ วิถีธรรมชาติของเต๋า ทั้งยังล่วงรู้เคล็ดลับชีวิตนิรันด์และวิถีมาร นับว่าเป็นผู้รู้แจ้งแห่งใต้หล้าแล้ว)
 M2348-1_1_1_8,Hmm... I've read it all.
 M2348-1_1_2_1,"""These eight people, Fu Yaozi disregarded the contradiction of lifespan, falsely claimed to be a friend of the founding emperor, and arbitrarily decided the martial arts of the Central Plains. Zhong Yangzi is the head of the Taoist Sect, forcibly twisting the old and the new, and arbitrarily seizing the way of heaven."""
 M2348-1_1_2_2,"""Hui Yuan presides over Shifa Temple, sits on the land, and hides evil in his heart. Jian Chi, as the Pavilion Master of Langya Sword Pavilion, only cares about the Appliance, not the people's livelihood. Tang Tai Jun, the Manor Lord of Beast Manor, respects beasts and belittles humans."""
@@ -890,7 +890,7 @@ M2348-1_2_2_2,"(If the Eight Saints really died here, no matter how they died, w
 M2348-1_3_1_1,"""Wusa Raya and his dog's tomb, this man is a Yan Yun person. Trapped in the Secret Chamber with his beloved dog, the smell of blood from his wounds aroused the dog's appetite, and the man and the dog fought each other, both dying in the martial tomb."""
 M2348-1_3_2_1,"""The tomb of Zhong Yangzi, the head of the Taoist Sect. He tried to understand the Taoist tomb but failed, and died because of his strong resistance to Yin and Yang."""
 M2348-1_4_1_1,"""The tomb of He Gao Fu, a man from the southeast. In the past, he twisted right and wrong, misjudged cases. Today, under my judgment, he cut out his own heart and liver for Yuan Wen Zi and died."""
-M2348-1_4_1_2,The actions of this great hero... don't seem like a righteous hero at all?
+M2348-1_4_1_2,The actions of this great hero... don't seem like a righteous hero at all?,การกระทำของจอมยุทธ์ผู้ยิ่งใหญ่นี้... เหตุใดจึงไม่เหมือนจอมยุทธ์ผู้ผดุงคุณธรรมเลยสักนิด?
 M2348-1_4_2_1,"Humph, how can a righteous hero practice and study magic skills?"
 M2348-1_4_3_1,"""The tomb of Hui Yuan, the head of Shifa Temple. He tried to understand the Buddha's tomb but failed, and died in obsession, hearing the Buddha's reprimand, and scared witless."""
 M2348-1_4_3a_1,Hearing Buddha's rebuke? This story sounds incredibly amazing!
@@ -898,7 +898,7 @@ M2348-1_4_3a_2,This... isn't it cursing Hui Yuan Abbot? Why do you seem to enjoy
 M2348-1_4_3a_3,"Monks walk uprightly, sit uprightly, naturally not afraid of such boring curses, but this ""Hearing Buddha's rebuke"" is much more interesting than the stories in the Buddhist scriptures!"
 M2348-1_5_1_1,"""The tomb of Yuan Wen Zi, a man from Zhongzhou. In pursuit of immortality, he studied the Taoist scriptures. He intended to combine the wonders of external and internal alchemy, but ended up taking human organs into the alchemy furnace, a grave mistake with a heavy blood debt."""
 M2348-1_5_1_2,"""Listen to my words, think that you can become an immortal, grateful and tearful, throw yourself into the alchemy furnace, and die in the fire."""
-M2348-1_5_1_3,"This great hero's mouth is really powerful, he actually persuaded this villain to throw himself into the alchemy furnace and die, and before he died, he thanked the great hero for pointing out the way to become an immortal."
+M2348-1_5_1_3,"This great hero's mouth is really powerful, he actually persuaded this villain to throw himself into the alchemy furnace and die, and before he died, he thanked the great hero for pointing out the way to become an immortal.",คารมของจอมยุทธ์ผู้ยิ่งใหญ่ผู้นี้ช่างร้ายกาจยิ่งนัก ถึงกับใช้เพียงวาจาหว่านล้อมให้คนชั่วผู้นั้นกระโดดลงเตาหลอมโอสถตายเองได้ แถมก่อนสิ้นใจยังเอ่ยขอบคุณที่ชี้แนะหนทางสู่ความเป็นเซียนอีกด้วย
 M2348-1_5_2_1,This combination of external and internal alchemy sounds really weird... The so-called external alchemy is to throw various metals and minerals into the alchemy furnace.
 M2348-1_5_2_2,"The so-called internal alchemy is to regard the human body as a furnace, the human body's meridians as the channels of internal alchemy, and condense the ""essence"", ""qi"", and ""spirit"" into a pill. In fact, it's just a health practice."
 M2348-1_5_2_3,"To combine these two and come up with the terrifying act of dissecting human organs and throwing them into the furnace in order to refine the pill, this Yuan Wenzi is also a big devil..."
@@ -913,7 +913,7 @@ M2348-1_5_4_4,"I don't know if this Yuan Wenzi has damaged his brain by consumin
 M2348-1_5_5_1,"""The living tomb of Cai Yuanchang, the head of the Confucius Temple, who was greedy for the art of longevity, succeeded, and was forever trapped in the tomb of longevity."""
 M2348-1_5_5_2,"What's going on? Could the art of Longevity here be real? But it's said that once mastered, one is forever trapped in the Tomb of Longevity. Is there some mystery to this?"
 M2348-1_6_1_1,"""The tomb of Miao Shang Er, a man from the southwestern Jiuli. On the surface a traveling merchant, but wherever he went, he spread plague. When I cornered him, we fought with poison, and he lost and died."""
-M2348-1_6_1_2,"The great hero is actually proficient in toxicology, truly remarkable, truly remarkable."
+M2348-1_6_1_2,"The great hero is actually proficient in toxicology, truly remarkable, truly remarkable.",จอมยุทธ์ผู้ยิ่งใหญ่ผู้นี้ยังเชี่ยวชาญศาสตร์พิษอีกด้วย ช่างน่าทึ่ง น่าทึ่งยิ่งนัก
 M2348-1_6_2_1,"""The tomb of Jian Chi, the head of the Langya Sword Pavilion, who failed to comprehend the sword tomb and died in a fight with his inner demons."""
 M2348-1_6_2_2,"This reason feels like it was made up on the spot, just to get it over with..."
 M2348-1_7_1_1,"""The tomb of Ming Xiao Sheng, a man from Xiangfan. Born with the ability to read minds, he could read the hearts of those in front of him. He liked to spread rumors and disrupt order, leading people astray and ruining their lives."""
@@ -960,8 +960,8 @@ M2348-2_3_6,(He clenched the jade pendant.)
 M2348-2_3_7,For my parents!
 M2348-2_4_1,It seems that we have a common enemy...
 M2348-2_5_1,"After losing his power, Blood Rakshasa has always held a grudge against the Eight Saints. He traveled around, always looking for a way to recover his power."
-M2348-2_5_2,"After countless failures, he decided to follow the path of the great hero. This direction was correct, he succeeded, he found this island."
-M2348-2_5_3,"This island is where the great hero of Chuxiang City chased and killed the eight thieves. He buried the eight thieves here, leaving behind unparalleled martial arts, so this cave is called ""Martial Tomb""."
+M2348-2_5_2,"After countless failures, he decided to follow the path of the great hero. This direction was correct, he succeeded, he found this island.",หลังจากล้มเหลวมานับครั้งไม่ถ้วน เขาตัดสินใจที่จะตามรอยเส้นทางที่จอมยุทธ์ผู้ยิ่งใหญ่นั้นเคยเดิน และเส้นทางนี้ถูกต้องแล้ว ในที่สุดเขาก็ทำสำเร็จ เขาได้พบเกาะแห่งนี้
+M2348-2_5_3,"This island is where the great hero of Chuxiang City chased and killed the eight thieves. He buried the eight thieves here, leaving behind unparalleled martial arts, so this cave is called ""Martial Tomb"".","เกาะแห่งนี้คือสถานที่ ที่จอมยุทธ์ผู้ยิ่งใหญ่แห่งเมืองฉู่เซียงได้ไล่ล่าแปดโจร เขาฝังร่างแปดโจรไว้ที่นี่ และทิ้งยอดเคล็ดวิชาไว้ จึงเป็นที่มาของชื่อถ้ำ ""สุสานยุทธ์"""
 M2348-2_5_4,"Although he lost all his power, Blood Rakshasa has many other abilities. He killed all the fishermen here by himself, broke the traps set by my father, unlocked the machinery that sealed the Martial Tomb, and came to the place where you and I are standing."
 M2348-2_5_5,"Here, he found a demonic skill in the ""Demon"" Martial Tomb that could be learned without power, and he devoted himself to learning it for more than ten years, recovering his power to about 60-70% of his previous level."
 M2348-2_5_6,"With this 60-70% power, he could return to the Central Plains, gather the villains from various places, and make them submit with his domineering methods."
@@ -1008,16 +1008,16 @@ M2348-2_6_26,"I need to return here, only by mastering my family's unique skill 
 M2348-2_6_27,(Taps the jade pendant with his knuckles.)
 M2348-2_6_28,Your family's martial arts?
 M2348-2_7_1,The name engraved on that stele is my great-grandfather's.
-M2348-2_7_2,"This row of tombstones here are the graves of the eight thieves who were hunted down by the great hero, which is why the great hero named this cave ""Martial Tomb""."
-M2348-2_7_3,"My great-grandfather, Gongsun Shuo, was the only one spared by the great hero."
-M2348-2_7_4,"The great hero punished my great-grandfather by making his descendants guard these graves here. After my great-grandfather passed away, my grandfather and father came here to take his place."
+M2348-2_7_2,"This row of tombstones here are the graves of the eight thieves who were hunted down by the great hero, which is why the great hero named this cave ""Martial Tomb"".","เหล่าศิลาจารึกที่เรียงรายอยู่ ณ ที่นี้ คือป้ายหลุมศพของแปดโจรที่จอมยุทธ์ผู้ยิ่งใหญ่ผู้นั้นไล่ล่า และนี่คือเหตุผลที่จอมยุทธ์ผู้ยิ่งใหญ่เรียกถ้ำแห่งนี้ว่า ""สุสานยุทธ์"""
+M2348-2_7_3,"My great-grandfather, Gongsun Shuo, was the only one spared by the great hero.",ปู่ทวดของข้า กงซุนซั่ว เป็นเพียงผู้เดียวที่จอมยุทธ์ผู้ยิ่งใหญ่นั้นเมตตาไว้ชีวิตให้
+M2348-2_7_4,"The great hero punished my great-grandfather by making his descendants guard these graves here. After my great-grandfather passed away, my grandfather and father came here to take his place.",จอมยุทธ์ผู้ยิ่งใหญ่ลงทัณฑ์ปู่ทวดของข้า ให้เฝ้าสุสานแห่งนี้สืบไปชั่วลูกหลาน ครั้นปู่ทวดล่วงลับ ปู่และบิดาจึงมาทำหน้าที่แทน
 M2348-2_7_5,"My grandfather told me that our ancestor was well-versed in the Musical arts, but his son, my grandfather, didn't like Musical and was more interested in the Heart-Viewing Technique of one of the eight thieves, Ming Xiao Sheng."
 M2348-2_7_5a,"His grandson, my father, had no interest in Musical or the Heart-Viewing Technique, and was more obsessed with Machinery."
 M2348-2_7_6,"Later, my father fell seriously ill because he couldn't adapt to the local environment. My grandfather chose to break his promise and took my father to run away. The vow was changed from ""guard here for generations"" to ""guard this secret for generations""."
 M2348-2_7_7,So Blood Rakshasa came to your family because of your family's connection with this Martial Tomb...
 M2348-2_7_8,"Perhaps because he had already broken his promise once and felt guilty, my grandfather watched my parents die without saying a word..."
 M2348-2_7_9,"That's too extreme, it sounds like your grandfather lived in the era before the unification of the six countries."
-M2348-2_7_10,"After my great-grandfather died, when my grandfather was still guarding the Martial Tomb, the great hero came to visit and gave him some pointers on the Heart-Viewing Technique."
+M2348-2_7_10,"After my great-grandfather died, when my grandfather was still guarding the Martial Tomb, the great hero came to visit and gave him some pointers on the Heart-Viewing Technique.",หลังจากปู่ทวดของข้าสิ้นชีพ ขณะที่ปู่ยังคงเฝ้าสุสานยุทธ์นี้อยู่ จอมยุทธ์ผู้ยิ่งใหญ่เคยเดินทางมาตรวจดู และยังได้ถ่ายทอดเคล็ดลับสำคัญบางประการเกี่ยวกับวิชา ทรรศนะจิต ให้แก่ปู่ด้วย
 M2348-2_7_11,"With these pointers and the contents of the Martial Tomb, my grandfather finally understood the Heart-Viewing Technique, even surpassing Mingxiaosheng."
 M2348-2_7_12,"After he understood it, he was greatly shocked for some reason, afraid to learn it, but he couldn't bear to waste his efforts, so he wrote a small booklet called ""The True Scripture of Heart-Viewing""."
 M2348-2_7_13,He hid this booklet and didn't let anyone in the family learn it. Anyone who read it without permission would have their tendons cut and be expelled from the family.
@@ -1060,21 +1060,21 @@ M2348-2_14_2,"Classic of Mountains and Seas, Water Margin Story! Bao's trials, a
 M2348-2_15_1,"I have traveled all over the world, but I can't find these books... they actually appeared in your hands!"
 M2348-2_16_1,"But they are just external things. For me, they are just the bonus items I found in the rivers and lakes looking for opportunities for revenge. The only use is to give them to others to build relationships."
 M2348-2_16_2,"You gave me so many precious gifts, what is your purpose? What do you mean by your so-called experiment?"
-M2348-2_16_3,"When the great hero was writing the epitaph for the eight thieves Mingxiao Sheng, in addition to the literal meaning, there was also the true meaning."
-M2348-2_16_4,"Because I have learned the ""Heart Sutra"", I read the true meaning left by the great hero from the lines."
+M2348-2_16_3,"When the great hero was writing the epitaph for the eight thieves Mingxiao Sheng, in addition to the literal meaning, there was also the true meaning.",ยามที่จอมยุทธ์ผู้ยิ่งใหญ่สลักอักษรบนศิลาจารึกของแปดโจรนามว่า หมิงเซี่ยวเซิง นอกเหนือจากความหมายผิวเผินที่อ่านได้ทั่วไป ยังมีนัยยะแฝงเร้นซ่อนอยู่อีกด้วย
+M2348-2_16_4,"Because I have learned the ""Heart Sutra"", I read the true meaning left by the great hero from the lines.","เพราะข้าได้ฝึกฝน ""คัมภีร์ทรรศนะจิต"" ข้าจึงสามารถอ่านความหมายที่แท้จริงที่จอมยุทธ์ผู้ยิ่งใหญ่ทิ้งไว้ได้จากตัวอักษรและถ้อยคำเหล่านั้นได้"
 M2348-2_16_5,"I want to see what will happen if you, who have not learned the ""Heart Sutra"", listen to my interpretation."
 M2348-2_16_6,"To be honest, various symptoms may occur, including dizziness, vertigo, vomiting, eye pain, convulsions, soul departure, loss of sense of direction, madness, or temporary fainting."
 M2348-2_16_7,"When these problems occur, you immediately stop, and I will try my best to save you."
-M2348-2_16_8,"...Alright, I'm curious to see how powerful the words left by the great hero are."
+M2348-2_16_8,"...Alright, I'm curious to see how powerful the words left by the great hero are.",…ก็ได้ ข้าก็อยากจะประจักษ์สักครา ว่าอักษรที่จอมยุทธ์ผู้ยิ่งใหญ่ทิ้งไว้จะแฝงเร้นความลับใด
 M2348-2_16_9,Come with me.
 M2348-2_16_10,"Move with Gongsun Hui to the back of Mingxiaosheng's tombstone,"
 M2348-2_16_11,"You read through the inscription once, then listen to me explain."
 M2348-2_16_12,"""The tomb of Ming Xiaosheng, a gentleman from Xiangfan. Born with the ability to read minds, he could read the hearts of those in front of him. He liked to spread rumors and disrupt order, leading people astray and ruining their lives."
 M2348-2_16_13,"But his heart was not made of wood or stone, he also had emotions and desires. He pursued Mo Yitang in vain, and died after being persuaded to give up his wealth."""
-M2348-2_16_14,"This man did not die at the hands of the great hero, but was killed by his companions."
-M2348-2_16_15,"Of the eight people here, except for my great-grandfather, all died directly or indirectly at the hands of the great hero."
-M2348-2_16_16,"According to my great-grandfather, this Mo Yitang, from the first moment he saw the great hero, was infatuated with him. With a wave of the great hero's hand, Mo Yitang was willing to kill Mingxiaosheng for him."
-M2348-2_16_17,Ah... the great hero is indeed charming.
+M2348-2_16_14,"This man did not die at the hands of the great hero, but was killed by his companions.",ผู้นี้มิได้ตายด้วยมือของจอมยุทธ์ผู้ยิ่งใหญ่ แต่ถูกเพื่อนพ้องหักหลังสังหาร
+M2348-2_16_15,"Of the eight people here, except for my great-grandfather, all died directly or indirectly at the hands of the great hero.",แปดคนที่อยู่ ณ ที่นี้ นอกเหนือจากปู่ทวดของข้า ล้วนแล้วแต่สิ้นชีพด้วยน้ำมือของจอมยุทธ์ผู้ยิ่งใหญ่ ไม่ว่าโดยตรงหรือโดยอ้อม
+M2348-2_16_16,"According to my great-grandfather, this Mo Yitang, from the first moment he saw the great hero, was infatuated with him. With a wave of the great hero's hand, Mo Yitang was willing to kill Mingxiaosheng for him.",ตามที่ปู่ทวดของข้ากล่าวไว้ ม่ออี๋ถังผู้นี้ เมื่อได้พบกับจอมยุทธ์ผู้ยิ่งใหญ่เป็นครั้งแรก ก็หลงใหลในตัวท่านทันที เพียงแค่จอมยุทธ์ผู้ยิ่งใหญ่โบกมือ ม่ออี๋ถังก็ยอมสังหารหมิงเซี่ยวเซิงให้ท่าน
+M2348-2_16_17,Ah... the great hero is indeed charming.,อา...จอมยุทธ์ผู้ยิ่งใหญ่ผู้นั้นช่างมีเสน่ห์ล้นเหลือจริงๆ
 M2348-2_16_18,"Alright, enough gossip, listen to me recite."
 M2348-2_16_19,"As Gongsun Hui begins to recite the interpretation of the inscription by the Heart Observation Technique, you find the principles within are not strangers, you seem to have understood them long ago..."
 M2348-2_16_20,"Your vision gradually darkens, and you slowly enter into an illusion..."
@@ -1125,12 +1125,12 @@ M2348-2_21_1,I didn't expect there to be another me in this world...,ข้า�
 M2348-2_21_2,"I have to admit, I do have the same mentality.",ถ้าให้พูดตรงๆ ข้าเองก็มีความคิดเช่นนี้เหมือนกัน
 M2348-2_21_3,"Most importantly, we always feel that you don't belong here, and one day you will run away from here, run away from everyone and everything, right?"
 M2348-2_21_4,"That's right. I always feel that when this journey is over, I won't appear here again."
-M2348-2_21_5,"The great hero thought the same way, so he disappeared without a trace, just like a legend."
+M2348-2_21_5,"The great hero thought the same way, so he disappeared without a trace, just like a legend.",จอมยุทธ์ผู้ยิ่งใหญ่ก็คงคิดเช่นนั้น ท่านจึงหายสาบสูญไปอย่างไร้ร่องรอย ดุจดั่งตำนานที่เล่าขานกันมา
 M2348-2_21_6,And the reason I feel this way is because I've already seen my own end.
 M2348-2_22_1,Don't compare me with people like you! I treat people sincerely and interact with them with my heart. I treat my girls with sincerity!
 M2348-2_22_2,"Don't deceive yourself, please ask yourself. Aren't you always going to run away from here, run away from everyone and everything, right?"
 M2348-2_22_3,……,……
-M2348-2_22_4,"The great hero thought the same way, so he disappeared without a trace, just like a legend."
+M2348-2_22_4,"The great hero thought the same way, so he disappeared without a trace, just like a legend.",จอมยุทธ์ผู้ยิ่งใหญ่ก็คงคิดเช่นนั้น ท่านจึงหายสาบสูญไปอย่างไร้ร่องรอย ดุจดั่งตำนานที่เล่าขานกันมา
 M2348-2_22_5,And the reason I feel this way is because I've already seen my own end.
 M2348-2_23_1,……,……
 M2348-2_23_2,"Actually, I wasn't excited just now, I was delighted."
@@ -1143,7 +1143,7 @@ M2348-2_23_8,"What Blood Rakshasa learned is the content of the Demon Martial To
 M2348-2_23_9,"Once {Me} opens the Demon Martial Tomb and understands its content, {Me} will naturally open the stone door. Where you go then is up to you."
 M2348-2_23_10,Alright. But what if {Me} also wants to try to comprehend the content of the martial tomb?
 M2348-2_23_11,"Just go ahead and comprehend, when you want to comprehend, I will assist you, telling you which parts have been modified by Blood Rakshasa."
-M2348-2_23_12,"The last person with the innate ability to observe the heart was a great hero. You and the great hero are the same kind of people, perhaps your comprehension will be even smoother than {Me}'s."
+M2348-2_23_12,"The last person with the innate ability to observe the heart was a great hero. You and the great hero are the same kind of people, perhaps your comprehension will be even smoother than {Me}'s.",ผู้ที่มีญาณทรรศนะจิตโดยกำเนิดคนก่อนหน้านี้ ก็คือจอมยุทธ์ผู้ยิ่งใหญ่ผู้นั้น ท่านกับจอมยุทธ์ผู้ยิ่งใหญ่เป็นคนประเภทเดียวกัน บางทีการหยั่งรู้อาจจะง่ายดายกว่าข้าเสียอีก
 M2348-2_23_13,"In that case, get ready. Once you're ready, you can go to any branch."
 M2348-2_23_14,"If you want to try the illusion battle from earlier and learn from it, you can find {Me}."
 M2348-3_0_1,What is it?
@@ -1153,7 +1153,7 @@ M2348-3_op1_2,What is the illusion battle brought by the Ming Laughing Stele?
 M2348-3_op1_3,{Me} wants to challenge the illusion battle again.
 M2348-3_op1_4,Never mind.
 M2348-3_1_1,"Since you were born with this ability, there's no need to hide it from you."
-M2348-3_1_2,"An important part of the ""Observing the Heart Sutra"" is the great hero's understanding of the influence of ""heart"" on martial arts in the world."
+M2348-3_1_2,"An important part of the ""Observing the Heart Sutra"" is the great hero's understanding of the influence of ""heart"" on martial arts in the world.","หนึ่งในเนื้อหาสำคัญของ ""คัมภีร์ทรรศนะจิต"" คือการที่จอมยุทธ์ผู้ยิ่งใหญ่กล่าวถึงอิทธิพลของ ""จิต"" ที่มีต่อวรยุทธ์ทั่วหล้า"
 M2348-3_1_3,The influence of the heart?
 M2348-3_1_4,"The influence of martial arts on the ""body"" is basic knowledge for every martial artist."
 M2348-3_1_5,"For example, learning horizontal training can make the body strong and invulnerable. Learning Yang-style internal strength can protect Qi, immune to cold and heat. Learning Yin-style internal strength can infiltrate the enemy's body with Yin cold MP."
@@ -1181,15 +1181,15 @@ M2353-0_1_6,"You... don't think about stopping me! Once I comprehend the Martial
 M2353-0_1_7,"You won't live to understand, you're going to die now."
 M2353-0_2_1,"It seems that bad people are always surrounded by bad people, it's an undeniable truth."
 M2349-1_0_1,"Hmm... there's a Tai Chi symbol on the ground, is this the Martial Tomb of Taoism?"
-M2349-1_1_1,"Correct, the great hero separated the Yin and Yang parts from the Martial Arts of the eight thieves, integrated them with Taoism, and hid them in this Tai Chi symbol."
+M2349-1_1_1,"Correct, the great hero separated the Yin and Yang parts from the Martial Arts of the eight thieves, integrated them with Taoism, and hid them in this Tai Chi symbol.",ถูกต้อง จอมยุทธ์ผู้ยิ่งใหญ่ได้แยกส่วนหยินหยางออกจากวรยุทธ์ของแปดโจร แล้วหลอมรวมเข้ากับศาสตร์แห่งเต๋า ซ่อนไว้ในภาพไท่จี๋นี้
 M2349-1_1_2,"When you step into the Yin and Yang fish eyes in the Tai Chi symbol, you can start to comprehend."
 M2349-1_2_1,"When you step into the Yin and Yang fish eyes in the Tai Chi symbol, you can start to comprehend."
 M2354-1_0_1,"This must be the Martial Tomb related to Buddhism, right?"
-M2354-1_1_1,"Not bad, the great hero has integrated the cruel and ruthless part of the eight thieves' Martial Arts with the concept of Buddhist scriptures, hidden in this Buddhist character."
+M2354-1_1_1,"Not bad, the great hero has integrated the cruel and ruthless part of the eight thieves' Martial Arts with the concept of Buddhist scriptures, hidden in this Buddhist character.","ถูกต้องแล้ว จอมยุทธ์ผู้ยิ่งใหญ่ได้แยกส่วนที่เหี้ยมโหดและอำมหิตออกจากวรยุทธ์ของแปดโจร แล้วผสานเข้ากับหลักธรรมของพระพุทธองค์ ซ่อนไว้ในอักษร ""ฝอ"" นี้"
 M2354-1_1_2,"If you want to start comprehending, you can light incense in front of the Incense Burner."
 M2354-1_2_1,"If you want to start comprehending, you can light incense in front of the Incense Burner."
 M2350-1_0_1,"This place seems to be the Martial Tomb related to Confucianism, right?"
-M2350-1_1_1,"Yes, the great hero picked out the feints and real moves from the Martial Arts of the eight thieves, as well as the transformation between them, and combined them with the Confucian code of conduct."
+M2350-1_1_1,"Yes, the great hero picked out the feints and real moves from the Martial Arts of the eight thieves, as well as the transformation between them, and combined them with the Confucian code of conduct.",ถูกต้องแล้ว จอมยุทธ์ผู้ยิ่งใหญ่ได้แยกส่วนที่เป็นกลลวงและกลจริง รวมถึงส่วนที่ผันแปรระหว่างกลลวงและกลจริงออกจากวรยุทธ์ของแปดโจร แล้วผสานเข้ากับหลักปรัชญาแห่งลัทธิขงจื๊อ
 M2350-1_1_2,"If you want to start comprehending, you can read the text on the stone book."
 M2350-1_2_1,"If you want to start comprehending, you can read the text on the stone book."
 M2353-1_0_1,What a sword platform! Is this the part related to Martial Arts?
@@ -1219,10 +1219,10 @@ M2350-3_6_1,"Fleeing in panic from here? This scene is very funny, I already hav
 M2350-3_7_1,"The Confucian accomplishment of Dojokeeper makes me, a useless person, admire very much. I find the book written by Blood Rakshasa very funny."
 M2353-3_1_1,"""Jian Chi was defeated by the sword intent in the martial tomb, and died here due to his obsession."""
 M2353-3_2_1,"""When I was thirty years old, I achieved the perfect sword intent. 'Roar of the Dragon' no longer suited my hand, so I left it here after inscribing the martial tombstone."""
-M2353-3_2_2,"Roar of the Dragon? Is it the sword of a great hero? It was left here, but I didn't see it."
+M2353-3_2_2,"Roar of the Dragon? Is it the sword of a great hero? It was left here, but I didn't see it.",มังกรคำราม? นี่คือกระบี่ของจอมยุทธ์ผู้ยิ่งใหญ่หรือ? หากกระบี่ถูกทิ้งไว้ที่นี่ เหตุใดข้าจึงไม่เห็นล่ะ
 M2353-3_3_1,"This place has been occupied by Blood Rakshasa for a long time, do you really think he would just leave the sword here for you to pick up?"
 M2353-3_5_1,"Blood Rakshasa, a treacherous dog, hurt my family and wants to harm my mentor!"
-M2353-3_6_1,"The swordsmanship of the master is the peak of Jianghu, I'm afraid even the sword of the great hero is slightly inferior."
+M2353-3_6_1,"The swordsmanship of the master is the peak of Jianghu, I'm afraid even the sword of the great hero is slightly inferior.",เพลงกระบี่ของอาจารย์ข้าหาผู้ใดเทียมทาน เกรงว่าแม้แต่กระบี่ของจอมยุทธ์ผู้ยิ่งใหญ่ ก็ยังต้องด้อยกว่าสักสามกระบวนท่า
 M2348-7_1_1,"Although there were some omissions when I first understood the martial tomb, I still got the method to open the demonic martial tomb from Cicada."
 M2348-7_1_2,Let me see...
 M2348-7_1_3,It's open!
@@ -1233,7 +1233,7 @@ M2352-1_1_0_4,Come and see what's written on this wall.
 M2352-1_1_0_5,Okay.
 M2352-1_1_0_6,The two moved to the stone wall at 25.21 26.21
 M2352-1_1_0_7,"The wall describes the method of learning demonic skills. First, you need to disperse all martial arts and start over with your meridians. The next step is to break through the heart demon and start over with your heart."
-M2352-1_1_0_8,"The wall mentions a strange knife specially forged by the great hero.\nAfter mastering the demonic skill, stabbing this knife into the learner's Shen Ting acupoint can cause turmoil in the spirit platform.\nWhen stabbing, if you stare at a person with both eyes, you can quickly master his lifelong Martial Arts.\nYou can only learn five times at most, otherwise you will die from exhaustion of vitality."
+M2352-1_1_0_8,"The wall mentions a strange knife specially forged by the great hero.\nAfter mastering the demonic skill, stabbing this knife into the learner's Shen Ting acupoint can cause turmoil in the spirit platform.\nWhen stabbing, if you stare at a person with both eyes, you can quickly master his lifelong Martial Arts.\nYou can only learn five times at most, otherwise you will die from exhaustion of vitality.","บนผนังกล่าวถึงดาบประหลาดที่จอมยุทธ์ผู้ยิ่งใหญ่ตีขึ้นเป็นพิเศษ\nเมื่อฝึกสำเร็จวิชามาร หากใช้ดาบเล่มนี้แทงเข้าจุดเสินถิง ของผู้ฝึก จะทำให้จิตวิญญาณปั่นป่วน\nขณะแทง หากจ้องมองไปยังผู้ใด จะสามารถเรียนรู้วรยุทธ์ทั้งชีวิตของผู้นั้นได้อย่างรวดเร็ว\nสามารถเรียนรู้ได้มากที่สุดเพียงห้าครั้ง มิเช่นนั้นจะสิ้นใจเพราะพลังชีวิตเหือดแห้ง"
 M2352-1_1_0_9,"Blood Rakshasa has lost all his power, it's as if it was prepared for him, no wonder he chose to learn the demonic arts."
 M2352-1_1_0_10,Have you ever seen Blood Rakshasa use that knife for self-harm to learn martial arts quickly?
 M2352-1_1_0_11,"No, you can only learn from five people at most. If it were Me, Me would use it to learn from the eight saints..."
@@ -1248,9 +1248,9 @@ M2352-1_1_0_19,"Blood Rakshasa has a bottleneck because he doesn't have the ""He
 M2352-1_1_0_20,"Alright! For your words, I'll help you!"
 M2352-1_1_0_20a,"Wait a minute, I can't help you here... I can only watch from the sidelines."
 M2352-1_1_0_21,"Soon, Gongsun Hui lost all his MP."
-M2352-1_1_0_22,"Soon, he quickly entered the heart demon illusion created by the words inscribed by the great hero with the help of the ""Heart Observation Scripture""."
-M2352-1_1_0_23,"Hmm? That's not right. I can't help you this time.\nThe great hero has fixed the loophole that allowed two people to help each other, now you can only go up by yourself."
-M2352-1_1_0_24,"The previous martial tomb could help each other, probably the great hero didn't think of your special situation."
+M2352-1_1_0_22,"Soon, he quickly entered the heart demon illusion created by the words inscribed by the great hero with the help of the ""Heart Observation Scripture"".","ในชั่วพริบตา เขาก็อาศัยคัมภีร์ ""สัจธรรมหยั่งใจ"" ทะยานเข้าสู่ห้วงมายาจิตมารที่ท่านจอมยุทธ์ผู้ยิ่งใหญ่ได้สลักอักขระไว้"
+M2352-1_1_0_23,"Hmm? That's not right. I can't help you this time.\nThe great hero has fixed the loophole that allowed two people to help each other, now you can only go up by yourself.","หืม? นี่ไม่ถูกต้องแล้ว ครานี้ข้าคงมิอาจยื่นมือช่วยเหลือเจ้าได้\nท่านจอมยุทธ์ผู้ยิ่งใหญ่กลับแก้ไขจุดอ่อนที่สามารถให้คนสองคนช่วยเหลือกันได้ บัดนี้เจ้าคงต้องลุยเดี่ยวแล้ว"
+M2352-1_1_0_24,"The previous martial tomb could help each other, probably the great hero didn't think of your special situation.",สุสานยุทธ์คราก่อนยังสามารถช่วยเหลือเกื้อกูลกันได้ อาจเป็นเพราะท่านจอมยุทธ์ผู้ยิ่งใหญ่มิได้คาดคิดถึงสถานการณ์พิเศษเช่นพวกเรากระมัง
 M2352-1_1_0_25,"No problem, I don't believe that I can't get through if Blood Rakshasa can!"
 M2352-1_1_0_26,Woof woof!
 M2352-1_1_0_27,This! This is!
@@ -1340,7 +1340,7 @@ M2352-1_2_1_1,"There's no one here, which is not surprising..."
 M2352-1_2_1_2,"Maybe because Blood Rakshasa has secluded himself here, there are more signs of life here."
 M2352-1_2_1_3,Let me see what the words carved on the wall say.
 M2352-1_2_1_4,"The words describe the method to learn demonic arts. First, you need to disperse all martial arts and let the meridians start anew. The next step is to break through the heart demon barrier and let the heart start anew."
-M2352-1_2_1_5,"The wall mentions a strange knife specially forged by the great hero.\nAfter mastering the demonic skill, stabbing this knife into the learner's Shen Ting acupoint can cause turmoil in the spirit platform.\nWhen stabbing, if you stare at a person with both eyes, you can quickly master his lifelong Martial Arts.\nYou can only learn five times at most, otherwise you will die from exhaustion of vitality."
+M2352-1_2_1_5,"The wall mentions a strange knife specially forged by the great hero.\nAfter mastering the demonic skill, stabbing this knife into the learner's Shen Ting acupoint can cause turmoil in the spirit platform.\nWhen stabbing, if you stare at a person with both eyes, you can quickly master his lifelong Martial Arts.\nYou can only learn five times at most, otherwise you will die from exhaustion of vitality.","บนผนังกล่าวถึงดาบประหลาดที่จอมยุทธ์ผู้ยิ่งใหญ่ตีขึ้นเป็นพิเศษ\nเมื่อฝึกสำเร็จวิชามาร หากใช้ดาบเล่มนี้แทงเข้าจุดเสินถิง ของผู้ฝึก จะทำให้จิตวิญญาณปั่นป่วน\nขณะแทง หากจ้องมองไปยังผู้ใด จะสามารถเรียนรู้วรยุทธ์ทั้งชีวิตของผู้นั้นได้อย่างรวดเร็ว\nสามารถเรียนรู้ได้มากที่สุดเพียงห้าครั้ง มิเช่นนั้นจะสิ้นใจเพราะพลังชีวิตเหือดแห้ง"
 M2352-1_2_1_6,"The demonic skill has the effect of attacking the mind,\nif you fear him, dread him, feel sorrow, panic, anxiety, or resentment, his moves will be more effective."
 M2352-1_2_1_7,"On the contrary, if you belittle him, despise him, make yourself happy, confident,\nNot only can it resist his effect, if you can make him panic, anxious, angry, it can also lower his own power."
 M2352-1_2_1_8,"Blood Rakshasa has lost all his power, it's as if it was prepared for him, no wonder he chose to learn the demonic arts."
@@ -1392,7 +1392,7 @@ M2351-2_0_5_2,I was wrong... I shouldn't have... ignored the risk warning...
 M2351-2_0_5_3,"Not far from you, in the Penglai Sect, it didn't take long for Blood Rakshasa to appear in the main hall, presiding over his long-planned golden basin washing hands ceremony."
 M2351-2_0_5_4,"Although the Sect Leaders were prepared, without your crucial assistance, Blood Rakshasa successfully took his revenge."
 M2351-2_0_5_5,"Soon, this fake sect will be abandoned and turned into ruins, leaving only a legend behind.\nAnd you, {PlayerName}, due to your excellent covert work, there's no trace of you in this legend."
-M2351-2_0_5_6,"The whereabouts of the legendary {PlayerName} became a mystery,\nThere were eyewitnesses saying that you went out to sea to live in seclusion, disappearing like a legend, just like a great hero.\nYour departure has caused a lot of rumors, some of which are extremely romantic, embodying the Vagabond's illusion of the summit.\nMany of your friends have been looking for you everywhere, going out to sea to find you, but in the end they all returned without success."
+M2351-2_0_5_6,"The whereabouts of the legendary {PlayerName} became a mystery,\nThere were eyewitnesses saying that you went out to sea to live in seclusion, disappearing like a legend, just like a great hero.\nYour departure has caused a lot of rumors, some of which are extremely romantic, embodying the Vagabond's illusion of the summit.\nMany of your friends have been looking for you everywhere, going out to sea to find you, but in the end they all returned without success.","เส้นทางของยอดฝีมือผู้เป็นตำนาน {PlayerName} กลายเป็นปริศนา\nมีผู้พบเห็นกล่าวว่าท่านออกทะเลไปซ่อนกาย ดั่งตำนานที่หายสาบสูญ เฉกเช่นเดียวกับท่านจอมยุทธ์ผู้ยิ่งใหญ่\nการจากไปของท่านก่อให้เกิดข่าวลือมากมาย บางเรื่องก็แสนโรแมนติก ฝากฝังไว้ซึ่งจินตนาการของชาวยุทธ์ต่อยอดเขา\nสหายของท่านมากมายต่างออกสืบหาข่าวคราวของท่าน ออกทะเลตามหาท่าน แต่สุดท้ายก็ไร้ผล"
 M2351-2_0_5_7,"Talents emerge in each generation, soon new successors rise to prominence, and you forever become a legend.\nNo one knows that the legendary figure {PlayerName}, due to his own greed, or curiosity, suffocated to death in an inconspicuous secret chamber."
 M2351-2_0_5_8,"<size=150%><color=""red"">The end.</color></size>"
 M2351-2_1_1_1,(Take a deep breath.)
@@ -1400,7 +1400,7 @@ M2351-2_1_1_2,"In the last moment before you suffocate, you mastered the breathi
 M2351-2_1_1_3,"Not far from you, in Penglai Sect, it didn't take long for Blood Rakshasa to appear in the main hall,\nHosting his long-planned Golden Basin Washing Hands Conference."
 M2351-2_1_1_4,"Although the Sect Leaders were prepared, without your crucial assistance, Blood Rakshasa successfully took his revenge."
 M2351-2_1_1_5,"Soon, this fake sect will be abandoned and turned into ruins, leaving only a legend behind.\nAnd you, {PlayerName}, due to your excellent covert work, there's no trace of you in this legend."
-M2351-2_1_1_6,"The whereabouts of the legendary {PlayerName} became a mystery, there were eyewitnesses saying that you went out to sea to live in seclusion,\nDisappearing like a legend, just like a great hero.\nYour departure has caused a lot of rumors, some of which are extremely romantic, embodying the Vagabond's illusion of the summit.\nMany of your friends have been looking for you everywhere, going out to sea to find you, but in the end they all returned without success."
+M2351-2_1_1_6,"The whereabouts of the legendary {PlayerName} became a mystery, there were eyewitnesses saying that you went out to sea to live in seclusion,\nDisappearing like a legend, just like a great hero.\nYour departure has caused a lot of rumors, some of which are extremely romantic, embodying the Vagabond's illusion of the summit.\nMany of your friends have been looking for you everywhere, going out to sea to find you, but in the end they all returned without success.","เส้นทางของยอดฝีมือผู้เป็นตำนาน {PlayerName} กลายเป็นปริศนา มีผู้พบเห็นกล่าวว่าท่านออกทะเลไปซ่อนกาย\nดั่งตำนานที่หายสาบสูญ เฉกเช่นเดียวกับท่านจอมยุทธ์ผู้ยิ่งใหญ่\nการจากไปของท่านก่อให้เกิดข่าวลือมากมาย บางเรื่องก็แสนโรแมนติก ฝากฝังไว้ซึ่งจินตนาการของชาวยุทธ์ต่อยอดเขา\nสหายของท่านมากมายต่างออกสืบหาข่าวคราวของท่าน ออกทะเลตามหาท่าน แต่สุดท้ายก็ไร้ผล"
 M2351-2_1_1_7,"Talents emerge in each generation, soon new successors rise to prominence, and you forever become a legend.\nNo one knows that the legendary figure {PlayerName}, lived longer than his own legend."
 M2351-2_1_1_8,"You are completely trapped in the silent stone Prison,\nfrom hope, to disappointment, to despair, to acceptance, and then to survival."
 M2351-2_1_1_9,"You don't know what's happening outside, all the grudges of the martial arts world are cut off from you, but you're still alive.\nYou don't know if you should hope for the door to open, when you're torn until you're no longer torn, the door remains silent as usual, and you're still alive."
@@ -1450,7 +1450,7 @@ M2348-8_8_7,"Ma Qingshan, the Horse Pavilion Master... and Brother Shen Chenxuan
 M2348-8_8_8,"Since you're safe, that's great."
 M2348-8_9_1,"The Horse Pavilion Master asked me to ask you a question, do you want to take a ride on the boat."
 M2348-8_9_2,What do you mean? Does he want to take me away?
-M2348-8_9_3,"The Horse Pavilion Master said, he persuaded the War Constable to take a detour with the ship, taking you directly back to the <color=#c44b0e>Penglai Sect Pier</color>, pretending that you are visiting the island as the great hero {PlayerName}."
+M2348-8_9_3,"The Horse Pavilion Master said, he persuaded the War Constable to take a detour with the ship, taking you directly back to the <color=#c44b0e>Penglai Sect Pier</color>, pretending that you are visiting the island as the great hero {PlayerName}.","ท่านเจ้าสำนักหม่ากล่าวว่า เขาจะเกลี้ยกล่อมหัวหน้ามือปราบจ้าน ให้แล่นเรือวนรอบ นำท่านกลับสู่<color=#c44b0e>ท่าเรือสำนักเผิงไหล</color>โดยตรง แสร้งทำราวกับว่าท่านคือจอมยุทธ์ {PlayerName} ผู้ยิ่งใหญ่ที่เดินทางมาเยือนเกาะ"""
 M2348-8_9_4,"A Blood Rakshasa who is completely unfamiliar, but a big figure whose reputation in the martial arts world is not inferior to the Eight Saints, is sure to attract his attention."
 M2348-8_9_5,"In this way, the mess you make while acting covertly will not be noticed."
 M2348-8_9_6,Does he know about Blood Rakshasa... Could it be the War Constable who told him?
@@ -1515,12 +1515,12 @@ M2342-2_1_1,The gate of the Martial Tomb is tightly closed... I think the most l
 M2342-2_1_2,"What if he opened the door himself, ran in and then closed the door?"
 M2342-2_1_3,"Well... anyway, I've looked everywhere else, either he left the island, or he's inside, I have to go in and look."
 M2342-2_1_4,"Although I don't hold out hope, I'll still see if there's a way to open the door on this stele..."
-M2342-2_1_5,"Wait, there are some more annotations on the words of the great hero here... they're newly engraved!"
+M2342-2_1_5,"Wait, there are some more annotations on the words of the great hero here... they're newly engraved!",ช้าก่อน ตรงนี้อักษรของท่านจอมยุทธ์ผู้ยิ่งใหญ่มีคำอธิบายเพิ่มเติม... เป็นรอยสลักใหม่!
 M2342-2_1_6,"Who engraved it? It couldn't be Gongsun Hui, could it?"
 M2342-2_1_7,Let me read it carefully...
 M2342-2_1_8,"This content is... annotations on the engraved content of the ""Observing Heart Sutra""!"
 M2342-2_1_9,"Clearly there are only two words ""Martial Tomb"", but because of the spacing structure of the words, the ingenious use of the strokes, it can contain so much information!"
-M2342-2_1_10,The calligraphy of the great hero is so strong!
+M2342-2_1_10,The calligraphy of the great hero is so strong!,ความเชี่ยวชาญด้านอักษรของท่านจอมยุทธ์ผู้ยิ่งใหญ่สูงส่งเพียงนี้เชียวหรือ!
 M2342-2_1_11,Brother Gongsun Hui even left a message in a way that only we can understand...
 M2342-2_1_11a,"""Hahaha. If you can understand these notes, you must be {PlayerName}'s brother..."""
 M2342-2_1_11b,"""Although we haven't known each other for long, I'm really happy to meet another me in the world..."""
@@ -1547,13 +1547,13 @@ M2342-4_1_1,"Uh, although Gongsun Hui has made up for all the mistakes, I didn't
 M2342-4_1_2,"In that case, I have to try again!"
 M2342-4_2_1,"Damn it, it's already the supplemented and annotated version of Gongsun Hui, it's already half simpler, can't I still understand it?"
 M2342-4_2_2,"If it really doesn't work, forget it... If I don't have the talent for Taoism, I just won't learn."
-M2342-4_3_1,"No, the true teachings of the great hero are here, how could I give up?"
-M2342-4_4_1,"I have passed the trial of Yin and Yang Heart Demon, and now fully comprehend this Sword Tomb, realizing how wonderful the great hero's understanding was!"
-M2342-4_4_2,"The great hero has broken through all the internal skills in the world, I have realized this subtlety, and the enemy's Yin and Yang internal skills can be used by me!"
+M2342-4_3_1,"No, the true teachings of the great hero are here, how could I give up?",มิได้! เคล็ดวิชาแท้จริงของท่านจอมยุทธ์ผู้ยิ่งใหญ่อยู่ตรงนี้ ข้าจะยอมละทิ้งได้อย่างไร?
+M2342-4_4_1,"I have passed the trial of Yin and Yang Heart Demon, and now fully comprehend this Sword Tomb, realizing how wonderful the great hero's understanding was!",ข้าได้ผ่านการทดสอบจิตมารหยินหยางแล้ว บัดนี้เมื่อได้สัมผัสวิชาสุสานยุทธ์ฉบับสมบูรณ์ ข้าจึงได้รู้ว่าการบรรลุของท่านจอมยุทธ์ผู้ยิ่งใหญ่นั้นช่างลึกล้ำเพียงใด!
+M2342-4_4_2,"The great hero has broken through all the internal skills in the world, I have realized this subtlety, and the enemy's Yin and Yang internal skills can be used by me!",ท่านจอมยุทธ์ผู้ยิ่งใหญ่ช่างล่วงรู้เคล็ดวิชาทั่วหล้า ข้าเข้าใจถึงความลึกล้ำนี้แล้ว พลังภายในหยินหยางของศัตรูล้วนสามารถนำมาใช้ประโยชน์ได้!
 M2342-4_5_1,Ha! I knew you would come!
 M2342-4_5_2,"Actually, I need your help, but before that, I have something to tell you."
 M2342-4_5_3,"Actually, when you were comprehending the martial tomb before, I was jealous of you for having the innate ability to observe the heart, so I hid the most crucial part of the martial tomb when explaining..."
-M2342-4_5_4,"So you only understood the surface, and did not comprehend the true meaning of the great hero's martial tomb."
+M2342-4_5_4,"So you only understood the surface, and did not comprehend the true meaning of the great hero's martial tomb.",ดังนั้นเจ้าจึงเข้าใจเพียงเปลือกนอก มิได้เข้าถึงแก่นแท้แห่งสุสานยุทธ์ของท่านจอมยุทธ์ผู้ยิ่งใหญ่เลย
 M2342-4_5_5,"So that's it! I just felt that the true meaning of the Sword Tomb was not fully explained, it turns out that many parts were obscured by you!"
 M2342-4_5_6,"But don't worry! Before I left, I corrected all the mistakes in the four martial tombs and added notes! Try to comprehend it again, and you will learn everything!"
 M2342-4_5_7,"Sigh... My jealousy towards you and the ""Observing Heart Scripture"" actually have a great connection..."
@@ -1636,21 +1636,21 @@ M2342-5_2_1,"Uh, although Gongsun Hui has made up for all the mistakes, I didn't
 M2342-5_2_2,"In that case, I have to try again!"
 M2342-5_3_1,"Damn it, it's already the supplemented and annotated version of Gongsun Hui, it's already half simpler, can't I still understand it?"
 M2342-5_3_2,"If it really doesn't work, forget it... If I don't have the qualifications for Buddhism, I just won't learn it."
-M2342-5_4_1,"I had already defeated the three poisons of greed, anger, and ignorance in my heart. Looking at this unaltered true meaning, I realized the depth of the great hero's understanding of Buddhism.",ข้าได้กำจัดจิตมารที่เกิดจากกิเลสทั้งสามไปแล้ว บัดนี้เมื่อได้เห็นสัจธรรมอันแท้จริงโดยมิมีสิ่งใดเจือปน ข้าจึงเข้าใจถึงความแตกฉานในพระธรรมของวีรชนผู้นี้
+M2342-5_4_1,"I had already defeated the three poisons of greed, anger, and ignorance in my heart. Looking at this unaltered true meaning, I realized the depth of the great hero's understanding of Buddhism.",ข้าได้กำจัดจิตมารที่เกิดจากกิเลสทั้งสามไปแล้ว บัดนี้เมื่อได้เห็นสัจธรรมอันแท้จริงโดยมิมีสิ่งใดเจือปน ข้าจึงเข้าใจถึงความแตกฉานในพระธรรมของจอมยุทธ์ผู้ยิ่งใหญ่ผู้นี้
 M2342-5_4_2,"""The door of emptiness refuses to come out, throwing through the window is too foolish. When will you come out after drilling the old paper for a hundred years?"""
-M2342-5_4_3,"I have been learning martial arts all the way, and I never figured out how to defend. The great hero entered martial arts with Zen, and summarized a set of defensive skills that return to the original from Zen, which is enlightening!"
-M2342-5_5_1,"No, the true teachings of the great hero are here, how could I give up?"
-M2342-5_6_1,"I have defeated the three poisons of greed, anger, and ignorance in my heart. Looking at this unaltered true meaning, I realized the depth of the great hero's understanding of Buddhism.",ข้าได้ขจัดพิษร้ายแห่งกิเลสทั้งสามไปแล้ว บัดนี้เมื่อได้เห็นสัจธรรมอันแท้จริงโดยมิมีสิ่งใดเจือปน ข้าจึงเข้าใจถึงความแตกฉานในพระธรรมของวีรชนผู้นี้
+M2342-5_4_3,"I have been learning martial arts all the way, and I never figured out how to defend. The great hero entered martial arts with Zen, and summarized a set of defensive skills that return to the original from Zen, which is enlightening!",ข้าฝึกวิชามาโดยตลอด แต่กลับไม่เข้าใจวิธีการป้องกัน ท่านจอมยุทธ์ผู้ยิ่งใหญ่ใช้วิถีแห่งเซนผสานเข้ากับวิถีแห่งบู๊ รวบรวมเคล็ดวิชาป้องกันที่คืนสู่ความเรียบง่ายจากเซน ทำให้ข้ากระจ่างแจ้ง!
+M2342-5_5_1,"No, the true teachings of the great hero are here, how could I give up?",มิได้! เคล็ดวิชาแท้จริงของท่านจอมยุทธ์ผู้ยิ่งใหญ่อยู่ตรงนี้ ข้าจะยอมละทิ้งได้อย่างไร?
+M2342-5_6_1,"I have defeated the three poisons of greed, anger, and ignorance in my heart. Looking at this unaltered true meaning, I realized the depth of the great hero's understanding of Buddhism.",ข้าได้ขจัดพิษร้ายแห่งกิเลสทั้งสามไปแล้ว บัดนี้เมื่อได้เห็นสัจธรรมอันแท้จริงโดยมิมีสิ่งใดเจือปน ข้าจึงเข้าใจถึงความแตกฉานในพระธรรมของจอมยุทธ์ผู้ยิ่งใหญ่ผู้นี้
 M2342-5_6_2,"""The door of emptiness refuses to come out, throwing through the window is too foolish. When will you come out after drilling the old paper for a hundred years?"""
-M2342-5_6_3,"The great hero uses Zen to enter martial arts, and summarizes a set of defensive skills that return to the basics from Zen, which is enlightening!"
+M2342-5_6_3,"The great hero uses Zen to enter martial arts, and summarizes a set of defensive skills that return to the basics from Zen, which is enlightening!",ท่านจอมยุทธ์ผู้ยิ่งใหญ่ใช้วิถีแห่งเซนสู่การต่อสู้ สรุปเคล็ดวิชาป้องกันที่คืนสู่ความเรียบง่ายจากเซน ทำให้ข้ากระจ่างแจ้ง!
 M2342-6_3_1,"Uh, although Gongsun Hui has made up for all the mistakes, I didn't successfully comprehend the martial tomb before, so naturally I can't understand the true meaning in it!"
 M2342-6_3_2,"In that case, I have to try again!"
 M2342-6_4_1,"Damn it, it's already the supplemented and annotated version of Gongsun Hui, it's already half simpler, can't I still understand it?"
 M2342-6_4_2,"If it really doesn't work, forget it... If I don't have the qualifications for Confucianism, I just won't learn it."
-M2342-6_5_1,"I had already answered the great hero's question about the nature of heaven and human desires. However, Gongsun Hui altered the key sentences, causing my understanding to remain only in Confucianism itself."
+M2342-6_5_1,"I had already answered the great hero's question about the nature of heaven and human desires. However, Gongsun Hui altered the key sentences, causing my understanding to remain only in Confucianism itself.",ก่อนหน้านี้ข้าได้ตอบคำถามของท่านจอมยุทธ์ผู้ยิ่งใหญ่เกี่ยวกับสัจธรรมแห่งฟ้าและปรารถนาแห่งมนุษย์ไปแล้ว เพียงแต่กงซุนฮุ่ยได้แก้ไขถ้อยคำสำคัญ ทำให้ความเข้าใจของข้าหยุดอยู่แค่ในขอบเขตของปรัชญาขงจื๊อเท่านั้น
 M2342-6_5_2,"Now that I have read the unaltered parts, I realize that this not only asks about moral norms, but also about the conflict and balance between Martial Arts routines and the relaxation of the body and arms."
 M2342-6_5_3,"When I find balance, I can incorporate the righteousness in my heart into my Dantian Qi Sea!"
-M2342-6_6_1,"No, the true teachings of the great hero are here, how could I give up?"
+M2342-6_6_1,"No, the true teachings of the great hero are here, how could I give up?",มิได้! เคล็ดวิชาแท้จริงของท่านจอมยุทธ์ผู้ยิ่งใหญ่อยู่ตรงนี้ ข้าจะยอมละทิ้งได้อย่างไร?
 M2342-6_7_1,"Now Me finally answered the great hero's question about the law of heaven and human desire. If Me only look at the version edited by Gongsun Hui, Me's understanding will only stay in Confucianism itself."
 M2342-6_7_2,"Now that I have read the unedited part, Me know that the great hero's question not only asks about moral norms, but also about the conflict and balance of Martial Arts routines and physical instincts."
 M2342-6_7_3,"When I find balance, I can incorporate the righteousness in my heart into my Dantian Qi Sea!"
@@ -1661,7 +1661,7 @@ M2342-7_3_2,"If it really doesn't work, forget it... If I don't have the qualifi
 M2342-7_4_1,"This Sword Tomb is different from other Sword Tombs, there are no various profound questions, only the pure confrontation of Martial Arts moves."
 M2342-7_4_2,"The true meaning of a great hero is truly unparalleled. Even if it has been modified by Gongsun Hui, one can still learn the usage of eighteen types of weapons."
 M2342-7_4_3,But compared to the part he modified... it's incomparable! The true meaning of this martial tomb can make an ordinary move possess the power of a unique martial art!
-M2342-7_5_1,"No, the true teachings of the great hero are here, how could I give up?"
+M2342-7_5_1,"No, the true teachings of the great hero are here, how could I give up?",มิได้! เคล็ดวิชาแท้จริงของท่านจอมยุทธ์ผู้ยิ่งใหญ่อยู่ตรงนี้ ข้าจะยอมละทิ้งได้อย่างไร?
 M2342-7_6_1,"This Sword Tomb is different from other Sword Tombs, there are no various profound questions, only the pure confrontation of Martial Arts moves."
 M2342-7_6_2,"The true meaning of a great hero is truly unparalleled. Even if it has been modified by Gongsun Hui, one can still learn the usage of eighteen types of weapons."
 M2342-7_6_3,But compared to the part he modified... it's incomparable! The true meaning of this martial tomb can make an ordinary move possess the power of a unique martial art!

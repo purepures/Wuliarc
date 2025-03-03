@@ -814,7 +814,7 @@ PLD-1-1_3_1,"Ask the little monk, did someone break into the temple and steal th
 PLD-1-1_3_2,"This... how do you know, benefactor?",เอ่อ... ท่านผู้มีบุญรู้ได้อย่างไรขอรับ?
 PLD-1-1_3_3,"As I thought... I came here to prevent this, but it seems I'm still one step too late.",สมดังที่ข้าคาดไว้... ข้ามาที่นี่ก็เพื่อป้องกันเรื่องนี้ แต่ดูเหมือนข้าจะช้าไปก้าวหนึ่ง
 PLD-1-1_3_4,"Little monk, I am {PlayerName}, can you tell me what exactly happened?",เจ้าสามเณรน้อย ข้าคือ {PlayerName} เจ้าช่วยเล่าให้ข้าฟังได้หรือไม่ว่าเกิดอะไรขึ้นกันแน่?
-PLD-1-1_3_5,"So you are the great hero {PlayerSurName}, I was rude. Here's what happened...",อ้อ... ที่แท้ท่านก็คือ {PlayerSurName} ผู้เลื่องชื่อ ศิษย์ประพฤติตนไม่สมควร ส่วนเรื่องที่เกิดขึ้นนั้น...
+PLD-1-1_3_5,"So you are the great hero {PlayerSurName}, I was rude. Here's what happened...",อ้อ... ที่แท้ท่านก็คือจอมยุทธ์ {PlayerSurName} ผู้เลื่องชื่อ ศิษย์ประพฤติตนไม่สมควร ส่วนเรื่องที่เกิดขึ้นนั้น...
 PLD-1-1_4_1,"Shi Ming, you're finally back.",ซือหมิง ในที่สุดเจ้าก็กลับมาแล้ว
 PLD-1-1_4_2,Hmm? What happened?,หืม? เกิดอะไรขึ้น?
 PLD-1-1_4_3,Here's the thing...,เรื่องมันเป็นอย่างนี้...
@@ -956,88 +956,88 @@ PLD-1-1-1_1_5,"After I caught up with the thief, I struck him with a palm. The t
 PLD-1-1-1_1_6,"When I was ready to chase again, the thief had already fled far away, and I couldn't catch up.",เมื่ออาตมาตั้งหลักได้และจะไล่ติดตามต่อ โจรผู้นั้นก็หนีไปไกลเสียแล้ว ไม่อาจไล่ตามทัน
 PLD-1-1-1_1_7,"I see, but on second thought, this is a bit strange.",ข้าเข้าใจแล้ว... แต่หากพิจารณาให้ถี่ถ้วน เรื่องนี้มีจุดน่าสงสัยอยู่
 PLD-1-1-1_1_8,"Master Hui Yuan, from your description, if this person's Qinggong could escape after clashing with you, why could you catch up with him?",ไต้ซือฮุ่ยหยวน จากที่ท่านเล่ามา หากว่าคนผู้นี้มีวิชาเบาตัวถึงขั้นที่หนีรอดจากท่านได้ แล้วเหตุใดตอนแรกท่านจึงไล่ตามทันเล่า?
-PLD-1-1-1_1_9,I'm also quite puzzled.
-PLD-1-1-1_1_10,Could it be... this person was waiting for Master Hui Yuan to catch up?
-PLD-1-1-1_1_11,But why would he do that?
-PLD-1-1-1_1_12,Could it be that this person wanted to provoke Master Hui Yuan by doing this?
-PLD-1-1-1_1_13,"Master Hui Yuan, what was the person's outfit?"
-PLD-1-1-1_1_14,"He was wearing night clothes and a cloak, it was too dark to see clearly."
-PLD-1-1-1_1_15,What about his martial arts style?
-PLD-1-1-1_1_16,"It was just a palm's strength, I couldn't see any style."
-PLD-1-1-1_1_17,(It seems that I can't get more useful clues here.)
-PLD-1-1-1_1_18,"Thank you, Master Hui Yuan, please rest more."
-PLD-1-1-1_1_19,Amitabha.
-PLD-1-2_1_1,Why are there no gatekeeper disciples in this Confucius Temple today?
-PLD-1-2_1_2,What is that person doing up there...
-PLD-1-2_1_3,Why is there blood here...|I've been wiping for a long time and it's still not clean|It flowed into the cracks...|Who is the one who insulted the sage!
-PLD-1-2_1_4,What exactly is going on...
-PLD-1-2_1_5,"Everyone, over here..."
-PLD-1-2_1_6,"Can't you see we're busy? The Dojokeeper ordered to close the door and refuse visitors today, whoever you are, please run away!"
-PLD-1-2_1_7,"(These disciples are all busy, they don't even look up at me...)"
-PLD-1-2_1_8,(Could something have happened at the Confucius Temple?)
-PLD-1-2_1_9,Isn't this the great hero {PlayerSurName}?
-PLD-1-2_1_10,Who are you?
+PLD-1-1-1_1_9,I'm also quite puzzled.,อาตมาก็รู้สึกแปลกใจในประเด็นนี้อยู่ไม่น้อย
+PLD-1-1-1_1_10,Could it be... this person was waiting for Master Hui Yuan to catch up?,หรือว่า... ผู้นั้นตั้งใจรอให้ไต้ซือฮุ่ยหยวนไล่ตามทัน?
+PLD-1-1-1_1_11,But why would he do that?,แต่เหตุใดเขาจึงต้องทำเช่นนั้นด้วยเล่า?
+PLD-1-1-1_1_12,Could it be that this person wanted to provoke Master Hui Yuan by doing this?,หรือว่าผู้นั้นตั้งใจยั่วยุไต้ซือฮุ่ยหยวนด้วยวิธีนี้?
+PLD-1-1-1_1_13,"Master Hui Yuan, what was the person's outfit?",ไต้ซือฮุ่ยหยวน ผู้นั้นสวมอาภรณ์เช่นไร?
+PLD-1-1-1_1_14,"He was wearing night clothes and a cloak, it was too dark to see clearly.",อาตมาเห็นเพียงร่างในชุดยามราตรีและเสื้อคลุมยาว ด้วยความมืดสลัวยามค่ำคืนทำให้มิอาจเห็นรายละเอียดได้ชัดเจน
+PLD-1-1-1_1_15,What about his martial arts style?,แล้ววรยุทธ์ของเขาเล่า เป็นเช่นไร?
+PLD-1-1-1_1_16,"It was just a palm's strength, I couldn't see any style.",เพียงแค่แรงฝ่ามือเท่านั้น อาตมามิอาจเห็นร่องรอยของวิชายุทธ์ใดๆ
+PLD-1-1-1_1_17,(It seems that I can't get more useful clues here.),(ดูท่าว่าจะไม่มีร่องรอยใดที่จะช่วยไขปริศนานี้ได้อีกแล้ว... คงต้องหาทางสืบค้นจากที่อื่นต่อไป)
+PLD-1-1-1_1_18,"Thank you, Master Hui Yuan, please rest more.",ขอบคุณท่านไต้ซือฮุ่ยหยวน ขอท่านได้พักผ่อนเถิด
+PLD-1-1-1_1_19,Amitabha.,อามิตาพุทธ
+PLD-1-2_1_1,Why are there no gatekeeper disciples in this Confucius Temple today?,ทำไมวันนี้ถึงไม่มีศิษย์ยามเฝ้าประตูที่วัดขงจื๊อนี่เลย?
+PLD-1-2_1_2,What is that person doing up there...,คนที่อยู่ข้างบนนั่นกำลังทำอะไรอยู่...
+PLD-1-2_1_3,Why is there blood here...|I've been wiping for a long time and it's still not clean|It flowed into the cracks...|Who is the one who insulted the sage!,ทำไมถึงมีเลือดอยู่ตรงนี้... เช็ดมานานแล้วยังไม่สะอาดเลย มันไหลซึมเข้าไปในร่องรอยแตกด้วย... ใครกันที่กล้าดูหมิ่นองค์ปราชญ์!
+PLD-1-2_1_4,What exactly is going on...,เกิดอะไรขึ้นกันแน่...
+PLD-1-2_1_5,"Everyone, over here...",ทุกคน รีบมาดูทางนี้เร็ว...
+PLD-1-2_1_6,"Can't you see we're busy? The Dojokeeper ordered to close the door and refuse visitors today, whoever you are, please run away!",มองไม่เห็นหรือไงว่าพวกเรากำลังยุ่ง? เจ้าสำนักมีคำสั่งห้ามเปิดประตูรับแขกวันนี้ ไม่ว่าท่านจะเป็นผู้ใด รีบไปให้พ้นจากที่นี่เสีย!
+PLD-1-2_1_7,"(These disciples are all busy, they don't even look up at me...)",(พวกศิษย์เหล่านี้ยุ่งกันใหญ่ ถึงขนาดไม่เงยหน้ามองข้าด้วยซ้ำ...)
+PLD-1-2_1_8,(Could something have happened at the Confucius Temple?),(อาจจะมีเรื่องบางอย่างเกิดขึ้นที่วัดขงจื๊อกระมัง...?)
+PLD-1-2_1_9,Isn't this the great hero {PlayerSurName}?,โอ้! นี่มิใช่จอมยุทธ {PlayerSurName} ผู้เลื่องชื่อหรอกหรือ?
+PLD-1-2_1_10,Who are you?,ท่านเป็นใครกัน?
 PLD-1-2_1_11,"I am the Pavilion Master of Blue Water Pavilion, Ma Qingshan. The one who fought with the Master of Lengxiang Gate on the Sword Debate Platform was me.",ข้าคือ หม่าชิงซาน เจ้าสำนักศาลาวารีคราม ผู้ที่ประมือกับเจ้าสำนักเหลิงเซียง บนลานวิจารณ์กระบี่ ก็คือตัวข้าเอง
-PLD-1-2_1_12,(On the Sword Discussion Stage... seems like there is such a person...)
-PLD-1-2_1_13,"Nice to meet you, why is HorsePavilion Master here?"
-PLD-1-2_1_14,"On the Sword Discussion Stage, Cai Dean gave me some advice, so I came to Confucius Temple, hoping to get more guidance from Cai Dean."
-PLD-1-2_1_15,"But when I arrived, it was a mess here."
-PLD-1-2_1_16,Does HorsePavilion Master know what happened?
-PLD-1-2_1_17,"Although I don't know the details, I saw some things."
-PLD-1-2_1_18,"For example, this statue of Confucius, when I came just now, it was splashed with pig's blood, and there were seven blood characters written on it, ""The pursuit of Longevity is in vain""."
-PLD-1-2_1_19,"In addition, it seems that someone has entered the Wenyuan Pavilion in the Confucius Temple. I saw disciples going in and out there, sweating profusely."
-PLD-1-2_2_1,Someone entered the Wenyuan Pavilion? Are my treasured Calligraphy safe?
-PLD-1-2_2_2,I'm not sure about that.
-PLD-1-2_3_1,I hope my scrolls are safe.
-PLD-1-2_4_1,"Wait, Wenyuan Pavilion... Could the thief be after that..."
-PLD-1-2_4_2,"Senior Shu Kuang, do you know something?"
-PLD-1-2_4_3,"...The Dojokeeper previously lent the Hall of righteousness to the Ling siblings. That hall was originally the place where Confucius Temple stored books, but the Dojokeeper specifically moved a book to the Wenyuan Pavilion..."
-PLD-1-2_4_4,Sounds suspicious... What book is it?
-PLD-1-2_4_5,"""Book of Yu Xia""..."
-PLD-1-2_4_6,"No, I can't rest assured about my Calligraphy, I'll be back soon!"
-PLD-1-2_5_1,"Wait for me, I'm going too."
-PLD-1-2_6_1,A moment later...
-PLD-1-2_6_2,"Phew... Fortunately, my Calligraphy are all still there."
-PLD-1-2_7_1,My paintings are also still there.
-PLD-1-2_8_1,"Senior, what about that book?"
-PLD-1-2_8_2,Huh? What book?
-PLD-1-2_8_3,"The ""Book of Yu Xia"" you just mentioned..."
-PLD-1-2_8_4,……
-PLD-1-2_8_5,"You didn't forget it, did you, senior..."
-PLD-1-2_8_6,"No, the secret compartment for storing books was opened, and that book is indeed gone."
-PLD-1-2_8_7,"Could it be that the thief who made a mess of the Confucius Temple was after this ""Book of Yu Xia""?"
-PLD-1-2_8_8,"Not only that, not everyone can find that secret compartment, whoever this thief is, they have a certain understanding of the Confucius Temple."
-PLD-1-2_9_1,Someone entered the Wenyuan Pavilion? My scrolls...
-PLD-1-2_9_2,I'm not sure about that.
-PLD-1-2_9_3,"Wait, Wenyuan Pavilion... Could the thief be after that..."
-PLD-1-2_9_4,"Senior Hua Chi, do you know something?"
-PLD-1-2_9_5,"...The Dojokeeper previously lent the Hall of righteousness to the Ling siblings. That hall was originally the place where Confucius Temple stored books, but the Dojokeeper specifically moved a book to the Wenyuan Pavilion..."
-PLD-1-2_9_6,Sounds suspicious... What book is it?
-PLD-1-2_9_7,"""Book of Yu Xia""..."
-PLD-1-2_9_8,"No, I can't rest assured about my scrolls, wait here for me, I'll be back soon!"
-PLD-1-2_9_9,A moment later...
-PLD-1-2_10_1,"Fortunately, those scrolls were not affected."
-PLD-1-2_10_2,"The secret compartment where the ""Book of Yu Xia"" was stored was opened, and the book is gone."
-PLD-1-2_10_3,"Could it be that the thief who made a mess of the Confucius Temple was after this ""Book of Yu Xia""?"
-PLD-1-2_10_4,"Not only that, not everyone can find that secret compartment, whoever this thief is, they have a certain understanding of the Confucius Temple."
-PLD-1-2_11_1,Wenyuan Pavilion... Could it be that book!
-PLD-1-2_11_2,"Brother Cai, have you thought of something?"
-PLD-1-2_11_3,"My father previously lent the Hall of righteousness to the Ling siblings. That hall was originally the place where Confucius Temple stored books, but my father specifically moved a book to the Wenyuan Pavilion..."
-PLD-1-2_11_4,What book is it?
-PLD-1-2_11_5,"""Book of Yu Xia""..."
-PLD-1-2_11_6,"Brother {PlayerSurName}, I can't rest assured, allow me to go and check."
-PLD-1-2_11_7,A moment later...
-PLD-1-2_12_1,……
-PLD-1-2_12_2,"Looking at Brother Cai's face, could it be..."
-PLD-1-2_12_3,"Yes, the secret compartment for storing books was opened, and that book is gone."
-PLD-1-2_12_4,"Could it be that the thief who made a mess of the Confucius Temple was after this ""Book of Yu Xia""?"
-PLD-1-2_12_5,"Not only that, not everyone can find that secret compartment, whoever this thief is, they have a certain understanding of the Confucius Temple."
-PLD-1-2_13_1,"""Book of Yu Xia""...\nThis is what the thief wanted."
-PLD-1-2_14_1,Wenyuan Pavilion... Could the thief be trying to steal something from the Wenyuan Pavilion?
-PLD-1-2_14_2,Such a guess is reasonable.
-PLD-1-2_15_1,If we could find someone in the Confucius Temple to ask...
-PLD-1-2_15_2,"Give it up, look at them, they are so busy, who has time to deal with you?"
-PLD-1-2_15_3,"Moreover, knowing them as I do, they would never let such a family scandal be known to others."
+PLD-1-2_1_12,(On the Sword Discussion Stage... seems like there is such a person...),(ที่ชุมนุมวิจารณ์กระบี่... ข้าจำได้ว่ามีผู้หนึ่งมีลักษณะเช่นนี้...)
+PLD-1-2_1_13,"Nice to meet you, why is HorsePavilion Master here?",ยินดีที่ได้พบ ไม่ทราบว่าเหตุใดยอดยุทธ์แห่งหอม้าจึงมาปรากฏกาย ณ ที่นี้?
+PLD-1-2_1_14,"On the Sword Discussion Stage, Cai Dean gave me some advice, so I came to Confucius Temple, hoping to get more guidance from Cai Dean.",ณ ชุมนุมวิจารณ์กระบี่ ท่านอาจารย์ไช่ได้ประทานคำชี้แนะแก่ข้า ด้วยเหตุนี้ข้าจึงมุ่งหน้าสู่วัดขงจื๊อ หวังว่าจะได้รับคำสั่งสอนเพิ่มเติมจากท่านอาจารย์ไช่
+PLD-1-2_1_15,"But when I arrived, it was a mess here.",ทว่าเมื่อข้ามาถึง ที่นี่กลับอยู่ในสภาพยับเยิน
+PLD-1-2_1_16,Does HorsePavilion Master know what happened?,ท่านเจ้าสำนักหอม้า ท่านทราบเรื่องที่เกิดขึ้นหรือไม่?
+PLD-1-2_1_17,"Although I don't know the details, I saw some things.",แม้ข้าจะไม่ทราบเรื่องราวโดยละเอียด แต่ก็ได้เห็นบางสิ่งบางอย่าง
+PLD-1-2_1_18,"For example, this statue of Confucius, when I came just now, it was splashed with pig's blood, and there were seven blood characters written on it, ""The pursuit of Longevity is in vain"".",อย่างเช่นรูปปั้นขงจื๊อองค์นี้ เมื่อครู่ที่ข้ามาถึง พบว่ามีผู้เอาเลือดสุกรมาสาดไว้ ทั้งยังเขียนอักษรเจ็ดตัวด้วยเลือด ความว่า 'แสวงหาอายุยืนยาว สุดท้ายก็ไร้ผล'
+PLD-1-2_1_19,"In addition, it seems that someone has entered the Wenyuan Pavilion in the Confucius Temple. I saw disciples going in and out there, sweating profusely.",ยิ่งไปกว่านั้น ดูเหมือนจะมีผู้บุกรุกเข้าไปในหอเวิ่นหยวนในบริเวณวัดขงจื๊อ ข้าเห็นเหล่าศิษย์วิ่งเข้าออกที่นั่น เหงื่อท่วมกายดั่งสายฝน
+PLD-1-2_2_1,Someone entered the Wenyuan Pavilion? Are my treasured Calligraphy safe?,มีผู้บังอาจบุกรุกเข้าหอเวิ่นหยวนกระนั้นหรือ? บรรดาตำราลายพู่กันอันล้ำค่าของข้าจะปลอดภัยดีหรือไม่?
+PLD-1-2_2_2,I'm not sure about that.,เรื่องนี้ข้าก็ไม่อาจรู้แน่ชัด
+PLD-1-2_3_1,I hope my scrolls are safe.,ข้าหวังว่าม้วนคัมภีร์ของข้าจะยังปลอดภัยดี
+PLD-1-2_4_1,"Wait, Wenyuan Pavilion... Could the thief be after that...",เดี๋ยวก่อน หอเวิ่นหยวน... หรือว่าโจรผู้นั้นจะมาเพื่อสิ่งนั้นกระมัง...
+PLD-1-2_4_2,"Senior Shu Kuang, do you know something?",เดี๋ยวก่อน หอเวิ่นหยวน... หรือว่าโจรผู้นั้นจะมาเพื่อสิ่งนั้นกระมัง...
+PLD-1-2_4_3,"...The Dojokeeper previously lent the Hall of righteousness to the Ling siblings. That hall was originally the place where Confucius Temple stored books, but the Dojokeeper specifically moved a book to the Wenyuan Pavilion...",...ท่านเจ้าสำนักเคยให้พี่น้องตระกูลหลิงยืมศาลาแห่งคุณธรรมไป ศาลานั้นแต่เดิมเป็นที่เก็บตำราของวัดขงจื๊อ แต่ท่านเจ้าสำนักกลับแยกหนังสือเล่มหนึ่งไปเก็บที่หอเว่ยหยวนเป็นพิเศษ..
+PLD-1-2_4_4,Sounds suspicious... What book is it?,ช่างชวนสงสัยนัก... ว่าแต่ตำราเล่มนั้นคือตำราอันใด?
+PLD-1-2_4_5,"""Book of Yu Xia""...",คัมภีร์ยวี่เสีย...
+PLD-1-2_4_6,"No, I can't rest assured about my Calligraphy, I'll be back soon!","ไม่, ข้าไม่อาจวางใจเรื่องงานอักษรวิจิตรของข้าได้, ข้าจะรีบกลับไปเดี๋ยวนี้!"
+PLD-1-2_5_1,"Wait for me, I'm going too.","รอก่อน, ข้าไปด้วย!"
+PLD-1-2_6_1,A moment later...,ครู่ต่อมา...
+PLD-1-2_6_2,"Phew... Fortunately, my Calligraphy are all still there.",เฮ้อ... โชคดีที่อักษรวิจิตรของข้ายังอยู่ครบ
+PLD-1-2_7_1,My paintings are also still there.,ภาพวาดของข้าก็ยังอยู่ครบ
+PLD-1-2_8_1,"Senior, what about that book?","ท่านผู้อาวุโส, แล้วคัมภีร์เล่มนั้นเล่า?"
+PLD-1-2_8_2,Huh? What book?,หืม? คัมภีร์อะไรหรือ?
+PLD-1-2_8_3,"The ""Book of Yu Xia"" you just mentioned...",คัมภีร์ 'ยวี่เซี่ย' ที่ท่านเพิ่งกล่าวถึง...
+PLD-1-2_8_4,……,……
+PLD-1-2_8_5,"You didn't forget it, did you, senior...",ท่านผู้อาวุโส... ท่านไม่ได้ลืมมันไปแล้วใช่ไหม...
+PLD-1-2_8_6,"No, the secret compartment for storing books was opened, and that book is indeed gone.",ไม่ใช่... ช่องลับที่ใช้เก็บตำราถูกเปิดออก และคัมภีร์เล่มนั้นหายไปจริงๆ
+PLD-1-2_8_7,"Could it be that the thief who made a mess of the Confucius Temple was after this ""Book of Yu Xia""?",เป็นไปได้หรือไม่ว่า โจรที่ทำวุ่นวายในวัดขงจื๊อนั้น กำลังตามหาคัมภีร์ 'ยวี่เซี่ย' เล่มนี้?
+PLD-1-2_8_8,"Not only that, not everyone can find that secret compartment, whoever this thief is, they have a certain understanding of the Confucius Temple.",ไม่เพียงเท่านั้น ไม่ใช่ใครก็สามารถหาช่องลับนั้นเจอได้ ไม่ว่าโจรผู้นี้จะเป็นใคร พวกเขาต้องมีความรู้ความเข้าใจเกี่ยวกับวัดขงจื๊อพอสมควร
+PLD-1-2_9_1,Someone entered the Wenyuan Pavilion? My scrolls...,มีคนบุกเข้าไปในหอเว่ยหยวนด้วยหรือ? ม้วนคัมภีร์ของข้า...
+PLD-1-2_9_2,I'm not sure about that.,เรื่องนี้ข้าก็ไม่อาจรู้แน่ชัด
+PLD-1-2_9_3,"Wait, Wenyuan Pavilion... Could the thief be after that...",เดี๋ยวก่อน หอเวิ่นหยวน... หรือว่าโจรผู้นั้นจะมาเพื่อสิ่งนั้นกระมัง...
+PLD-1-2_9_4,"Senior Hua Chi, do you know something?",ท่านอาจารย์ฮวาฉี ท่านรู้อะไรบางอย่างหรือเปล่า?
+PLD-1-2_9_5,"...The Dojokeeper previously lent the Hall of righteousness to the Ling siblings. That hall was originally the place where Confucius Temple stored books, but the Dojokeeper specifically moved a book to the Wenyuan Pavilion...",...ท่านเจ้าสำนักเคยให้พี่น้องตระกูลหลิงยืมศาลาแห่งคุณธรรมไป ศาลานั้นแต่เดิมเป็นที่เก็บตำราของวัดขงจื๊อ แต่ท่านเจ้าสำนักกลับแยกหนังสือเล่มหนึ่งไปเก็บที่หอเว่ยหยวนเป็นพิเศษ..
+PLD-1-2_9_6,Sounds suspicious... What book is it?,ช่างชวนสงสัยนัก... ว่าแต่ตำราเล่มนั้นคือตำราอันใด?
+PLD-1-2_9_7,"""Book of Yu Xia""...",คัมภีร์ยวี่เสีย...
+PLD-1-2_9_8,"No, I can't rest assured about my scrolls, wait here for me, I'll be back soon!",ไม่ได้ ข้าเป็นห่วงม้วนคัมภีร์ของข้า รออยู่ที่นี่ก่อน ข้าจะรีบกลับมา!
+PLD-1-2_9_9,A moment later...,ครู่ต่อมา...
+PLD-1-2_10_1,"Fortunately, those scrolls were not affected.",โชคดีที่ม้วนคัมภีร์เหล่านั้นไม่ได้รับความเสียหาย
+PLD-1-2_10_2,"The secret compartment where the ""Book of Yu Xia"" was stored was opened, and the book is gone.",ช่องลับที่เก็บ 'ตำราอวี่เสีย' ถูกเปิดออก และตำราก็หายไปแล้ว
+PLD-1-2_10_3,"Could it be that the thief who made a mess of the Confucius Temple was after this ""Book of Yu Xia""?",เป็นไปได้หรือไม่ว่า โจรที่ทำวุ่นวายในวัดขงจื๊อนั้น กำลังตามหาคัมภีร์ 'ยวี่เซี่ย' เล่มนี้?
+PLD-1-2_10_4,"Not only that, not everyone can find that secret compartment, whoever this thief is, they have a certain understanding of the Confucius Temple.",ไม่เพียงเท่านั้น ไม่ใช่ใครก็สามารถหาช่องลับนั้นเจอได้ ไม่ว่าโจรผู้นี้จะเป็นใคร พวกเขาต้องมีความรู้ความเข้าใจเกี่ยวกับวัดขงจื๊อพอสมควร
+PLD-1-2_11_1,Wenyuan Pavilion... Could it be that book!,หอเว่ยหยวน... เป็นไปได้หรือว่าจะเป็นตำราเล่มนั้น!
+PLD-1-2_11_2,"Brother Cai, have you thought of something?",พี่ไฉ่ ท่านคิดอะไรออกแล้วหรือ?
+PLD-1-2_11_3,"My father previously lent the Hall of righteousness to the Ling siblings. That hall was originally the place where Confucius Temple stored books, but my father specifically moved a book to the Wenyuan Pavilion...",ท่านพ่อของข้าเคยให้พี่น้องสกุลหลิงยืมศาลาแห่งสัจธรรม ที่นั่นเดิมเป็นที่เก็บคัมภีร์ของวัดขงจื๊อ แต่ท่านพ่อกลับย้ายหนังสือเล่มหนึ่งไปไว้ที่หอเว่ยหยวนโดยเฉพาะ...
+PLD-1-2_11_4,What book is it?,มันคือตำราเล่มไหน?
+PLD-1-2_11_5,"""Book of Yu Xia""...",คัมภีร์ยวี่เสีย...
+PLD-1-2_11_6,"Brother {PlayerSurName}, I can't rest assured, allow me to go and check.",ท่านพี่{PlayerSurName} ข้ารู้สึกไม่วางใจ ขอตัวไปดูสักหน่อยนะ
+PLD-1-2_11_7,A moment later...,ครู่ต่อมา...
+PLD-1-2_12_1,……,……
+PLD-1-2_12_2,"Looking at Brother Cai's face, could it be...",ดูจากสีหน้าของพี่ไฉ่แล้ว หรือว่า...
+PLD-1-2_12_3,"Yes, the secret compartment for storing books was opened, and that book is gone.",ใช่แล้ว ช่องลับสำหรับเก็บตำราถูกเปิดออก และหนังสือเล่มนั้นหายไปแล้ว
+PLD-1-2_12_4,"Could it be that the thief who made a mess of the Confucius Temple was after this ""Book of Yu Xia""?",เป็นไปได้หรือไม่ว่า โจรที่ทำวุ่นวายในวัดขงจื๊อนั้น กำลังตามหาคัมภีร์ 'ยวี่เซี่ย' เล่มนี้?
+PLD-1-2_12_5,"Not only that, not everyone can find that secret compartment, whoever this thief is, they have a certain understanding of the Confucius Temple.",ไม่เพียงเท่านั้น ไม่ใช่ใครก็สามารถหาช่องลับนั้นเจอได้ ไม่ว่าโจรผู้นี้จะเป็นใคร พวกเขาต้องมีความรู้ความเข้าใจเกี่ยวกับวัดขงจื๊อพอสมควร
+PLD-1-2_13_1,"""Book of Yu Xia""...\nThis is what the thief wanted.","""ตำราอวี่เสีย...""\nนี่คือสิ่งที่โจรต้องการ"
+PLD-1-2_14_1,Wenyuan Pavilion... Could the thief be trying to steal something from the Wenyuan Pavilion?,หอเว่ยหยวน... หรือว่าโจรกำลังจะไปขโมยของบางอย่างจากหอเว่ยหยวน?
+PLD-1-2_14_2,Such a guess is reasonable.,ข้อสันนิษฐานเช่นนี้ฟังดูสมเหตุสมผล
+PLD-1-2_15_1,If we could find someone in the Confucius Temple to ask...,ถ้าเราพอจะหาใครสักคนในวัดขงจื๊อมาสอบถามได้...
+PLD-1-2_15_2,"Give it up, look at them, they are so busy, who has time to deal with you?",เลิกคิดเถอะ ดูพวกเขาสิ ยุ่งวุ่นวายกันขนาดนั้น ใครจะมีเวลามาสนใจเจ้า?
+PLD-1-2_15_3,"Moreover, knowing them as I do, they would never let such a family scandal be known to others.",ยิ่งไปกว่านั้น ข้ารู้จักนิสัยพวกเขาดี พวกเขาไม่มีทางยอมให้เรื่องอื้อฉาวในตระกูลรั่วไหลออกไปให้คนอื่นรู้แน่
 PLD-1-2_15_4,"{PlayerSurName} hero, it's better not to waste time here."
 PLD-1-2_15_5,……
 PLD-1-2_16_1,What a sin...

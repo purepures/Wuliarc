@@ -1539,45 +1539,45 @@ part-15-2-8,"How about going back with us? With your performance just now, you m
 part-15-2-9,"Well then, I'll respectfully comply.",ถ้าอย่างนั้นข้าไม่เกรงใจท่านแล้วนะ..
 part-15-3-1,"You hit too hard, my ears are still buzzing, but it's a pity, Miss Qincheng is mine haha!",ลงมือหนักเกินไปแล้ว หูข้ายังคงอื้ออึงอยู่เลย แต่ช่างน่าเสียดาย แม่นางชิงเฉิงเป็นของข้าแล้ว ฮ่าๆๆ!
 part-15-3-2,"I heard a commotion from afar, what's going on here?",ได้ยินเสียงอึกทึกครึกโครมมาจากไกล พวกเจ้ากำลังก่อเรื่องอันใดกัน?
-part-15-3-3,"Sir, this man and his gang are harassing me!"
-part-15-3-4,What! It's... I will not forgive those who dare to harass Miss Qincheng!
-part-15-3-5,"Miss Qincheng, don't worry, I will severely punish these scoundrels!"
-part-15-3-6,"Thank you very much, sir."
-part-15-3-7,"The Bailiff, with his fervent enthusiasm, took away the rich young master and his followers."
-part-15-3-8,Miss Qincheng seems to have a high reputation here.
-part-15-3-9,"It's all thanks to the audience's love. Compared to {MyFaction}'s musical, Qincheng's music is just a candlelight."
-part-15-3-10,"I went out today to find the seniors of {MyFaction}, but I didn't expect to encounter such scum on the road."
-part-15-3-11,"How about going back with us? With your performance just now, you might be the top of your class."
-part-15-3-12,"Ah, so you are from {MyFaction}?"
-part-15-3-13,"Well then, I'll respectfully comply."
-part-15-4-1,"Master, the woman who is the talk of the town has disappeared."
-part-15-4-2,I was too busy and neglected... it seems it's not meant to be.
-part-16-0-1,"I heard a terrible flute sound today, did some mediocrity sneak into our sect?"
-part-16-0-2,"Master, the flute sound came from outside the sect."
-part-16-0-3,It seems they want to recommend themselves in this way... send someone to check their qualifications.
-part-16_name,Flute sound outside the door
-part-16_overview,"There is a harsh sound outside the sect, I wonder if there is a mediocrity recommending himself."
-part-16-1-1,The one who can play the flute so badly must be a talent...
-part-16-1-2,A discordant flute sound came from not far away.
-part-16-1-3,"Ha, I finally found you."
-part-16-1-4,"Hi there, senior."
-part-16-1-5,"What a lovely little girl, what's your name, what are you playing?"
-part-16-1-6,"My name is Yu Wei'er, I don't know what this song is called, my mother taught me."
-part-16-1-7,Oh? Who is your mother?
-part-16-1-36,"My mother is my mother, but then she turned into a big fish and swam to the moon in the water."
-part-16-1-8,Turned into a big fish?
-part-16-1-9,"I am a little fish, and my mother is a big fish. This is what my father told me."
-part-16-1-10,Where is your father?
-part-16-1-11,"My father is sleeping over there, he has been lazy and not getting up since yesterday, and he is still not getting up today."
-part-16-1-12,"That Dilapidated Temple? That's too far, how did you get here all by yourself?"
-part-16-1-13,"My father told me to walk here and play, he said that this way people will hear and come to see me."
-part-16-1-14,This location is indeed closer to {MyFaction}.
-part-16-1-15,"Father painstakingly sent his daughter into {MyFaction}, it feels like there is a hidden agenda..."
-part-16-1-16,"Little girl, can you take me to see your daddy? I have something to talk to him about."
-part-16-1-17,Sure!
-part-16-1-18,"In a dilapidated temple not far away, a man is lying on his back in the corner, facing away from the entrance."
-part-16-1-19,"Daddy, someone from {MyFaction} is here to see you."
-part-16-1-20,"Daddy, you lazybones! Are you still asleep?"
+part-15-3-3,"Sir, this man and his gang are harassing me!",ใต้เท้า ชายผู้นี้กับสมุนบริวารมารังแกข้า!
+part-15-3-4,What! It's... I will not forgive those who dare to harass Miss Qincheng!,อะไรกัน! นี่มัน...ข้าจะไม่ปล่อยให้ผู้ใดที่บังอาจมารังแกแม่นางชิงเฉิงไว้แน่!
+part-15-3-5,"Miss Qincheng, don't worry, I will severely punish these scoundrels!",แม่นางชิงเฉิง ท่านวางใจเถิด ข้าจะลงทัณฑ์พวกเศษสวะเหล่านี้ให้สิ้นซาก!
+part-15-3-6,"Thank you very much, sir.",ขอบคุณมาก ใต้เท้า
+part-15-3-7,"The Bailiff, with his fervent enthusiasm, took away the rich young master and his followers.",มือปราบผู้กระตือรือร้น นำตัวคุณชายผู้ร่ำรวยและสมุนรับใช้ไป
+part-15-3-8,Miss Qincheng seems to have a high reputation here.,ดูท่าแม่นางชิงเฉิงจะมีชื่อเสียงขจรขจายที่นี่ไม่น้อย
+part-15-3-9,"It's all thanks to the audience's love. Compared to {MyFaction}'s musical, Qincheng's music is just a candlelight.",ล้วนเป็นเพราะความเมตตาของเหล่าผู้ฟังเท่านั้น เมื่อเทียบกับท่วงทำนองของ{MyFaction}แล้ว ฝีมือของข้าก็เป็นเพียงแสงริบหรี่เท่านั้น
+part-15-3-10,"I went out today to find the seniors of {MyFaction}, but I didn't expect to encounter such scum on the road.",วันนี้ข้าออกจากเรือนก็เพื่อตามหา เหล่าจอมยุทธ์แห่ง{MyFaction} เพียงแต่คาดไม่ถึงว่าจะมาพบเจอ เศษสวะเช่นนี้ระหว่างทาง
+part-15-3-11,"How about going back with us? With your performance just now, you might be the top of your class.",เช่นนั้นก็ดี ไปกับพวกเรากลับสำนักเลยเป็นไร? ด้วยทักษะดนตรีที่ท่านแสดงเมื่อครู่ ไม่แน่ว่าอาจจะได้เป็นจอมยุทธ์ดนตรีอันดับหนึ่งของรุ่นก็เป็นได้
+part-15-3-12,"Ah, so you are from {MyFaction}?",อ้อ ที่แท้พวกท่านก็เป็นศิษย์ของ{MyFaction}กระนั้นหรือ?
+part-15-3-13,"Well then, I'll respectfully comply.",เช่นนั้นข้าก็ขอน้อมรับด้วยความยินดี
+part-15-4-1,"Master, the woman who is the talk of the town has disappeared.",ท่านอาจารย์ แม่นางงามล่มเมืองผู้นั้นหายตัวไปแล้วขอรับ
+part-15-4-2,I was too busy and neglected... it seems it's not meant to be.,มัวแต่ยุ่งจนละเลยไป...ดูท่าคงเป็นวาสนาไม่ถึงกัน
+part-16-0-1,"I heard a terrible flute sound today, did some mediocrity sneak into our sect?",วันนี้ข้าได้ยินเสียงขลุ่ยที่ฟังไม่ได้ศัพท์ มีคนไร้ฝีมือแอบเข้ามาในสำนักเราหรือ?
+part-16-0-2,"Master, the flute sound came from outside the sect.",ท่านอาจารย์  เสียงขลุ่ยนั้นดังมาจากนอกประตูสำนักขอรับ
+part-16-0-3,It seems they want to recommend themselves in this way... send someone to check their qualifications.,ดูท่าคงอยากจะเสนอตัวด้วยวิธีนี้...ส่งคนไปตรวจสอบพรสวรรค์สักหน่อยเถิด
+part-16_name,Flute sound outside the door,เสียงขลุ่ยจากภายนอกประตูนั่น
+part-16_overview,"There is a harsh sound outside the sect, I wonder if there is a mediocrity recommending himself.",ภายนอกสำนักปรากฏเสียงขลุ่ยที่ฟังไม่ได้ศัพท์ ไม่รู้ว่ามีคนไร้ฝีมือมาเสนอตัวหรือไม่
+part-16-1-1,The one who can play the flute so badly must be a talent...,คนที่เป่าขลุ่ยได้ฟังไม่ได้ความขนาดนี้ ก็ต้องเป็นอัจฉริยะคนหนึ่ง...
+part-16-1-2,A discordant flute sound came from not far away.,เสียงขลุ่ยเพี้ยนๆ ดังมาจากที่ที่ไม่ไกลนัก
+part-16-1-3,"Ha, I finally found you.",ฮ่า! ในที่สุดข้าก็เจอท่าน...
+part-16-1-4,"Hi there, senior.",สวัสดี ท่านผู้เฒ่า
+part-16-1-5,"What a lovely little girl, what's your name, what are you playing?",แม่นางน้อยน่ารักจริงเชียว เจ้าชื่อกระไร เป่าสิ่งใดอยู่ฤา?
+part-16-1-6,"My name is Yu Wei'er, I don't know what this song is called, my mother taught me.",ข้ามีนามว่า อวี๋เว่ยเอ๋อร์ ข้าก็ไม่รู้ว่าเพลงนี้ชื่อกระไร ท่านแม่เป็นผู้สอนข้า
+part-16-1-7,Oh? Who is your mother?,โอ้? แล้วมารดาของเจ้าเป็นผู้ใดฤา?
+part-16-1-36,"My mother is my mother, but then she turned into a big fish and swam to the moon in the water.",มารดาของข้าก็คือมารดาของข้าอย่างไรเล่า แต่ภายหลังท่านก็กลายร่างเป็นปลาใหญ่ ว่ายไปยังดวงจันทร์ในธาราไปแล้ว
+part-16-1-8,Turned into a big fish?,กลายร่างเป็นปลาใหญ่เช่นนั้นรึ?
+part-16-1-9,"I am a little fish, and my mother is a big fish. This is what my father told me.",ข้าเป็นปลาตัวน้อย มารดาของข้าก็คือปลาใหญ่ นั่นเป็นสิ่งที่ท่านพ่อบอกข้า
+part-16-1-10,Where is your father?,แล้วบิดาของเจ้าเล่า อยู่แห่งหนใดฤา?
+part-16-1-11,"My father is sleeping over there, he has been lazy and not getting up since yesterday, and he is still not getting up today.",บิดาของข้านอนหลับอยู่ ณ ที่นั้น ท่านผัดวันประกันพรุ่งไม่ยอมลุกมาตั้งแต่เมื่อวาน วันนี้ก็ยังคงไม่ลุก
+part-16-1-12,"That Dilapidated Temple? That's too far, how did you get here all by yourself?",ศาลเจ้าผุพังนั่นรึ? ไกลเกินไปแล้วกระมัง เจ้าเดินทางมาที่นี่ได้อย่างไรเพียงลำพัง?
+part-16-1-13,"My father told me to walk here and play, he said that this way people will hear and come to see me.",ท่านพ่อบอกให้ข้าเดินมาเป่าขลุ่ยที่นี่ ท่านบอกว่าเช่นนี้จะมีคนได้ยินแล้วมาดูข้า
+part-16-1-14,This location is indeed closer to {MyFaction}.,ตำแหน่งที่แห่งนี้อยู่ใกล้กับ{MyFaction}ยิ่งนัก
+part-16-1-15,"Father painstakingly sent his daughter into {MyFaction}, it feels like there is a hidden agenda...",บิดาพยายามอย่างยิ่งยวดส่งบุตรีเข้าสู่{MyFaction} เหตุใดข้าจึงรู้สึกว่ามีเจตนาแอบแฝง...
+part-16-1-16,"Little girl, can you take me to see your daddy? I have something to talk to him about.",แม่นางน้อย พาข้าไปพบบิดาของเจ้าหน่อยได้หรือไม่ ข้ามีเรื่องจะสนทนากับเขา
+part-16-1-17,Sure!,ได้สิ เชิญท่าน!
+part-16-1-18,"In a dilapidated temple not far away, a man is lying on his back in the corner, facing away from the entrance.",ในศาลเจ้าผุพังที่อยู่ไม่ไกลนัก มีบุรุษผู้หนึ่งนอนหันหลังให้ประตูในมุมอับของศาลเจ้า
+part-16-1-19,"Daddy, someone from {MyFaction} is here to see you.",ท่านพ่อ มีคนจาก{MyFaction}มาหาท่าน
+part-16-1-20,"Daddy, you lazybones! Are you still asleep?",ท่านพ่อจอมขี้เซา! ยังไม่ตื่นอีกรึ?
 part-16-1-21,"Senior, I am a disciple of {MyFaction}, may I ask you to stand up and talk?"
 part-16-1-22,Daddy! Someone's calling you!
 part-16-1-23,"Wow, daddy, why is your hand so cold?"
