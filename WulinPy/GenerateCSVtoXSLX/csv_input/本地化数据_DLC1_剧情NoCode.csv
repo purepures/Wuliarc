@@ -1752,12 +1752,12 @@ part-21-0-2,"You find it tricky? Alright, I will send someone to treat them."
 part-21_name,Illusionary Dream Disease,โรคประหลาดแห่งห้วงนิทรา
 part-21_overview,"A difficult patient has come to the sect, send someone to treat him quickly.",ศิษย์สำนักนำพาผู้ป่วยประหลาดมารักษา ท่านจงรีบส่งคนไปช่วยเหลือโดยด่วน!
 part-21-1-1,"This lady's symptoms are excessive sleepiness regardless of the situation, but fortunately, we have recently acquired a lot of herbs, enough to make medicine."
-part-21-1-2,Huff... huff.
-part-21-1-3,Huff!
-part-21-1-4,Miss! Why are you holding a sword?
-part-21-1-5,Huff...
+part-21-1-2,Huff... huff.,ฮึด......ฮึดฮึด
+part-21-1-3,Huff!,ฮึด!
+part-21-1-4,Miss! Why are you holding a sword?,แม่นาง! เจ้าถือดาบทำไม?
+part-21-1-5,Huff...,ฮึด.....
 part-21-1-6,"Still sleeping, this... she's not sleepwalking, is she?"
-part-21-1-7,Huff!
+part-21-1-7,Huff!,ฮึด!
 part-21-1-8,"Damn, subdue the patient first!"
 part-21-2-1,I just dreamed that I became a willow tree...
 part-21-2-2,Then we can consider that we have practiced with a willow tree.
@@ -1784,27 +1784,27 @@ part-22_name,Animal Pen Disturbance
 part-22_overview,"Due to the disciple's negligence, the animal pen has started to stir, it's best to send someone to handle it!"
 part-22-1-1,"This is bad, these beasts have started to slam the cage door!"
 part-22-1-2,It's all your fault for dragging it out and not finding them a mate to breed with!
-part-22-1-3,Roar!
-part-22-1-4,Howl!
+part-22-1-3,Roar!,โฮก!
+part-22-1-4,Howl!,โบร๋ว!
 part-22-1-5,I'm here to help you!
-part-22-1-6,"No, miss, step back quickly!"
-part-22-1-7,You all!! Listen to me!!
-part-22-1-8,Silence!!!
+part-22-1-6,"No, miss, step back quickly!",ไม่ แม่นาง ถอยกลับไปซะ!
+part-22-1-7,You all!! Listen to me!!,เฮ้ยพวกเจ้า!! จงฟังข้า!!
+part-22-1-8,Silence!!!,เงียบ ! ! !
 part-22-1-9,……,……
 part-22-1-10,……,……
 part-22-1-11,……,……
 part-22-1-12,"They all shrank back into the corner of the cage and trembled, I didn't expect the miss to have such a strong oppressive force on the beasts..."
-part-22-1-13,She's usually so gentle...
-part-22-1-14,Roar!
+part-22-1-13,She's usually so gentle...,ในชีวิตประจำวันปกติเธอจะอ่อนโยนมาก.......
+part-22-1-14,Roar!,โฮก!
 part-22-1-15,"No, this Tiger is not self-restrained!",ไม่ไหวแล้ว เสือตัวนี้ควบคุมไม่ได้เลย!
-part-22-1-16,It's about to break out of the cage!
-part-22-1-17,Leave it to me!
-part-22-2-1,Get back in the cage!!
-part-22-2-2,Meow...
-part-22-2-3,Phew... all the beasts have calmed down...
+part-22-1-16,It's about to break out of the cage!,มันกำลังจะหลุดออกจากกรงแล้ว!
+part-22-1-17,Leave it to me!,ปล่อยเป็นหน้าที่ของข้า!
+part-22-2-1,Get back in the cage!!,กลับเข้าไปในกรงซะ! !
+part-22-2-2,Meow...,เหมียว......
+part-22-2-3,Phew... all the beasts have calmed down...,เฮ้อ.....พวกสัตว์ป่าทั้งหลายสงบลงแล้ว.......
 part-22-2-4,As expected of the young lady... It seems that she can completely share the worries of the manor.
 part-22-2-5,"I was thinking the same thing. Auntie is too tired to handle everything by herself, if I can share some of the burden, she can relax a bit."
-part-22-3-1,Roar!
+part-22-3-1,Roar!,โฮก!
 part-22-3-2,"A large net fell from the sky, trapping this Fierce Tiger under it, making it unable to move!"
 part-22-3-3,"Fortunately, we have enough people, it was really dangerous..."
 part-22-3-4,"However, even so, the young lady's skill in managing beasts is obvious to all, just lacking some practice."
@@ -1817,7 +1817,7 @@ part-23-0-3,"Hmm... So he's having a hard time outside, huh, thinking of home at
 part-23_name,Letter from the wanderer
 part-23_overview,"The wandering son Lu finally sent a letter, saying he encountered some difficulties outside."
 part-23-1-1,"Although Lu Jian Nan likes to travel and play in the mountains and water, the places he travels to are too remote. It looks like a fierce beast could pounce out at any time..."
-part-23-1-2,Howl!
+part-23-1-2,Howl!,โบร๋ว!
 part-23-1-3,You jinx!
 part-23-2-1,Woo...
 part-23-2-2,"Fortunately, this snow leopard is a bit injured, otherwise this sudden attack would be tricky..."
