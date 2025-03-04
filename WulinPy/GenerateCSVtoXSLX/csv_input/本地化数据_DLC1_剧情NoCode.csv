@@ -1747,114 +1747,114 @@ part-20-5-4,"That's great, come back with me, I'll make sure you get a good posi
 part-20-6-1,"Zhuge Shenji lightly shook his feather fan, walked away leisurely, and disappeared from your sight.",จูเก๋อเสินจีโบกพัดขนนกอย่างเบาๆ แล้วเดินจากไปอย่างไม่เร่งรีบ จนลับสายตาของพวกเจ้า
 part-20-7-1,"We received a message saying that the standoff lasted too long, they let that ship escape, and got nothing!",เราได้รับข้อความ พวกเขาบอกว่า การต่อสู้ยืดเยื้อนานเกินไป สุดท้ายต้องปล่อยเรือลำนั้นไปแล้ว ไม่ได้อะไรทั้งสิ้น!
 part-20-7-2,I forgot about this for a moment... never mind.,ข้าลืมเรื่องนี้ไปหรือนี่...แต่ช่างมันเถอะ
-part-21-0-1,Leader! A very tricky patient has arrived today!
-part-21-0-2,"You find it tricky? Alright, I will send someone to treat them."
+part-21-0-1,Leader! A very tricky patient has arrived today!,ท่านเจ้าสำนัก! วันนี้มีผู้ป่วยรายหนึ่งมาขอการรักษา ช่างเป็นเอาการที่ยากจะรับมือยิ่งนัก!
+part-21-0-2,"You find it tricky? Alright, I will send someone to treat them.",ขนาดเจ้ายังว่ายากเช่นนั้นรึ? ดีล่ะ ข้าจะส่งคนไปตรวจดู
 part-21_name,Illusionary Dream Disease,โรคประหลาดแห่งห้วงนิทรา
 part-21_overview,"A difficult patient has come to the sect, send someone to treat him quickly.",ศิษย์สำนักนำพาผู้ป่วยประหลาดมารักษา ท่านจงรีบส่งคนไปช่วยเหลือโดยด่วน!
-part-21-1-1,"This lady's symptoms are excessive sleepiness regardless of the situation, but fortunately, we have recently acquired a lot of herbs, enough to make medicine."
+part-21-1-1,"This lady's symptoms are excessive sleepiness regardless of the situation, but fortunately, we have recently acquired a lot of herbs, enough to make medicine.",อาการของสตรีผู้นี้คือหลับใหลไม่เลือกกาลเทศะ โชคดีที่ช่วงนี้สำนักเรามีสมุนไพรมากมายพอจะปรุงยาตามอาการได้
 part-21-1-2,Huff... huff.,ฮึด......ฮึดฮึด
 part-21-1-3,Huff!,ฮึด!
-part-21-1-4,Miss! Why are you holding a sword?,แม่นาง! เจ้าถือดาบทำไม?
+part-21-1-4,Miss! Why are you holding a sword?,แม่นาง! ไยเจ้าจึงชักกระบี่ออกมา?
 part-21-1-5,Huff...,ฮึด.....
-part-21-1-6,"Still sleeping, this... she's not sleepwalking, is she?"
+part-21-1-6,"Still sleeping, this... she's not sleepwalking, is she?",นางยังคงหลับอยู่...นี่...หรือว่านางกำลังละเมอ?
 part-21-1-7,Huff!,ฮึด!
-part-21-1-8,"Damn, subdue the patient first!"
-part-21-2-1,I just dreamed that I became a willow tree...
-part-21-2-2,Then we can consider that we have practiced with a willow tree.
-part-21-2-3,"Ah, I'm sorry, I'm sorry, I didn't hurt you, did I?"
-part-21-2-4,"Miss Ling's swordsmanship is ever-changing, it's really impressive. Don't rush to apologize, come on, take your medicine."
-part-21-2-5,Medicine? Can my illness be cured?
-part-21-2-6,"Yes, we disciples have been researching treatment strategies together, and finally made a medicine that can cure your disease."
-part-21-2-7,I... please accept my bow!
-part-21-2-8,"No need to bow, these guys usually compete with each other, and no one respects anyone. But when they heard about this tricky disease, they all rushed over to try their hand!"
-part-21-2-9,Six shichen later
-part-21-2-10,How do you feel?
-part-21-2-11,"My mind has never been so clear, and I feel so relaxed... It seems that my disease is completely cured?"
-part-21-2-12,A cheer erupted from the thatched cottage.
-part-21-2-13,"I, Ling Mengdie, am willing to be a grass ring for {MyFaction} to repay your great kindness!"
-part-21-2-14,Are you going to join us?
-part-21-2-15,Yes! Please do not reject my heart of gratitude!
-part-21-2-16,"Although your medical skills are average, you are knowledgeable, have excellent swordsmanship, and are exactly what I {MyFaction} need!"
-part-21-3-1,"Report to the head, the difficult patient who has been waiting for a long time has run away first."
-part-21-3-2,"I've been so busy that I neglected it... Well, when she can't find a good doctor, she'll probably come back."
-part-22-0-1,"Recently, the animal pen has started to stir, it seems you have been negligent!"
-part-22-0-2,"I have failed the leader's trust, I am willing to be punished."
-part-22-0-3,"Forget it, the important thing now is to calm the disturbance in the animal pen, I will arrange for someone to handle it."
-part-22_name,Animal Pen Disturbance
-part-22_overview,"Due to the disciple's negligence, the animal pen has started to stir, it's best to send someone to handle it!"
-part-22-1-1,"This is bad, these beasts have started to slam the cage door!"
-part-22-1-2,It's all your fault for dragging it out and not finding them a mate to breed with!
+part-21-1-8,"Damn, subdue the patient first!",ช่างร้ายกาจนัก จับตัวนางไว้ก่อน!
+part-21-2-1,I just dreamed that I became a willow tree...,เมื่อครู่ข้าฝันว่าตนเองกลายเป็นต้นหลิว...
+part-21-2-2,Then we can consider that we have practiced with a willow tree.,เช่นนั้นพวกเราก็ประลองยุทธ์กับต้นหลิวไปแล้วสินะ
+part-21-2-3,"Ah, I'm sorry, I'm sorry, I didn't hurt you, did I?",อ๊ะ ข้าขอโทษ ข้ามิได้ทำร้ายพวกท่านไปใช่หรือไม่? โอ้ไม่นะ?
+part-21-2-4,"Miss Ling's swordsmanship is ever-changing, it's really impressive. Don't rush to apologize, come on, take your medicine.",เพลงกระบี่ของแม่นางหลิงพลิกแพลงพันลึก สมคำร่ำลือ ไม่จำเป็นต้องกล่าวคำขอโทษเลย มาๆ รีบดื่มยานี่เถอะ
+part-21-2-5,Medicine? Can my illness be cured?,ยา? หรือว่า...โรคของข้าจะรักษาได้รึ?
+part-21-2-6,"Yes, we disciples have been researching treatment strategies together, and finally made a medicine that can cure your disease.",ถูกต้อง ศิษย์หลายคนของเราร่วมกันคิดค้นตำรับยา จนในที่สุดก็ปรุงยาที่รักษาโรคของเจ้าได้สำเร็จ
+part-21-2-7,I... please accept my bow!,ข้า...ได้โปรดรับการคารวะจากข้าด้วย!
+part-21-2-8,"No need to bow, these guys usually compete with each other, and no one respects anyone. But when they heard about this tricky disease, they all rushed over to try their hand!",ไม่จำเป็นต้องคารวะเลย พวกศิษย์เหล่านี้ปกติก็แข่งกันเอง มิมีใครยอมใคร ครั้นได้ยินว่ามีโรคประหลาดเช่นนี้ ต่างก็รีบมาประลองฝีมือกันยกใหญ่!
+part-21-2-9,Six shichen later,หกชั่วยามต่อมา
+part-21-2-10,How do you feel?,รู้สึกเป็นเช่นไรบ้าง?
+part-21-2-11,"My mind has never been so clear, and I feel so relaxed... It seems that my disease is completely cured?",จิตใจข้าไม่เคยปลอดโปร่งเช่นนี้มาก่อน ร่างกายเบาสบาย...โรคของข้า...หายดีแล้วหรือ?
+part-21-2-12,A cheer erupted from the thatched cottage.,เสียงโห่ร้องยินดีดังกระหึ่มไปทั่วกระท่อม
+part-21-2-13,"I, Ling Mengdie, am willing to be a grass ring for {MyFaction} to repay your great kindness!",ข้าน้อยหลิง เมิ่งเตี๋ย จะขอตอบแทนพระคุณของ {MyFaction} จนชีพหาไม่!
+part-21-2-14,Are you going to join us?,เจ้าจะเข้าร่วมกับเราหรือ?
+part-21-2-15,Yes! Please do not reject my heart of gratitude!,ใช่แล้ว! โปรดรับความตั้งใจของข้าด้วย!
+part-21-2-16,"Although your medical skills are average, you are knowledgeable, have excellent swordsmanship, and are exactly what I {MyFaction} need!",แม้เจ้าจะมิเชี่ยวชาญการแพทย์ แต่ความรู้กว้างขวาง ความจำเป็นเลิศ และเพลงกระบี่ก็ยอดเยี่ยม ล้วนเป็นสิ่งที่ {MyFaction} นั้นต้องการ!
+part-21-3-1,"Report to the head, the difficult patient who has been waiting for a long time has run away first.",เรียนท่านเจ้าสำนัก เนื่องด้วยผู้ป่วยอาการหนักท่านนั้นรอรับการรักษานานเกินไป จึงได้จากไปแล้ว
+part-21-3-2,"I've been so busy that I neglected it... Well, when she can't find a good doctor, she'll probably come back.",ข้ามัวแต่ยุ่งวุ่นวายจนละเลยไป...ช่างเถิด หากนางหาหมอที่ดีมิได้ คงจะกลับมาเอง
+part-22-0-1,"Recently, the animal pen has started to stir, it seems you have been negligent!",ช่วงนี้กรงสัตว์เริ่มส่งเสียงดังวุ่นวายแล้ว เห็นทีพวกเจ้าจะละเลยไปรึไม่!
+part-22-0-2,"I have failed the leader's trust, I am willing to be punished.",ข้าน้อยผิดต่อความไว้วางใจของท่านเจ้าสำนัก โปรดลงโทษทัณฑ์ด้วย
+part-22-0-3,"Forget it, the important thing now is to calm the disturbance in the animal pen, I will arrange for someone to handle it.",ช่างเถิด ตอนนี้เรื่องสำคัญคือหาวิธีสงบความวุ่นวายในกรงสัตว์ ข้าจะส่งคนไปจัดการเอง
+part-22_name,Animal Pen Disturbance,กรงสัตว์ปั่นป่วน
+part-22_overview,"Due to the disciple's negligence, the animal pen has started to stir, it's best to send someone to handle it!",เนื่องด้วยความประมาทของศิษย์ ทำให้กรงสัตว์ปั่นป่วนวุ่นวาย ควรส่งคนไปจัดการโดยเร็ว!
+part-22-1-1,"This is bad, these beasts have started to slam the cage door!",แย่แล้ว พวกสัตว์ร้ายเริ่มกระแทกประตูกรงแล้ว!
+part-22-1-2,It's all your fault for dragging it out and not finding them a mate to breed with!,ก็เพราะพวกเจ้ามัวแต่ลีลาชักช้า ไม่ยอมหาคู่ให้พวกมันผสมพันธุ์เสียที!
 part-22-1-3,Roar!,โฮก!
 part-22-1-4,Howl!,โบร๋ว!
-part-22-1-5,I'm here to help you!
-part-22-1-6,"No, miss, step back quickly!",ไม่ แม่นาง ถอยกลับไปซะ!
+part-22-1-5,I'm here to help you!,ข้าจะช่วยพวกท่านเอง!
+part-22-1-6,"No, miss, step back quickly!",มิได้ๆ คุณหนู โปรดถอยไปก่อน!
 part-22-1-7,You all!! Listen to me!!,เฮ้ยพวกเจ้า!! จงฟังข้า!!
 part-22-1-8,Silence!!!,เงียบ ! ! !
 part-22-1-9,……,……
 part-22-1-10,……,……
 part-22-1-11,……,……
-part-22-1-12,"They all shrank back into the corner of the cage and trembled, I didn't expect the miss to have such a strong oppressive force on the beasts..."
-part-22-1-13,She's usually so gentle...,ในชีวิตประจำวันปกติเธอจะอ่อนโยนมาก.......
+part-22-1-12,"They all shrank back into the corner of the cage and trembled, I didn't expect the miss to have such a strong oppressive force on the beasts...",พวกมันซุกตัวสั่นงันงกอยู่ในมุมกรงหมดแล้ว ไม่นึกเลยว่าคุณหนูจะมีพลังกดดันสัตว์ร้ายได้มากมายเพียงนี้...
+part-22-1-13,She's usually so gentle...,ปกตินางจะคนที่อ่อนโยนมาก.......
 part-22-1-14,Roar!,โฮก!
-part-22-1-15,"No, this Tiger is not self-restrained!",ไม่ไหวแล้ว เสือตัวนี้ควบคุมไม่ได้เลย!
+part-22-1-15,"No, this Tiger is not self-restrained!",ไม่นะ เสือตัวนี้ยังมิยอมสยบ!
 part-22-1-16,It's about to break out of the cage!,มันกำลังจะหลุดออกจากกรงแล้ว!
 part-22-1-17,Leave it to me!,ปล่อยเป็นหน้าที่ของข้า!
 part-22-2-1,Get back in the cage!!,กลับเข้าไปในกรงซะ! !
 part-22-2-2,Meow...,เหมียว......
 part-22-2-3,Phew... all the beasts have calmed down...,เฮ้อ.....พวกสัตว์ป่าทั้งหลายสงบลงแล้ว.......
-part-22-2-4,As expected of the young lady... It seems that she can completely share the worries of the manor.
-part-22-2-5,"I was thinking the same thing. Auntie is too tired to handle everything by herself, if I can share some of the burden, she can relax a bit."
+part-22-2-4,As expected of the young lady... It seems that she can completely share the worries of the manor.,สมกับที่เป็นคุณหนู...เห็นทีคุณหนูจะช่วยแบ่งเบาภาระของหมู่ตึกได้แล้ว
+part-22-2-5,"I was thinking the same thing. Auntie is too tired to handle everything by herself, if I can share some of the burden, she can relax a bit.",ข้าก็ตั้งใจเช่นนั้น ท่านป้าต้องดูแลกิจการทั้งหมดคนเดียวเหนื่อยเกินไป หากข้าช่วยแบ่งเบาได้ ท่านก็จะสบายขึ้นบ้าง
 part-22-3-1,Roar!,โฮก!
-part-22-3-2,"A large net fell from the sky, trapping this Fierce Tiger under it, making it unable to move!"
-part-22-3-3,"Fortunately, we have enough people, it was really dangerous..."
-part-22-3-4,"However, even so, the young lady's skill in managing beasts is obvious to all, just lacking some practice."
-part-22-3-5,"I was thinking the same thing. Auntie is too tired to handle everything by herself, if I can share some of the burden, she can relax a bit."
-part-22-4-1,"Report, the disturbance in the animal pen has been completely quelled."
-part-22-4-2,"Sigh... I'm getting old, I forgot about this, I'm afraid it will happen again next year."
-part-23-0-1,"Leader, we received a letter from Lu Gongzi who is traveling outside!"
-part-23-0-2,"What, bring it up quickly!"
-part-23-0-3,"Hmm... So he's having a hard time outside, huh, thinking of home at this time?"
-part-23_name,Letter from the wanderer
-part-23_overview,"The wandering son Lu finally sent a letter, saying he encountered some difficulties outside."
-part-23-1-1,"Although Lu Jian Nan likes to travel and play in the mountains and water, the places he travels to are too remote. It looks like a fierce beast could pounce out at any time..."
+part-22-3-2,"A large net fell from the sky, trapping this Fierce Tiger under it, making it unable to move!",ตาข่ายขนาดใหญ่ถูกทิ้งลงจากฟากฟ้า รวบตัวพยัคฆ์ร้ายไว้ใต้ร่าง ทำให้มันขยับเขยื้อนมิได้!
+part-22-3-3,"Fortunately, we have enough people, it was really dangerous...",โชคดีที่เรามีกำลังคนเพียงพอ ช่างน่าหวาดเสียว...
+part-22-3-4,"However, even so, the young lady's skill in managing beasts is obvious to all, just lacking some practice.",แต่ถึงกระนั้น ความสามารถในการควบคุมสัตว์ร้ายของคุณหนูก็เป็นที่ประจักษ์ เพียงแต่ยังขาดการฝึกฝนอีกเล็กน้อยเท่านั้น
+part-22-3-5,"I was thinking the same thing. Auntie is too tired to handle everything by herself, if I can share some of the burden, she can relax a bit.",ข้าก็ตั้งใจเช่นนั้น ท่านป้าต้องดูแลกิจการทั้งหมดคนเดียวเหนื่อยเกินไป หากข้าช่วยแบ่งเบาได้ ท่านก็จะสบายขึ้นบ้าง
+part-22-4-1,"Report, the disturbance in the animal pen has been completely quelled.",รายงาน ความวุ่นวายในกรงสัตว์สงบลงหมดแล้ว
+part-22-4-2,"Sigh... I'm getting old, I forgot about this, I'm afraid it will happen again next year.",เฮ้อ...แก่แล้วก็หลงลืมเรื่องราวไปเสียสิ้น เกรงว่าปีหน้าคงต้องเจอเรื่องเช่นนี้อีก
+part-23-0-1,"Leader, we received a letter from Lu Gongzi who is traveling outside!",ท่านเจ้าหมู่ตึก คุณชายลู่ที่ออกท่องยุทธภพได้ส่งจดหมายมา!
+part-23-0-2,"What, bring it up quickly!",อะไรนะ เร็วเข้า นำมาให้ข้าดู!
+part-23-0-3,"Hmm... So he's having a hard time outside, huh, thinking of home at this time?",อืม...ที่แท้เขาพบความยากลำบากที่ภายนอก เฮอะ ตอนนี้เพิ่งคิดถึงบ้านรึ?
+part-23_name,Letter from the wanderer,จดหมายจากคุณชายจร
+part-23_overview,"The wandering son Lu finally sent a letter, saying he encountered some difficulties outside.",คุณชายลู่ผู้ท่องยุทธภพอย่างไร้แก่นสารส่งจดหมายมา แจ้งว่าพบอุปสรรคบางประการ
+part-23-1-1,"Although Lu Jian Nan likes to travel and play in the mountains and water, the places he travels to are too remote. It looks like a fierce beast could pounce out at any time...",แม้ลู่เจี้ยนหนานจะชอบท่องเที่ยวชมธรรมชาติ แต่สถานที่ที่เขาไปนั้นช่างทุรกันดารยิ่งนัก ราวกับจะมีสัตว์ร้ายกระโจนออกมาได้ทุกเมื่อ...
 part-23-1-2,Howl!,โบร๋ว!
-part-23-1-3,You jinx!
-part-23-2-1,Woo...
-part-23-2-2,"Fortunately, this snow leopard is a bit injured, otherwise this sudden attack would be tricky..."
-part-23-2-3,Found it! Hey? You guys finally made it!
-part-23-2-4,"You came here alone, it's too dangerous!"
-part-23-2-5,"Hey, I'm doing this for it."
-part-23-2-6,Meow...
-part-23-2-7,Why is there another Little Snow Leopard?
-part-23-2-8,"The one who just attacked you was this Little Snow Leopard's mother, she recently went mad for some reason, even wanting to hurt her own child."
-part-23-2-9,"I need to protect the snow fluff, I can't spare my hands to subdue this big snow leopard. So I had to send a pigeon letter to ask you for help."
-part-23-2-10,Thinking of home at this time?
-part-23-2-11,Uh... let's take the snow leopard mother and child home quickly...
-part-23-2-12,"After Lu Jian Nan returned to the sect, he was reprimanded by Tang Tai Jun and advised by his cousin. At least until the Little Snow Leopard is tamed, he dare not leave the manor privately."
-part-23-3-1,Roar!!
-part-23-3-2,Woo...
-part-23-3-3,"Fortunately, this snow leopard is injured, the open wound tore even larger after the fight just now."
-part-23-3-4,Found it! Hey? Why does it look like this?
-part-23-3-5,Meow...
-part-23-3-6,Why is there another Little Snow Leopard?
-part-23-3-7,"The one who attacked you just now was this Little Snow Leopard's mother, she recently went mad for some reason and even wanted to hurt the Little Snow Leopard."
-part-23-3-8,"I need to protect the snow fluff, I can't spare my hands to subdue this big snow leopard. So I had to send a pigeon letter to ask you for help."
-part-23-3-9,"Quick, save this snow leopard!"
-part-23-3-10,Should we save this big snow leopard?
-part-23_option1,Let's save it! (1500Herb)
-part-23_option2,We can't use herbs to save beasts.
-part-23-4-1,"Let's use the herbs to bandage it up for now, and then rush it to the manor for treatment!"
-part-23-4-2,"Great, that's fantastic!"
-part-23-4-3,"After Lu Jian Nan returned to the sect, he was reprimanded by Tang Tai Jun and advised by his cousin. At least until the Little Snow Leopard is tamed, he dare not leave the manor privately."
-part-23-5-1,"No, even if this snow leopard's injuries are healed, it won't be of any use to the manor."
-part-23-5-2,"But, if this snow leopard doesn't get timely treatment, it might die!"
-part-23-5-3,"Forget about this snow leopard, let's go back! The leader needs you very much right now."
-part-23-5-4,Woo...
-part-23-5-5,"You guys go ahead, I'll think of something else..."
-part-23-5-6,"No matter how you persuade him, Lu Jian Nan is still stubbornly unwilling to turn back."
-part-23-6-1,"Leader, Young Master Lu has sent another letter!"
-part-23-6-2,"Let me see... He says the trouble has been resolved, no need to worry."
-part-23-6-3,"Now, I don't know where to find him... Let's wait for his next letter."
+part-23-1-3,You jinx!,เจ้าตัวซวย!
+part-23-2-1,Woo...,อู...
+part-23-2-2,"Fortunately, this snow leopard is a bit injured, otherwise this sudden attack would be tricky...",โชคดีที่เสือดาวหิมะตัวนี้บาดเจ็บอยู่เล็กน้อย มิเช่นนั้นการโจมตีฉับพลันนี้คงยากจะรับมือ...
+part-23-2-3,Found it! Hey? You guys finally made it!,พบแล้ว! เฮ้? ในที่สุดก็เจอเสียที!
+part-23-2-4,"You came here alone, it's too dangerous!",เจ้ามาที่นี่คนเดียว นี่มันอันตรายเกินไปแล้ว!
+part-23-2-5,"Hey, I'm doing this for it.",อ้า ข้าก็มาเพราะเจ้านี่ นี่แหละ
+part-23-2-6,Meow...,เหมียว...
+part-23-2-7,Why is there another Little Snow Leopard?,เหตุใดจึงมีเสือดาวหิมะน้อยอยู่อีกตัว?
+part-23-2-8,"The one who just attacked you was this Little Snow Leopard's mother, she recently went mad for some reason, even wanting to hurt her own child.",ตัวที่โจมตีพวกท่านเมื่อครู่คือแม่ของเสือดาวหิมะน้อยตัวนี้ ช่วงหลังมานี้นางคลุ้มคลั่งด้วยเหตุผลบางประการ ถึงขนาดจะทำร้ายลูกของตนเองด้วย
+part-23-2-9,"I need to protect the snow fluff, I can't spare my hands to subdue this big snow leopard. So I had to send a pigeon letter to ask you for help.",ข้าต้องปกป้องเสวี่ยหรงน้อย จึงมิอาจปลีกตัวไปปราบเสือดาวหิมะตัวใหญ่ได้ จึงต้องส่งสารด้วยนกพิราบไปขอความช่วยเหลือจากพวกท่าน
+part-23-2-10,Thinking of home at this time?,ก็เลยคิดถึงที่หมู่ตึกตอนนี้เนี่ยนะ?
+part-23-2-11,Uh... let's take the snow leopard mother and child home quickly...,น่าๆ...พวกเรารีบพาแม่และลูกเสือดาวหิมะกลับหมู่ตึกกันเถอะ...
+part-23-2-12,"After Lu Jian Nan returned to the sect, he was reprimanded by Tang Tai Jun and advised by his cousin. At least until the Little Snow Leopard is tamed, he dare not leave the manor privately.",หลังจากลู่เจี้ยนหนานกลับมาถึงหมู่ตึก ก็ถูกท่านย่าถังตำหนิ และได้รับการตักเตือนจากน้องสาว อย่างน้อยจนกว่าเสือดาวหิมะน้อยจะเชื่อง เขาคงมิกล้าออกจากหมู่ตึกตามลำพังอีก
+part-23-3-1,Roar!!,โฮก!!
+part-23-3-2,Woo...,อู...
+part-23-3-3,"Fortunately, this snow leopard is injured, the open wound tore even larger after the fight just now.",โชคดีที่เสือดาวหิมะตัวนี้บาดเจ็บอยู่ การต่อสู้ทำให้บาดแผลของมันฉีกขาดมากยิ่งขึ้น
+part-23-3-4,Found it! Hey? Why does it look like this?,เจอแล้ว! อ้า? ทำไมจึงเป็นเช่นนี้ล่ะ?
+part-23-3-5,Meow...,เหมียว...
+part-23-3-6,Why is there another Little Snow Leopard?,เหตุใดจึงมีเสือดาวหิมะน้อยอยู่อีกตัว?
+part-23-3-7,"The one who attacked you just now was this Little Snow Leopard's mother, she recently went mad for some reason and even wanted to hurt the Little Snow Leopard.",ตัวที่โจมตีพวกท่านเมื่อครู่คือแม่ของเสือดาวหิมะน้อยตัวนี้ ช่วงหลังมานี้นางคลุ้มคลั่งด้วยเหตุผลบางประการ ถึงขนาดจะทำร้ายเสือดาวหิมะน้อยตัวนี้ด้วย
+part-23-3-8,"I need to protect the snow fluff, I can't spare my hands to subdue this big snow leopard. So I had to send a pigeon letter to ask you for help.",ข้าต้องปกป้องเสวี่ยหรงน้อย จึงมิอาจปลีกตัวไปปราบเสือดาวหิมะตัวใหญ่ได้ จึงต้องส่งสารด้วยนกพิราบไปขอความช่วยเหลือจากพวกท่าน
+part-23-3-9,"Quick, save this snow leopard!",เร็วเข้า ช่วยเสือดาวหิมะตัวแม่ด้วย!
+part-23-3-10,Should we save this big snow leopard?,จะช่วยแม่เสือดาวหิมะตัวนี้ดีหรือไม่?
+part-23_option1,Let's save it! (1500Herb),ช่วยเถิด! (สมุนไพร 1500 ชิ้น)
+part-23_option2,We can't use herbs to save beasts.,มิอาจนำสมุนไพรไปช่วยสัตว์เดรัจฉานได้
+part-23-4-1,"Let's use the herbs to bandage it up for now, and then rush it to the manor for treatment!",พวกเราใช้สมุนไพรสมานแผลเบื้องต้นให้มันก่อน แล้วรีบนำไปรักษาตัวที่หมู่ตึก
+part-23-4-2,"Great, that's fantastic!",ดีเลย นี่มันเยี่ยมมาก!
+part-23-4-3,"After Lu Jian Nan returned to the sect, he was reprimanded by Tang Tai Jun and advised by his cousin. At least until the Little Snow Leopard is tamed, he dare not leave the manor privately.",หลังจากลู่เจี้ยนหนานกลับมาถึงหมู่ตึก ก็ถูกท่านย่าถังตำหนิ และได้รับการตักเตือนจากน้องสาว อย่างน้อยจนกว่าเสือดาวหิมะน้อยจะเชื่อง เขาคงมิกล้าออกจากหมู่ตึกตามลำพังอีก
+part-23-5-1,"No, even if this snow leopard's injuries are healed, it won't be of any use to the manor.",มิได้ บาดแผลของเสือดาวหิมะตัวนี้รักษาหายก็มิมีประโยชน์อันใดต่อหมู่ตึก
+part-23-5-2,"But, if this snow leopard doesn't get timely treatment, it might die!",แต่หากมิได้รับการรักษาทันท่วงที เสือดาวหิมะตัวนี้อาจตายได้นะ!
+part-23-5-3,"Forget about this snow leopard, let's go back! The leader needs you very much right now.",อย่าสนใจเสือดาวหิมะตัวนี้เลย รีบกลับกันเถิด! ท่านเจ้าหมู่ตึกต้องการตัวท่านในตอนนี้มากกว่า
+part-23-5-4,Woo...,อู...
+part-23-5-5,"You guys go ahead, I'll think of something else...",พวกเจ้ากลับไปเถอะ ข้าจะหาวิธีของข้าเอง...
+part-23-5-6,"No matter how you persuade him, Lu Jian Nan is still stubbornly unwilling to turn back.",ไม่ว่าพวกท่านจะเกลี้ยกล่อมอย่างไร ลู่เจี้ยนหนานก็ยังคงดื้อรั้นมิยอมกลับ
+part-23-6-1,"Leader, Young Master Lu has sent another letter!",ท่านเจ้าหมู่ตึก คุณชายลู่ส่งจดหมายมาอีกแล้ว!
+part-23-6-2,"Let me see... He says the trouble has been resolved, no need to worry.",ไหนดูซิ...เขาบอกว่าปัญหาได้รับการแก้ไขแล้ว มิมีสิ่งใดต้องกังวล
+part-23-6-3,"Now, I don't know where to find him... Let's wait for his next letter.",ครานี้ก็มิรู้ว่าเขาไปอยู่แห่งหนใดอีก...คงต้องรอจดหมายจากเขาในคราวหน้า
 part-24-0-1,"Leader, this time there will be nearly ten Rich Merchants gathering at the Glittering Artifact Auction, it's a great opportunity for us!",เรียนหัวหน้า ครั้งนี้จะมีเศรษฐีที่เป็นพ่อค้าประมาณสิบคนมารวมตัวกันที่งานประมูลสินค้าหอไข่มุก นี่เป็นโอกาสที่ดีของพวกเรา!
 part-24-0-2,"Indeed, it's a good opportunity, I'll arrange for someone to ""help"" them!"
 part-24_name,Assist in Wealth Transformation
