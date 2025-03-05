@@ -346,7 +346,7 @@ BattleFieldInfo_XS20100-9练兵,"<#61C3C8>{PlayerName}</color> join the battle, 
 BattleFieldWin_XS20100-9练兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_XS20100-9练兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
 BattleFieldInfo_M5050-1打心魔,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
-BattleFieldWin_M5050-1打心魔,Defeat your own inner demons.,เอาชนะปีศาจภายในจิตใจของคุณเอง
+BattleFieldWin_M5050-1打心魔,Defeat your own inner demons.,เอาชนะจิตมารของคุณเอง
 BattleFieldFail_M5050-1打心魔,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
 BattleFieldInfo_M5050-1打黑衣人1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_M5050-1打黑衣人1,Defeat the man in black.,เอาชนะชายชุดดำ

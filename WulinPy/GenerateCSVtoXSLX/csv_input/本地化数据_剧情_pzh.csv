@@ -2601,10 +2601,10 @@ R10011-1_0_7,Do you two little brothers live nearby?,น้องชายทั
 R10011-1_0_8,We are students of the gentleman.,พวกเราคือศิษย์ของท่านอาจารย์
 R10011-1_0_9,"Gentleman, is someone running a school here?",ท่านอาจารย์? ที่นี่มีคนเปิดสำนักสอนด้วยหรือ?
 R10011-1_0_10,"We don't know who the gentleman is, he teaches us to read and write.",พวกเราก็ไม่รู้เหมือนกันว่าท่านอาจารย์เป็นใคร เขาสอนพวกเราอ่านเขียน
-R10011-1_0_11,He also teaches us to march and fight!,เขายังสอนการเดินทัพ และวิชาต่อสู้ให้ด้วย!
-R10011-1_0_12,Teach you to march and fight?,สอนเจ้าเดินทัพ และต่อสู้ด้วยหรือ?
-R10011-1_0_13,"No, not teaching us to march and fight, just... if the students don't behave, they will be punished to exercise well.",ไม่ใช่แค่นั้น เขายังลงโทษพวกเราด้วยการฝึกเข้มถ้าพวกเราไม่เชื่อฟัง
-R10011-1_0_14,"Running around the school, and marching in formation, like marching and fighting in the army. So this saying is spread among us students.",วิ่งรอบสำนัก จัดขบวนเดินเหมือนทหารในกองทัพ นักเรียนเลยพากันพูดว่า ท่านอาจารย์สอนพวกเราเรื่องการยุทธ์ทางทหาร
+R10011-1_0_11,He also teaches us to march and fight!,เขายังสอนเรื่องพิชัยสงครามให้ด้วย!
+R10011-1_0_12,Teach you to march and fight?,สอนเรื่องพิชัยสงครามเจ้าด้วยหรือ?
+R10011-1_0_13,"No, not teaching us to march and fight, just... if the students don't behave, they will be punished to exercise well.",มิใช่เช่นนั้น ไม่ได้สอนเรื่องพิชัยสงครามแก่พวกเรา เพียงแต่... หากลูกศิษย์ไม่เชื่อฟัง ก็จะลงโทษพวกเราด้วยการฝึกฝนอย่างหนัก
+R10011-1_0_14,"Running around the school, and marching in formation, like marching and fighting in the army. So this saying is spread among us students.",วิ่งวนรอบสำนักศึกษา อีกทั้งยังฝึกจัดกระบวนทัพประหนึ่งการเดินทัพทำศึกในค่ายทหาร นักเรียนเลยพากันพูดว่า ท่านอาจารย์สอนพวกเราเรื่องพิชัยสงคราม
 R10011-1_0_15,It seems that your gentleman is both civil and martial!,ดูท่าท่านอาจารย์ของพวกเจ้าคงเป็นคนเก่งทั้งบู๊และบุ๋นน่าดู!
 R10011-1_0_16,"Not only civil and martial, but also very concerned about military affairs.",ไม่เพียงแค่นั้น ท่านยังใส่ใจในเรื่องการทหารด้วย
 R10011-1_0_17,Then why doesn't your gentleman join the army?,แล้วทำไมท่านอาจารย์ของพวกเจ้าไม่ไปเป็นทหารล่ะ?
@@ -2615,7 +2615,7 @@ R10011-1_0_21,……,……
 R10011-1_0_22,"Forget it... it's okay, since he wants to retire, I better not disturb him.",ช่างเถิด… ไม่มีอะไร ในเมื่อท่านตั้งใจจะใช้ชีวิตสันโดษ ข้าก็จะไม่รบกวนเขาแล้วกัน
 R10011-1_0_23,"You guys go back to school quickly, so that the gentleman can't find you and get anxious.",พวกเจ้ารีบกลับไปสำนักเถิด เดี๋ยวท่านอาจารย์ตามหาไม่เจอจะเป็นห่วง
 R10011-1_0_24,Okay! Goodbye big brother!,อืม! พี่ชาย ลาก่อน!
-R10011-1_0_25,The kid is leaving.,เด็กๆ กำลังจากไป
+R10011-1_0_25,The kid is leaving.,ขอตัวก่อนนะ
 R10011-1_0_26,I didn't expect Marshal Ye to become a gentleman after retiring... It seems that he has passed on the hope of restoring the country to the next generation...,คิดไม่ถึงเลยว่า ท่านแม่ทัพเย่จะมาใช้ชีวิตเงียบสงบแล้วเป็นอาจารย์… ดูท่าน่าจะส่งต่อความหวังในการฟื้นฟูแผ่นดินให้คนรุ่นใหม่แล้ว...
 R10008-8_0_1,"I remember Dream Butterfly said five days ago that she wanted to find the answer in the book about what should happen after the fate is tied, I wonder if she has found it now.",ข้านึกขึ้นได้เรื่องคำพูดของเมิ่งเตี๋ยเมื่อห้าวันที่แล้ว นางบอกว่าจะไปหาคำตอบในหนังสือว่าหลังจากที่ได้ผูกสัมพันธ์กันแล้ว ควรจะทำอย่างไร ข้าไม่รู้ว่าตอนนี้นางจะหาพบคำตอบหรือยังนะ
 R10008-8_0_2,Why not go and ask her directly.,เหตุใดมิไปถามนางตรงๆเลยเล่า?

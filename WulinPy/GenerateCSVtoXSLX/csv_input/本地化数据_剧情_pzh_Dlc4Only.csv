@@ -1079,74 +1079,74 @@ M2348-2_16_18,"Alright, enough gossip, listen to me recite.",เอาล่ะ 
 M2348-2_16_19,"As Gongsun Hui begins to recite the interpretation of the inscription by the Heart Observation Technique, you find the principles within are not strangers, you seem to have understood them long ago...",กงซุนฮุ่ยเริ่มเปล่งวาจาอธิบายศิลาจารึกด้วยเคล็ดวิชา ทรรศนะจิต ทว่าเมื่อสำเนียงแรกแว่วเข้าหู เจ้ากลับมิรู้สึกแปลกแยก หลักธรรมที่ซ่อนเร้นภายในหาใช่สิ่งลี้ลับสำหรับเจ้าไม่ ราวกับมันเป็นสัจธรรมที่เจ้ารู้แจ้งมาเนิ่นนานแล้ว...
 M2348-2_16_20,"Your vision gradually darkens, and you slowly enter into an illusion...",ทัศนียภาพเบื้องหน้าดำมืดลงเรื่อยๆ จิตใจค่อยๆ จมดิ่งสู่ห้วงมายา...
 M2348-2_17_1,Um! I see... I see me fighting with Gongsun Hui somewhere!,อืม! ข้าเห็น... ข้าเห็นตัวข้ากับกงซุนฮุ่ยประมือกัน ณ ที่แห่งหนึ่ง!
-M2348-2_18_1,"I also see the person in front of me, and I will fight him with you."
-M2348-2_19_1,"(Pointing to his own heart and eyes, then pointing to your heart and eyes.)"
-M2348-2_19_2,"You mean, you also see the same person I see, and fight the same enemy?"
-M2348-2_19_3,(Nod.)
-M2348-2_20_1,"That place seems to be a flat ground, but it's silent all around, and I can't see the end..."
-M2348-2_20_2,"No... Impossible! You... You've also learned the ""Heart Observation Scripture""?"
-M2348-2_20_3,What Heart Observation Scripture? This is the first time I've heard you mention this book today.
-M2348-2_20_4,"The book says: ""Those who do not understand this scripture can only understand the literal interpretation. Those who understand this scripture can see the truth from the words."""
-M2348-2_20_5,"And you... I don't know if it's because you've learned the ""Heart Observation Scripture"", so you entered the illusion through me."
-M2348-2_20_6,"What, I haven't learned this scripture at all!"
-M2348-2_20_7,"But when you were explaining, I felt like I understood what you were saying..."
-M2348-2_20_8,What does it mean?
-M2348-2_20_9,"That is, the content of the book you quoted in your explanation, I feel like I've understood it a long time ago."
-M2348-2_20_10,"I don't know where I understood it, maybe I was born understanding it..."
-M2348-2_20_11,{yell}How can this be! How can this be?
-M2348-2_20_12,"What do you mean, how can this be? Don't be so shocked, it's scary."
-M2348-2_20_13,"Let me ask you, can you stare at someone for a long time and see through them?"
-M2348-2_20_14,"What do you mean by ""see through a person""?"
-M2348-2_20_15,"Even in battle, if you stare at someone for a long time, you can see through their martial arts, internal skills, degree of injury, remaining MP. You can even see their AttackDefense, Qinggong, and proficiency in various Weapons."
-M2348-2_20_16,"You can see through his Constitution, Strength, and even the depth of his Luck..."
-M2348-2_20_17,"Even the next move, how likely it is to hit you, how likely it is to hit your vital points, the possibility of continuous attacks, parries or evasions, are all completely seen through by you, right?"
-M2348-2_20_18,"(I can't refute this, I can indeed see through what he said when I look at someone, and even intuitively calculate specific numbers in my mind...)"
-M2348-2_20_19,"(Speaking of which... I've never thought about whether others have this kind of vision. Now it seems that most people don't have this kind of vision. Thinking about it, it's really a killer move against the enemy Assassin.)"
-M2348-2_20_20,"(So I'm the talented chosen one, hahahahaha!)"
-M2348-2_20_21,"Do you know, the vision you were born with, is something that even a grandmaster like the Eight Saints can't achieve! It's something I learned from the ""Heart Observation Sutra"" at a great cost!"
-M2348-2_20_22,Do you know what I've given up? And you were born with it! Why... why? Why do you {PlayerName} deserve it!!
-M2348-2_20_23,"Don't get excited yet. In my experience, this kind of vision can only play a supporting role. If your martial arts are not good, this vision is useless."
+M2348-2_18_1,"I also see the person in front of me, and I will fight him with you.",ข้าก็เห็นมันผู้นั้นเช่นกัน และข้ากับท่านกำลังประมือกับมันอยู่ร่วมกัน
+M2348-2_19_1,"(Pointing to his own heart and eyes, then pointing to your heart and eyes.)",(ชี้ไปยังหัวใจและดวงตาของตนเอง จากนั้นชี้ไปยังหัวใจและดวงตาของท่าน)
+M2348-2_19_2,"You mean, you also see the same person I see, and fight the same enemy?",ท่านหมายความว่า ท่านก็เห็นคนเดียวกับที่ข้าเห็น และประมือกับศัตรูคนเดียวกันเช่นนั้นหรือ?
+M2348-2_19_3,(Nod.),(พยักหน้า)
+M2348-2_20_1,"That place seems to be a flat ground, but it's silent all around, and I can't see the end...",สถานที่แห่งนั้นประดุจดั่งพื้นราบโล่งกว้าง แต่โดยรอบกลับเงียบสงัด มองไปไกลสุดลูกหูลูกตาก็ไม่อาจเห็นจุดสิ้นสุด...
+M2348-2_20_2,"No... Impossible! You... You've also learned the ""Heart Observation Scripture""?","ไม่... เป็นไปไม่ได้! ท่าน... ท่านก็ฝึกฝน ""คัมภีร์ทรรศนะจิต"" ด้วยหรือ?"
+M2348-2_20_3,What Heart Observation Scripture? This is the first time I've heard you mention this book today.,คัมภีร์ทรรศนะจิตอันใดกัน? วันนี้ข้าเพิ่งได้ยินชื่อตำราเล่มนี้จากเจ้าเป็นครั้งแรก
+M2348-2_20_4,"The book says: ""Those who do not understand this scripture can only understand the literal interpretation. Those who understand this scripture can see the truth from the words.""","ในตำรากล่าวไว้ว่า: ""ผู้มิเข้าใจคัมภีร์นี้ ย่อมแลเห็นเพียงอักษรบนผิวกระดาษเท่านั้น หากเข้าใจคัมภีร์นี้ ย่อมสามารถมองทะลุผ่านถ้อยคำเข้าสู่สัจธรรมที่แท้จริงได้"""
+M2348-2_20_5,"And you... I don't know if it's because you've learned the ""Heart Observation Scripture"", so you entered the illusion through me.","ส่วนท่าน... ข้ามิรู้ว่าท่านเคยฝึกปรือ ""คัมภีร์ทรรศนะจิต"" หรือไม่ ท่านจึงสามารถเข้าสู่ห้วงมายาผ่านข้าได้"
+M2348-2_20_6,"What, I haven't learned this scripture at all!",หา? ข้าไม่เคยฝึกฝนคัมภีร์อะไรนั่นเลยแม้แต่น้อย!
+M2348-2_20_7,"But when you were explaining, I felt like I understood what you were saying...",ทว่าเมื่อเจ้ากล่าวอธิบาย ข้ากลับรู้สึกราวกับเข้าใจทุกถ้อยคำของเจ้ามานานแล้ว...
+M2348-2_20_8,What does it mean?,หมายความเช่นไร?
+M2348-2_20_9,"That is, the content of the book you quoted in your explanation, I feel like I've understood it a long time ago.",ก็เนื้อหาจากตำราที่เจ้านำมาอ้างอิงอธิบาย ข้ากลับรู้สึกเหมือนข้าเข้าใจมันมานานแล้ว...
+M2348-2_20_10,"I don't know where I understood it, maybe I was born understanding it...",ข้าก็มิรู้ว่าข้าเข้าใจได้อย่างไร บางทีข้าอาจจะมีพรสวรรค์ตั้งแต่เกิด...
+M2348-2_20_11,{yell}How can this be! How can this be?,{yell}เป็นไปได้อย่างไร! เป็นไปได้อย่างไรกัน?
+M2348-2_20_12,"What do you mean, how can this be? Don't be so shocked, it's scary.",เจ้าหมายความว่าอย่างไร? ไฉนเป็นเช่นนี้ได้? อย่าตกตะลึงถึงเพียงนั้นเลย ดูแล้วน่าหวาดกลัวนัก!
+M2348-2_20_13,"Let me ask you, can you stare at someone for a long time and see through them?",ข้าขอถามท่านสักคำ ท่านสามารถจ้องมองผู้คนเป็นเวลานาน และมองทะลุถึงจิตใจของพวกเขาได้หรือไม่?
+M2348-2_20_14,"What do you mean by ""see through a person""?","เจ้าหมายความว่าอย่างไรกับคำว่า ""มองทะลุจิตใจผู้อื่น""?"
+M2348-2_20_15,"Even in battle, if you stare at someone for a long time, you can see through their martial arts, internal skills, degree of injury, remaining MP. You can even see their AttackDefense, Qinggong, and proficiency in various Weapons.",แม้ในขณะประมือ เพียงท่านจ้องมองอีกฝ่ายเป็นเวลานานพอ ก็สามารถล่วงรู้ถึงกระบวนท่า วิชาลมปราณ อาการบาดเจ็บ กำลังภายในที่เหลืออยู่ของเขาได้ แม้กระทั่งสามารถล่วงรู้ถึงการโจมตีและการตั้งรับ วิชาตัวเบา ระดับความชำนาญในอาวุธต่างๆ ของเขาได้อีกด้วย
+M2348-2_20_16,"You can see through his Constitution, Strength, and even the depth of his Luck...",สามารถมองทะลุถึงสภาพร่างกายของเขาว่าเป็นเช่นไร พละกำลังของเขาเป็นเช่นไร แม้กระทั่งวาสนาบุญบารมีลึกตื้นเพียงใด...
+M2348-2_20_17,"Even the next move, how likely it is to hit you, how likely it is to hit your vital points, the possibility of continuous attacks, parries or evasions, are all completely seen through by you, right?",แม้กระทั่งกระบวนท่าต่อไปของเขา โอกาสที่จะโจมตีท่านได้มากน้อยเพียงใด โอกาสที่จะโจมตีจุดตายของท่านมีกี่ส่วน การโจมตีต่อเนื่อง การป้องกันตั้งรับ หรือการหลบหลีกของเขา ล้วนถูกท่านมองทะลุปรุโปร่งทั้งหมด ใช่หรือไม่?
+M2348-2_20_18,"(I can't refute this, I can indeed see through what he said when I look at someone, and even intuitively calculate specific numbers in my mind...)",(ข้ามิอาจปฏิเสธได้จริงๆ ในยามที่ข้าจ้องมองผู้ใด ข้าก็สามารถมองทะลุสิ่งที่เขากล่าวถึงได้จริงๆ หรือแม้กระทั่งสามารถคำนวณตัวเลขในใจได้อย่างถูกต้องแม่นยำ...)
+M2348-2_20_19,"(Speaking of which... I've never thought about whether others have this kind of vision. Now it seems that most people don't have this kind of vision. Thinking about it, it's really a killer move against the enemy Assassin.)",(กล่าวถึงเรื่องนี้แล้ว... ข้าไม่เคยฉุกคิดเลย ว่าผู้อื่นจะมีญาณทิพย์เช่นนี้หรือไม่ บัดนี้ดูเหมือนว่าผู้คนส่วนใหญ่ล้วนไร้ซึ่งญาณทิพย์เช่นข้า เมื่อตรึกตรองดูแล้ว นี่นับเป็นกระบวนท่าสังหารที่ร้ายกาจ สำหรับรับมือกับมือสังหารในเงามืดโดยแท้!)
+M2348-2_20_20,"(So I'm the talented chosen one, hahahahaha!)",(งั้นข้าคือผู้ที่ถูกเลือกโดยสวรรค์เช่นนั้นสินะ! ฮ่าฮ่าฮ่าฮ่าฮ่า!)
+M2348-2_20_21,"Do you know, the vision you were born with, is something that even a grandmaster like the Eight Saints can't achieve! It's something I learned from the ""Heart Observation Sutra"" at a great cost!","เจ้ารู้ไหม ว่าญาณทิพย์ที่เจ้าเกิดมาพร้อมกับตัวนั้น แม้แต่ปรมาจารย์อย่างแปดเซียนก็ยังทำไม่ได้! ข้าเรียนรู้มันมาจาก ""สูตรสังเกตใจ"" ด้วยราคาแสนแพง!"
+M2348-2_20_22,Do you know what I've given up? And you were born with it! Why... why? Why do you {PlayerName} deserve it!!,เจ้ารู้ไหมว่าข้าสละอะไรไปบ้าง? แต่เจ้ากลับเกิดมาพร้อมกับมัน! ทำไม...ทำไม? ทำไมเจ้า {PlayerName} ถึงสมควรได้รับมัน!!
+M2348-2_20_23,"Don't get excited yet. In my experience, this kind of vision can only play a supporting role. If your martial arts are not good, this vision is useless.",อย่าเพิ่งตื่นเต้นไป ในประสบการณ์ของข้า ญาณทิพย์แบบนี้ทำได้แค่เป็นตัวช่วยเท่านั้น ถ้าศิลปะการต่อสู้ของเจ้าไม่ดี ญาณทิพย์นี้ก็ไร้ประโยชน์
 M2348-2_20_24,……,……
-M2348-2_20_25,"Do you know why your grandfather forbade the whole family from practicing the ""Heart Observation Scripture""?"
-M2348-2_20_26,"Because after learning the ""Heart Observation Sutra"", you will gradually become alienated from the world."
-M2348-2_20_27,"I have joined many sects, but after learning all the martial arts, I unhesitatingly left the sect. Regardless of how the master and brothers tried to retain me."
-M2348-2_20_28,"The treasures that people in the world compete for, I would casually give to a peddler, just because I wanted to learn his Mercantile skills."
-M2348-2_20_29,"I don't know what Appraise Artwork, Tool Crafting will do for my path of revenge, but because these skills are here, I go to learn them."
-M2348-2_20_30,"Even for skills like Ambush, Immobilize, Poison, I have harmed many innocent tourists in order to learn Upwind."
-M2348-2_20_31,"Pets are like wheels to me. When I need them, I feed them. When I don't, I starve them for days and nights. No matter how badly they are injured, I make them fight for me."
-M2348-2_20_32,"No matter how loyal they are, I only choose the fastest one."
-M2348-2_20_33,"I make friends just for their Martial Arts. After learning, if they are useless to me, I leave them and never see them again."
-M2348-2_20_34,"I get involved with women just to make them work harder in battle, and also for worldly achievements."
-M2348-2_20_35,"Don't I know what they are thinking? This is my... path of revenge, and the inevitable result of my learning the ""Heart Observation Sutra""."
+M2348-2_20_25,"Do you know why your grandfather forbade the whole family from practicing the ""Heart Observation Scripture""?","เจ้ารู้ไหมว่าทำไมปู่ของเจ้าถึงสั่งห้ามคนทั้งตระกูลฝึก ""คัมภีร์ทรรศนะจิต""?"
+M2348-2_20_26,"Because after learning the ""Heart Observation Sutra"", you will gradually become alienated from the world.","ก็เพราะว่าหลังจากเรียนรู้ ""คัมภีร์สังเกตใจ"" แล้ว เจ้าจะค่อย ๆ เหินห่างจากโลกภายนอก"
+M2348-2_20_27,"I have joined many sects, but after learning all the martial arts, I unhesitatingly left the sect. Regardless of how the master and brothers tried to retain me.",ข้าเข้าร่วมหลายสำนัก แต่หลังจากเรียนรู้ศิลปะการต่อสู้ทั้งหมดแล้ว ข้าก็จากสำนักไปโดยไม่ลังเล ไม่ว่าอาจารย์และพี่น้องจะพยายามรั้งข้าไว้แค่ไหนก็ตาม
+M2348-2_20_28,"The treasures that people in the world compete for, I would casually give to a peddler, just because I wanted to learn his Mercantile skills.",สมบัติที่ผู้คนในโลกแย่งชิงกัน ข้าจะมอบให้พ่อค้าเร่โดยไม่คิดอะไรมาก เพียงเพราะข้าต้องการเรียนรู้ทักษะการค้าของเขา
+M2348-2_20_29,"I don't know what Appraise Artwork, Tool Crafting will do for my path of revenge, but because these skills are here, I go to learn them.",ข้าไม่รู้ว่าการประเมินงานศิลปะ การประดิษฐ์เครื่องมือ จะช่วยอะไรเส้นทางแห่งการแก้แค้นของข้าได้บ้าง แต่เพราะทักษะเหล่านี้อยู่ที่นี่ ข้าจึงไปเรียนรู้มัน
+M2348-2_20_30,"Even for skills like Ambush, Immobilize, Poison, I have harmed many innocent tourists in order to learn Upwind.",แม้แต่ทักษะอย่างการซุ่มโจมตี จี้จุด การวางยาพิษ ข้าก็ทำร้ายนักท่องเที่ยวผู้บริสุทธิ์ไปมากมายเพื่อเรียนรู้การเล่นลม 
+M2348-2_20_31,"Pets are like wheels to me. When I need them, I feed them. When I don't, I starve them for days and nights. No matter how badly they are injured, I make them fight for me.",สัตว์เลี้ยงก็เหมือนล้อรถสำหรับข้า เมื่อข้าต้องการพวกมัน ข้าก็ให้อาหารพวกมัน เมื่อข้าไม่ต้องการ ข้าก็ปล่อยให้พวกมันอดอาหารเป็นวันๆ คืนๆ ไม่ว่าพวกมันจะบาดเจ็บสาหัสแค่ไหน ข้าก็ให้พวกมันต่อสู้เพื่อข้า
+M2348-2_20_32,"No matter how loyal they are, I only choose the fastest one.",ไม่ว่าพวกมันจะภักดีแค่ไหน ข้าก็เลือกแต่ตัวที่เร็วที่สุดเท่านั้น
+M2348-2_20_33,"I make friends just for their Martial Arts. After learning, if they are useless to me, I leave them and never see them again.",ข้าสร้างมิตรภาพเพียงเพื่อเรียนรู้ศิลปะการต่อสู้ของพวกเขา หลังจากเรียนรู้แล้ว หากพวกเขาไร้ประโยชน์ต่อข้า ข้าก็จะทิ้งพวกเขาไปและไม่เคยพบหน้ากันอีก
+M2348-2_20_34,"I get involved with women just to make them work harder in battle, and also for worldly achievements.",ข้าเข้าใกล้หญิงสาวมิใช่เพื่อความรัก แต่เพื่อปลุกพลังแห่งยุทธภพ ให้พวกนางต่อสู้ดั่งเพชฌฆาตและก้าวหน้าดั่งนักรบผู้ยิ่งใหญ่
+M2348-2_20_35,"Don't I know what they are thinking? This is my... path of revenge, and the inevitable result of my learning the ""Heart Observation Sutra"".",ข้ามิได้รู้หรอกหรือ? สิ่งที่วนเวียนอยู่ในใจของพวกเจ้านั้นชัดแจ้งดั่งกระจก! นี่คือวิถีแห่งการแก้แค้นของข้า และเป็นผลลัพธ์อันหลีกเลี่ยงไม่ได้จากการที่ข้าได้เรียนรู้ 'คัมภีร์ทรรศนะจิต' อันลึกล้ำนี้!
 M2348-2_20_36,"You feel the same way, don't you? Because you are the same kind of person as me.",เจ้าก็รู้สึกเช่นกันใช่ไหม? เพราะว่าเราเป็นคนประเภทเดียวกันนี่นา
 M2348-2_op3_1,I do feel the same way.,ข้าก็รู้สึกเช่นเดียวกัน
 M2348-2_op3_2,"You're totally wrong, I'm not like you.",ผิดแล้ว ข้าไม่เหมือนเจ้า
 M2348-2_21_1,I didn't expect there to be another me in this world...,ข้าไม่คิดว่าจะมีคนเช่นเดียวกับข้าอยู่บนโลกนี้อีก...
 M2348-2_21_2,"I have to admit, I do have the same mentality.",ถ้าให้พูดตรงๆ ข้าเองก็มีความคิดเช่นนี้เหมือนกัน
-M2348-2_21_3,"Most importantly, we always feel that you don't belong here, and one day you will run away from here, run away from everyone and everything, right?"
-M2348-2_21_4,"That's right. I always feel that when this journey is over, I won't appear here again."
+M2348-2_21_3,"Most importantly, we always feel that you don't belong here, and one day you will run away from here, run away from everyone and everything, right?",สำคัญที่สุด พวกข้ามองเจ้าเสมอว่าไร้ที่แห่งแสน! วันหนึ่งเจ้าจะหนีไปจากที่นี่ หนีจากทุกคน ทุกสิ่ง... ใช่หรือไม่?
+M2348-2_21_4,"That's right. I always feel that when this journey is over, I won't appear here again.",ถูกต้องแล้ว ข้ามองเห็นชัดเจนว่าเมื่อการเดินทางครั้งนี้สิ้นสุดลง ข้าจะไม่ปรากฏตัวที่นี่อีกเด็ดขาด!
 M2348-2_21_5,"The great hero thought the same way, so he disappeared without a trace, just like a legend.",จอมยุทธ์ผู้ยิ่งใหญ่ก็คงคิดเช่นนั้น ท่านจึงหายสาบสูญไปอย่างไร้ร่องรอย ดุจดั่งตำนานที่เล่าขานกันมา
-M2348-2_21_6,And the reason I feel this way is because I've already seen my own end.
-M2348-2_22_1,Don't compare me with people like you! I treat people sincerely and interact with them with my heart. I treat my girls with sincerity!
-M2348-2_22_2,"Don't deceive yourself, please ask yourself. Aren't you always going to run away from here, run away from everyone and everything, right?"
+M2348-2_21_6,And the reason I feel this way is because I've already seen my own end.,และเหตุผลที่ข้ารู้สึกเช่นนี้ ก็เพราะข้าได้เห็นจุดจบของตัวเองแล้วอย่างไรเล่า
+M2348-2_22_1,Don't compare me with people like you! I treat people sincerely and interact with them with my heart. I treat my girls with sincerity!,อย่ามาเทียบข้ากับพวกเจ้าเด็ดขาด! ข้าปฏิบัติผู้อื่นด้วยความจริงใจ สนทนากับทุกคนด้วยสวรรค์แห่งหัวใจ และปฏิบัติต่อเหล่านางด้วยความบริสุทธิ์ใจที่สุด!
+M2348-2_22_2,"Don't deceive yourself, please ask yourself. Aren't you always going to run away from here, run away from everyone and everything, right?",อย่าหลอกตัวเองเลย ถามใจตัวเองดูสิ ไม่ใช่ว่าเจ้าคิดจะหนีจากที่นี่ หนีจากทุกคนและทุกสิ่งอยู่เสมอหรอกรึ?
 M2348-2_22_3,……,……
 M2348-2_22_4,"The great hero thought the same way, so he disappeared without a trace, just like a legend.",จอมยุทธ์ผู้ยิ่งใหญ่ก็คงคิดเช่นนั้น ท่านจึงหายสาบสูญไปอย่างไร้ร่องรอย ดุจดั่งตำนานที่เล่าขานกันมา
-M2348-2_22_5,And the reason I feel this way is because I've already seen my own end.
+M2348-2_22_5,And the reason I feel this way is because I've already seen my own end.,และเหตุผลที่ข้ารู้สึกเช่นนี้ ก็เพราะข้าได้เห็นจุดจบของตัวเองแล้วอย่างไรเล่า
 M2348-2_23_1,……,……
-M2348-2_23_2,"Actually, I wasn't excited just now, I was delighted."
-M2348-2_23_3,"(From your actions just now, I don't believe a word of it!)"
-M2348-2_23_4,"Because I'm not sure if I can pass the test of the Martial Tomb with my own strength, if you, a natural observer, can help, my chances of success will greatly increase."
-M2348-2_23_5,Why is that?
-M2348-2_23_6,"There are six martial tombs here, among which the Demon and Longevity are sealed. This is due to Blood Rakshasa deliberately modifying {Me}'s father's machinery."
-M2348-2_23_7,"I need to understand and unlock the Martial Arts of Confucianism, Buddhism, Taoism, and Swordsmanship in these four branches to know how to open the two branches."
-M2348-2_23_8,"What Blood Rakshasa learned is the content of the Demon Martial Tomb. If {Me} wants to defeat him, {Me} needs to figure out the content of the Demon Martial Tomb."
-M2348-2_23_9,"Once {Me} opens the Demon Martial Tomb and understands its content, {Me} will naturally open the stone door. Where you go then is up to you."
-M2348-2_23_10,Alright. But what if {Me} also wants to try to comprehend the content of the martial tomb?
-M2348-2_23_11,"Just go ahead and comprehend, when you want to comprehend, I will assist you, telling you which parts have been modified by Blood Rakshasa."
+M2348-2_23_2,"Actually, I wasn't excited just now, I was delighted.",ที่จริงเมื่อครู่ข้าไม่ได้รู้สึกตื่นเต้น แต่เป็นยินดีต่างหาก
+M2348-2_23_3,"(From your actions just now, I don't believe a word of it!)",(จากการกระทำเมื่อครู่ของเจ้า ข้าไม่เชื่อคำพูดของเจ้าแม้แต่คำเดียว!)
+M2348-2_23_4,"Because I'm not sure if I can pass the test of the Martial Tomb with my own strength, if you, a natural observer, can help, my chances of success will greatly increase.",เพราะข้าไม่แน่ใจว่าจะผ่านบททดสอบของสุสานยุทธ์ด้วยกำลังของตนเองได้หรือไม่ หากเจ้า ผู้มีญาณสังหรณ์โดยธรรมชาติสามารถช่วยเหลือได้ โอกาสสำเร็จของข้าก็จะเพิ่มขึ้นอย่างมาก
+M2348-2_23_5,Why is that?,เหตุใดจึงเป็นเช่นนั้น?
+M2348-2_23_6,"There are six martial tombs here, among which the Demon and Longevity are sealed. This is due to Blood Rakshasa deliberately modifying {Me}'s father's machinery.",ที่นี่มีสุสานจอมยุทธ์หกแห่ง ซึ่งสุสานมารและสุสานอายุวัฒนะถูกผนึกเอาไว้ นี่เป็นเพราะรากษสโลหิตจงใจแก้ไขกลไกของบิดาของ {Me}
+M2348-2_23_7,"I need to understand and unlock the Martial Arts of Confucianism, Buddhism, Taoism, and Swordsmanship in these four branches to know how to open the two branches.",ข้าต้องเข้าใจและปลดล็อกวิทยายุทธ์ของสำนักขงจื๊อ พุทธ เต๋า และกระบี่ ในสี่สาขานี้เสียก่อน เพื่อที่จะรู้วิธีเปิดสองส่วนที่เหลือ
+M2348-2_23_8,"What Blood Rakshasa learned is the content of the Demon Martial Tomb. If {Me} wants to defeat him, {Me} needs to figure out the content of the Demon Martial Tomb.",สิ่งที่รากษสโลหิตเรียนรู้คือเนื้อหาของสุสานยุทธ์ หาก {Me} ต้องการเอาชนะเขา {Me} ต้องค้นหาเนื้อหาของสุสานมารให้ได้
+M2348-2_23_9,"Once {Me} opens the Demon Martial Tomb and understands its content, {Me} will naturally open the stone door. Where you go then is up to you.",เมื่อ {Me} เปิดสุสานยุทธ์มารและเข้าใจเนื้อหาของมันแล้ว {Me} ก็จะสามารถเปิดประตูกลได้ ที่เหลือก็แล้วแต่เจ้าแล้ว
+M2348-2_23_10,Alright. But what if {Me} also wants to try to comprehend the content of the martial tomb?,เอาล่ะ แต่ถ้า {Me} ต้องการที่จะพยายามทำความเข้าใจเนื้อหาของสุสานยุทธ์ด้วยล่ะ?
+M2348-2_23_11,"Just go ahead and comprehend, when you want to comprehend, I will assist you, telling you which parts have been modified by Blood Rakshasa.",ก็ทำไปเลย เมื่อใดที่เจ้าต้องการทำความเข้าใจ ข้าจะช่วยเหลือเจ้า บอกเจ้าว่าส่วนไหนที่ถูกรากษสโลหิตแก้ไข
 M2348-2_23_12,"The last person with the innate ability to observe the heart was a great hero. You and the great hero are the same kind of people, perhaps your comprehension will be even smoother than {Me}'s.",ผู้ที่มีญาณทรรศนะจิตโดยกำเนิดคนก่อนหน้านี้ ก็คือจอมยุทธ์ผู้ยิ่งใหญ่ผู้นั้น ท่านกับจอมยุทธ์ผู้ยิ่งใหญ่เป็นคนประเภทเดียวกัน บางทีอาจจะไขความลับได้ง่ายกว่าข้าเสียอีก
-M2348-2_23_13,"In that case, get ready. Once you're ready, you can go to any branch."
-M2348-2_23_14,"If you want to try the illusion battle from earlier and learn from it, you can find {Me}."
-M2348-3_0_1,What is it?
+M2348-2_23_13,"In that case, get ready. Once you're ready, you can go to any branch.",ถ้าเช่นนั้น ก็เตรียมตัวให้พร้อม เมื่อเจ้าพร้อมแล้ว ก็สามารถไปยังส่วนใดก็ได้
+M2348-2_23_14,"If you want to try the illusion battle from earlier and learn from it, you can find {Me}.",หากเจ้าต้องการลองการต่อสู้มายาจากเมื่อก่อนและเรียนรู้จากมัน เจ้าสามารถมาหา {Me} ได้
+M2348-3_0_1,What is it?,สิ่งนั่นคืออะไรหรือ?
 M2348-3_0_2,{Me} wants to...
 M2348-3_op1_1,"Can you tell {Me} about the ""Observing the Heart Sutra""?"
 M2348-3_op1_2,What is the illusion battle brought by the Ming Laughing Stele?
