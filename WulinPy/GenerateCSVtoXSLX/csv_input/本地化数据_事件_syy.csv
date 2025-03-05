@@ -2325,13 +2325,13 @@ M2101-2_op_1_dialog,"Do you need Linlang Temple to mediate for you, young friend
 M2101-2_op_1_1,Need mediation.,กรุณาออกหน้าให้ด้วย
 M2101-2_op_1_2,Not for now.,ไม่ใช่ตอนนี้.
 M2101-2_1_1,"It's better to resolve disputes than to create them, young friend, you should be forgiving when you can.",หากย่อมขุ่นเคืองอันใดควรเข้าไปแก้ไข มิใช่ไปกวนให้ขุ่นเพิ่ม สหายตัวน้อย หากมีโอกาสจงให้อภัยผู้อื่น
-M2101-3_1_1,"This chess game is broken, there's nothing to see.","หมากรุกนี่พังแล้ว, ไม่มีอะไรให้ดูอีก."
-M2101-3_op_1_dialog,"The layout of this chess game seems a bit peculiar, do you want to play a game?",รูปแบบของเกมหมากรุกนี้ดูแปลกไปสักหน่อย เจ้าต้องการเล่นไหม?
+M2101-3_1_1,"This chess game is broken, there's nothing to see.","หมากล้อมนี่พังแล้ว, ไม่มีอะไรให้ดูอีก."
+M2101-3_op_1_dialog,"The layout of this chess game seems a bit peculiar, do you want to play a game?",รูปแบบของเกมหมากล้อมนี้ดูแปลกไปสักหน่อย เจ้าต้องการเล่นไหม?
 M2101-3_op_1_1,Touch the chessboard and chess pieces. <color=#097a76>(Specific battle)</color>,แตะกระดานหมากและตัวหมาก <color=#097a76>(เข้าสู่การต่อสู้)</color>
 M2101-3_op_1_2,Do nothing.,ไม่ทำอะไร
-M2101-3_2_1,"It turns out that cracking this chess game will reward a manual, this is unexpected.\nI'd better keep it safe, so as not to benefit others.","ไม่น่าเชื่อว่าแก้ปริศนาหมากรุกนี้จะมอบรางวัลให้เป็นวรยุทธ ข้าคาดไม่ถึงจริงๆ\nข้าควรเก็บไว้ให้ดีไม่ให้ใครเอาไปได้"
-M2101-3_3_1,"With my current strength, I can't crack this chess game yet, I'll come back later.",ด้วยความสามารถของข้าตอนนี้ยังไม่เพียงพอที่จะเล่นหมากรุกนี้ ข้าจะกลับมาเล่นมันภายหลัง
-M2101-3_4_1,This chess game is so profound?,หมากรุกนี่ทำไมลึกซึ้งเช่นนี้?
+M2101-3_2_1,"It turns out that cracking this chess game will reward a manual, this is unexpected.\nI'd better keep it safe, so as not to benefit others.","คาดไม่ถึงว่าหากไขหมากกระดานนี้สำเร็จ จะได้รับคัมภีร์เป็นรางวัล ช่างเหนือความคาดหมายจริงๆ\nข้าต้องเก็บรักษามันไว้ให้ดี มิให้ผู้อื่นได้ไปครองโดยง่าย"
+M2101-3_3_1,"With my current strength, I can't crack this chess game yet, I'll come back later.",ด้วยความสามารถของข้าตอนนี้ยังไม่เพียงพอที่จะเล่นหมากกระดานนี้ ข้าจะกลับมาเล่นมันภายหลัง
+M2101-3_4_1,This chess game is so profound?,กระดานหมากนี้ช่างลึกล้ำถึงเพียงนี้เชียวหรือ?
 M2101-3_4_2,I feel dizzy!,ข้ามึนหัวนัก!
 M20100-20_name,Wolf Trouble in Xiangfan Region,ปัญหาหมาป่าในเขตเซียงฝาน
 M20100-20_log_1,"Help the Bailiff in Chuxiang City collect 10 Wolf fangs, which can be obtained by killing Wolves in Wild Wolf Valley.",ช่วยเจ้าหน้าที่เมืองฉู่เซียง รวบรวม 10 เขี้ยวหมาป่า สามารถหาได้จากหุบเขาหมาป่า
@@ -3903,7 +3903,7 @@ M20333-4_16_1,"Still the same after all these years, what a disappointment!\nWit
 M20333-4_17_1,"Barely decent, this is the strength that a disciple of the three religions should have.\nThe Manual that I borrowed from the Taoist Sect back then, I now return it to you, so as not to waste the hard work of those masters and real people.","ช่างแตกต่างกันจริงๆ นี่แหละคือคุณสมบัติที่ศิษย์ของทั้งสามสามนิกายควรมี\nวิชาที่ข้ายืมมาจากสำนักเต๋าในตอนนั้น ข้าคืนให้กับเจ้าแล้วกัน เพื่อไม่ให้ความพยายามของปรมาจารย์เหล่านั้นต้องสูญเปล่า"
 M20333-4_18_1,"That old man surnamed Cai, spends his days either scheming or trying out various peculiar Pills. If it weren't for the beating I gave him back then, he probably wouldn't have had the chance to sit in the position of Confucius Temple.",ไอ้แก่แซ่ไฉ่ มัวแต่คิดร้ายปองร้ายคนอื่น อยู่นึกครึ้มก็แต่ทดลองโอสถแปลกๆของมัน สมัยก่อนถ้าข้าไม่อัดมันซะจนมันคิดได้ ตำแหน่งประมุขสำนักคงไม่ตกถึงมือมันหรอก
 M20333-4_19_1,"It's strange, I clearly remember that I won that fight, how come I talked myself into losing...",น่าแปลกนัก ข้าจำได้ว่าข้าชนะศึกนั้น ทำไมข้าเล่าเหมือนว่าตัวเองแพ้กันได้...
-M20333-4_20_1,"I must admit, his methods of winning people over are quite impressive. The Four arts that follow him around, each of them has exceptional talent, comparable to the leaders of the average sects in the martial arts world.",ต้องยอมรับว่าวิธีการซื้อใจคนของเขานั้นยอดเยี่ยมมาก ผู้ติดตามทั้งสี่คน เก่งทั้งดนตรี หมากรุก การวาดภาพ และการเขียนอักษร  แต่ละคนมากด้วยพรสวรรค์ ล้วนแต่มีความสามารถไม่ด้อยไปกว่าเจ้าสำนักทั่วไปในยุทธภพเสียด้วยซ้ำ
+M20333-4_20_1,"I must admit, his methods of winning people over are quite impressive. The Four arts that follow him around, each of them has exceptional talent, comparable to the leaders of the average sects in the martial arts world.",ต้องยอมรับว่าเฒ่าจิ้งจอกผู้นี้มีเล่ห์เหลี่ยมในการซื้อใจคนมิใช่น้อย บริวารทั้งสี่ เก่งทั้งดนตรี หมากล้อม การวาดภาพ และการเขียนอักษร  แต่ละคนล้วนมีพรสวรรค์สูงส่ง หากออกไปท่องยุทธภพ ย่อมมิด้อยไปกว่าเจ้าสำนักหรือประมุขพรรคทั่วไปในยุทธภพเสียด้วยซ้ำ
 M20333-4_21_1,"I smell the scent of those pedantic scholars from Confucius Temple on you. Let me see what's so special about the Confucius Temple under Cai Yuanchang's leadership, which values literature over martial arts!",ข้าได้กลิ่นของพวกหนอนตำราผู้อวดรู้จากวัดขงจื้อที่ตัวเจ้า ข้าขอดูหน่อยเถอะว่าวัดขงจื้อภายใต้การนำของไช่หยวนฉางมีดีอะไร จะมีวรยุทธอะไรนอกจากวรรณกรรม บทกวี บทกลอน!
 M20333-4_22_1,"Still the same after all these years, what a disappointment!\nWithout me stirring up trouble outside, these martial sects are really too comfortable.","หลายปีมานี้ทุกอย่างยังเหมือนเดิม ช่างน่าผิดหวังจริงๆ!\nหากไม่มีข้าคอยก่อปัญหาภายนอก สำนักต่างๆ ล้วนอยู่อย่างสุขสบายเกินไปจริงๆ"
 M20333-4_23_1,"Barely passable, this is the strength a disciple of the three religions should have. The Manual that I borrowed from Confucius Temple back then, I now return it to you, so as not to waste the efforts of those ancient sages.","ช่างแตกต่างกันจริงๆ นี่แหละคือคุณสมบัติที่ศิษย์ของทั้งสามนิกายควรมี\nวิชาที่ข้ายืมมาจากวัดขงจื้อในตอนนั้น ข้าคืนให้กับเจ้าแล้วกัน เพื่อไม่ให้ความพยายามของอดีตปราชญ์เหล่านั้นต้องสูญเปล่า"
@@ -5923,11 +5923,11 @@ Day-2030-1_talking,Morning class,ทำวัตรเช้า
 Day-2030-1_1_1,"The morning class has already started, go find a seat and sit down to read the books of the sages, don't waste this great time.",การทำวัตรเช้าจะเริ่มแล้ว ไปหาที่และนั่งลงอ่านตำราปราชญ์ อย่าปล่อยให้ช่วงเวลาดีๆ นี้ผ่านไป
 Day-2030-1_5_1,"At the beginning of man, the nature is good|If the child does not learn, the loom is broken|Heaven and earth Mysterious Yellow, universe Primal Land|Leap year makes a year, the musical scale adjusts the sun|Zhao, Qian, Sun, Li, Zhou, Wu, Zheng, Wang|Feng, Chen, Chu, Wei, Jiang, Shen, Han, Yang|Honorable people are guided by justice, while the ignoble are guided by profit|It's not scarcity we should fear, but inequality; not poverty, but unrest|An army's commander can be captured, but a man's will cannot be taken|You throw a peach to me, I give you a plum in return|A lady of elegance and grace, a gentleman's courtship|Hold your hand, and grow old with you|Do not do to others what you do not want done to yourself|Honorable people are open and candid, while the ignoble are always in fear",เป็นครูเพียงหนึ่งวันยอมเท่าเป็นบิดาชั่วชีวิต|จ้าว เฉียน ซุน หลี่... โจว หวู่ เจิ้ง หวัง...|ข้าท่องหนังสือได้ดี ท่านอาจารย์ชมข้าด้วย|ในใจมนุษย์มีธรรมชาติที่ดีงามอยู่...|ในหนังสือมีบ้านทองคำ ในหนังสือมีข้าวพันถัง...|ฟ้าดินเป็นสีเหลืองลึกลับ จักรวาลเป็นดินแดนดึกดำบรรพ์|เต๋าที่พูดได้ไม่ใช่เต๋านิรันดร์
 Day-2030-1_5_2,One shichen later...,หนึ่งชั่วยามต่อมา...
-Day-2030-5_talking,Play chess,เล่นหมากรุก
-Day-2030-5_1_1,Are you trying to probe my thoughts through chess? I won't give you the chance.,เจ้าคิดจะใช้การเล่นหมากรุก ล้วงความคิดของข้าหรือ? ข้าจะไม่ให้โอกาสเจ้าทำมันได้หรอก
+Day-2030-5_talking,Play chess,เล่นหมากล้อม
+Day-2030-5_1_1,Are you trying to probe my thoughts through chess? I won't give you the chance.,เจ้าคิดจะใช้หมากกระดานนี้ ล้วงความคิดในใจข้าหรือ? ข้าไม่ให้โอกาสเจ้าทำมันได้หรอก
 Day-2030-5_1_2,(This guy is really serious),คนผู้นี้จริงจังมาก
-Day-2030-5_2_1,"Kid, come and play a game of chess with me!",เด็กน้อย มาเล่นหมากรุกกับข้าหน่อยสิ!
-Day-2030-5_op_1_1,"Agree to play a game. <color=#097a76>(2 shichen, Stamina 25)</color>","ตกลงเล่นหมากรุก <color=#097a76>(2 ชั่วยาม, 25 แรงกาย)</color>"
+Day-2030-5_2_1,"Kid, come and play a game of chess with me!",เด็กน้อย มาเล่นหมากล้อมกับข้าหน่อยสิ!
+Day-2030-5_op_1_1,"Agree to play a game. <color=#097a76>(2 shichen, Stamina 25)</color>","ตกลงเล่นหมากล้อม <color=#097a76>(2 ชั่วยาม, 25 แรงกาย)</color>"
 Day-2030-5_op_1_2,Come back later.,กลับมาภายหลัง
 Day-2030-5_3_1,"You hold the black pieces, I hold the white pieces, black goes first, white goes second.",เจ้าถือหมากดำ ข้าถือหมากขาว หมากดำเริ่มก่อน หมากขาวค่อยตาม
 Day-2030-5_5_1,One wrong move in chess can lose the whole game.,เดินหมากพลาดเพียงครั้งอาจส่งผลให้พ่ายทั้งกระดาน
