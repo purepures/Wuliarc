@@ -1857,46 +1857,46 @@ part-23-6-2,"Let me see... He says the trouble has been resolved, no need to wor
 part-23-6-3,"Now, I don't know where to find him... Let's wait for his next letter.",ครานี้ก็มิรู้ว่าเขาไปอยู่แห่งหนใดอีก...คงต้องรอจดหมายจากเขาในคราวหน้า
 part-24-0-1,"Leader, this time there will be nearly ten Rich Merchants gathering at the Glittering Artifact Auction, it's a great opportunity for us!",เรียนหัวหน้า ครั้งนี้จะมีเศรษฐีที่เป็นพ่อค้าประมาณสิบคนมารวมตัวกันที่งานประมูลสินค้าหอไข่มุก นี่เป็นโอกาสที่ดีของพวกเรา!
 part-24-0-2,"Indeed, it's a good opportunity, I'll arrange for someone to ""help"" them!","โอกาสงามเช่นนี้มิควรปล่อยให้หลุดมือ ข้าจะส่งคนไป ""ช่วยเหลือ"" พวกเขาเอง!"
-part-24_name,Assist in Wealth Transformation,เสริมสิริมงคลด้านทรัพย์สิน
+part-24_name,Assist in Wealth Transformation,กระจายทรัพย์สู่สายธาร
 part-24_overview,"Glittering Artifact Auction has recently been visited by a group of Rich Merchants to do business, it's time to help them spend some money.",งานประมูลสินค้าหอไข่มุกมีแต่พวกพ่อค้ารวยๆ มาเพียบเลย งั้นเราไปช่วยเขาใช้เงินกันหน่อยมั้ย?
 part-24-1-1,The guards of these Rich Merchants are really troublesome...,เหล่าองครักษ์ของพ่อค้าเศรษฐีพวกนี้ ช่างน่าปวดหัวยิ่งนัก...
 part-24-1-2,"We'll find an opportunity to climb onto the roof later, and then...",เดี๋ยวค่อยหาจังหวะปีนขึ้นหลังคา แล้วก็...
 part-24-1-3,Wait for me! I want to go too!,เดี๋ยวข้ารอด้วย! ข้าก็อยากไปด้วย!
-part-24-1-4,"Qingqing, why did you come out on your own? Your kung fu is not yet proficient, don't blindly participate!"
-part-24-1-5,"I, I just..."
-part-24-1-6,"Sigh, she's already out, it's okay, she can support us from outside."
-part-24-1-13,"Alright, I won't let you guys down!"
-part-24-1-7,"After arranging Qingqing's position and tasks, you climbed onto the roof and sneaked into the beams."
-part-24-1-8,"One, two, three... No, no!"
-part-24-1-9,What's going on?
-part-24-1-10,Trap! They've been waiting for us to take the bait! Retreat quickly!
-part-24-1-11,"They've taken the bait, surround them!"
-part-24-1-12,"There's no escape, fight with all your might."
-part-24-2-1,This should be the way out!
-part-24-2-2,I didn't expect Qingqing to be so mysterious... I'll have to consider you more for future missions.
-part-24-2-3,Great! I've been wanting to work with you guys!
-part-24-3-1,Are we really going to fall here this time?
-part-24-3-2,"I found a secret passage, follow me quickly!"
+part-24-1-4,"Qingqing, why did you come out on your own? Your kung fu is not yet proficient, don't blindly participate!",ชิงชิง เจ้ามาได้อย่างไรกัน? วรยุทธของเจ้ายังไม่แก่กล้าพอ อย่าได้ทำสิ่งใดโดยไม่คิดสิ!
+part-24-1-5,"I, I just...",ข้า ข้าก็แค่...
+part-24-1-6,"Sigh, she's already out, it's okay, she can support us from outside.",เฮ้อ นางมาแล้วก็ช่างเถิด ให้นางคอยสนับสนุนอยู่ภายนอกก็แล้วกัน
+part-24-1-13,"Alright, I won't let you guys down!",ได้เลย! ข้าจะไม่ทำให้พวกท่านผิดหวังแน่นอน!
+part-24-1-7,"After arranging Qingqing's position and tasks, you climbed onto the roof and sneaked into the beams.",หลังจากวางตำแหน่งและมอบหมายภารกิจให้ชิงชิงแล้ว พวกท่านก็ปีนขึ้นไปบนหลังคา และซ่อนตัวอยู่ใต้คาน
+part-24-1-8,"One, two, three... No, no!","หนึ่ง, สอง, สาม... ไม่สิ นี่ไม่ถูกต้อง!"
+part-24-1-9,What's going on?,เกิดอะไรขึ้น?
+part-24-1-10,Trap! They've been waiting for us to take the bait! Retreat quickly!,กับดัก! พวกมันรอให้พวกเรามาติดกับอยู่แล้ว! รีบถอยเร็ว!
+part-24-1-11,"They've taken the bait, surround them!",พวกมันมาติดกับแล้วจริง ๆ ล้อมพวกมันไว้!
+part-24-1-12,"There's no escape, fight with all your might.",หนีไม่พ้นแน่ สู้สุดกำลังเถอะ
+part-24-2-1,This should be the way out!,นี่น่าจะเป็นทางออก!
+part-24-2-2,I didn't expect Qingqing to be so mysterious... I'll have to consider you more for future missions.,ไม่คิดเลยว่าชิงชิงจะซ่อนความสามารถไว้เช่นนี้... ดูท่าภารกิจในภายภาคหน้าคงต้องพิจารณานางให้มากขึ้น
+part-24-2-3,Great! I've been wanting to work with you guys!,นั่นยอดเลย! ข้าก็อยากเข้าร่วมภารกิจกับพวกท่านมานานแล้ว!
+part-24-3-1,Are we really going to fall here this time?,หรือว่าครั้งนี้พวกเราจะมาจบชีวิตลงที่นี่?
+part-24-3-2,"I found a secret passage, follow me quickly!",ข้าพบทางลับทางหนึ่ง รีบตามข้ามาเร็ว
 part-24-3-3,"Phew... Finally escaped, almost lost my life in there.",เฮ้อ... สุดท้ายก็หนีออกมาได้ สาหัสเกือบเอาชีวิตไม่รอด
-part-24-3-4,I didn't expect Qingqing to be so mysterious... I'll have to consider you more for future missions.
-part-24-3-5,Great! I've been wanting to work with you guys!
-part-24-4-1,"The gathering of those Rich Merchants has ended, the place is deserted..."
-part-24-4-2,"I let such a good opportunity slip away, what a pity..."
-part-25-0-1,"Report! Outside the main gate, someone has thrown a letter into the sect using a high-level Throwing technique, please review it, Leader!"
-part-25-0-2,"The sender of the letter says he wants to join our sect, but he's asked to meet at midnight, it's suspicious, should we send someone to check it out?"
-part-25_name,Ye Xiao Comes to Join
-part-25_overview,"A strange man came to the door late at night, asking to join your sect."
-part-25-1-1,Are you the one who wants to join our sect?
-part-25-1-2,Not bad.
-part-25-1-3,"We, {1}, do not accept people of unknown identity. If you are sincere, at least take off your mask first?"
-part-25-1-4,No.
-part-25-1-5,No? Give a reason?
-part-25-1-6,"Ugly and terrifying, beyond what ordinary people can accept."
-part-25-1-7,"Then tell us who you are, that's okay, right?"
-part-25-1-8,Ye Xiao.
-part-25-1-9,I seem to remember this name...
-part-25-1-10,"About seven or eight years ago, a loyal and good man was harmed by a treacherous official, his entire family of eight were sent to the execution ground, only the young son managed to escape."
-part-25-1-11,"The one who survived, later practiced martial arts, killed his enemies under the name of Ye Xiao, and avenged his family."
+part-24-3-4,I didn't expect Qingqing to be so mysterious... I'll have to consider you more for future missions.,ไม่คิดเลยว่าชิงชิงจะซ่อนความสามารถไว้เช่นนี้... ดูท่าภารกิจในภายภาคหน้าคงต้องพิจารณานางให้มากขึ้น
+part-24-3-5,Great! I've been wanting to work with you guys!,นั่นยอดเลย! ข้าก็อยากเข้าร่วมภารกิจกับพวกท่านมานานแล้ว!
+part-24-4-1,"The gathering of those Rich Merchants has ended, the place is deserted...",การชุมนุมของเหล่าพ่อค้าจบลงแล้ว ผู้คนกลับไปหมดแล้ว...
+part-24-4-2,"I let such a good opportunity slip away, what a pity...",ข้าปล่อยให้โอกาสทองเช่นนี้หลุดลอยไปได้อย่างไรกัน น่าเสียดายยิ่งนัก...
+part-25-0-1,"Report! Outside the main gate, someone has thrown a letter into the sect using a high-level Throwing technique, please review it, Leader!",รายงาน! ที่นอกประตูนิกายมีผู้ปาจดหมายเข้ามา ดูท่าจะเชี่ยวชาญศาสตร์อาวุธลับชั้นสูง โปรดท่านเจ้านิกายพิจารณา!
+part-25-0-2,"The sender of the letter says he wants to join our sect, but he's asked to meet at midnight, it's suspicious, should we send someone to check it out?",ในจดหมายกล่าวว่าตนต้องการสวามิภักดิ์ต่อนิกาย แต่กลับนัดหมายในยามเที่ยงคืน ดูมีเงื่อนงำ ท่านจะส่งคนไปดูหรือไม่?
+part-25_name,Ye Xiao Comes to Join,เย่เซียว (นกเค้าแมว) ขอสวามิภักดิ์
+part-25_overview,"A strange man came to the door late at night, asking to join your sect.",มีบุรุษประหลาดมาเยือนในยามวิกาล เรียกร้องขอสวามิภักดิ์ต่อนิกายของพวกท่าน
+part-25-1-1,Are you the one who wants to join our sect?,เจ้าคือผู้ที่ต้องการสวามิภักดิ์ต่อนิกายของเรา?
+part-25-1-2,Not bad.,ไม่เลว
+part-25-1-3,"We, {1}, do not accept people of unknown identity. If you are sincere, at least take off your mask first?",เรา {1} ไม่รับผู้ที่มิอาจเปิดเผยตน หากเจ้ามาด้วยความจริงใจ อย่างน้อยก็ควรถอดหน้ากากออกเสียก่อนหรือไม่?
+part-25-1-4,No.,ไม่ได้
+part-25-1-5,No? Give a reason?,ไม่ได้? มีเหตุผลหรือไม่?
+part-25-1-6,"Ugly and terrifying, beyond what ordinary people can accept.",ทั้งอัปลักษณ์และน่ากลัว เกินกว่าที่คนทั่วไปจะรับได้
+part-25-1-7,"Then tell us who you are, that's okay, right?",เช่นนั้นบอกเราว่าเจ้าเป็นใคร อย่างน้อยเรื่องนี้คงบอกได้ใช่ไหม?
+part-25-1-8,Ye Xiao.,เย่เซียว
+part-25-1-9,I seem to remember this name...,ข้ารู้สึกคุ้นชื่อนี้...
+part-25-1-10,"About seven or eight years ago, a loyal and good man was harmed by a treacherous official, his entire family of eight were sent to the execution ground, only the young son managed to escape.",ราวเจ็ดแปดปีก่อน มีขุนนางผู้ซื่อสัตย์ถูกขุนนางกังฉินใส่ร้าย ครอบครัวแปดชีวิตถูกประหาร มีเพียงบุตรชายคนเล็กที่รอดชีวิตมาได้
+part-25-1-11,"The one who survived, later practiced martial arts, killed his enemies under the name of Ye Xiao, and avenged his family.",ผู้รอดชีวิตผู้นั้น ภายหลังฝึกปรือวรยุทธจนกล้าแกร่ง ใช้ชื่อเย่เซียวนัยนึงก็คือนกเค้าแมว สังหารศัตรู ล้างแค้นให้ครอบครัว
 part-25-1-12,"You say you are Ye Xiao, do you have any proof?"
 part-25-1-13,……,……
 part-25-1-14,Ye Xiao is here!
