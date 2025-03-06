@@ -803,7 +803,7 @@ R10049-0_3_1_10,"This is made by you, miss? Then I must accept it.",นี่เ
 R10049-0_3_1_11,This sachet smells so good... It seems to be the scent of flowers?,ถุงหอมนี้ช่างมีกลิ่นหอมจริงๆ... ดูเหมือนจะเป็นกลิ่นดอกไม้รึ?
 R10049-0_3_2_1,This seems to be the scent of cherry blossoms...,ดูเหมือนจะเป็นกลิ่นของดอกซากุระนะ...
 R10049-0_3_2_2,The scent of cherry blossoms?,กลิ่นของดอกซากุระ...?
-R10049-0_3_2_3,"Hmm, I've bought some from a Merchant who was doing business in the Southwest region before. This faint fragrance, it should be the scent of cherry blossoms.",อืมมม... ข้าเคยซื้อมันมาจากพ่อค้าที่เคยทำธุรกิจในภูมิภาคตะวันตกเฉียงใต้ กลิ่นหอมจางๆ นี้มัน น่าจะเป็นกลิ่นของดอกซากุระเป็นแน่
+R10049-0_3_2_3,"Hmm, I've bought some from a Merchant who was doing business in the Southwest region before. This faint fragrance, it should be the scent of cherry blossoms.",อืมม... ข้าเคยซื้อมันมาจากพ่อค้าที่เคยทำการค้าในแดนตะวันตกเฉียงใต้ กลิ่นหอมจางๆ นี้ มันน่าจะเป็นกลิ่นของดอกซากุระเป็นแน่
 R10049-0_3_2_4,"What my sister said is correct, this is indeed made from cherry blossoms.",ที่พี่สาวพูดนั้นถูกต้อง มันทำจากดอกซากุระจริงๆ
 R10049-0_3_3_1,This is the scent of cherry blossoms.,นี่คือกลิ่นของดอกซากุระ...
 R10049-0_3_3_2,The scent of cherry blossoms?,กลิ่นของดอกซากุระ...?
@@ -823,13 +823,13 @@ R10049-0_3_8_2,"I came here alone, I didn't know there would be such a turmoil w
 R10049-0_3_8_3,"Although I still want to tour around Daliang City for a few more days, I am unfamiliar with the place, if I am not careful and go to some place...",แม้ว่า ข้ายังเที่ยวเมืองต้าเหลียงอีกสักสองสามวัน แต่ข้าไม่คุ้นเคยกับที่นี่ ถ้าไม่ระวังและไปยังสถานที่แปลกๆเข้า...
 R10049-0_3_8_4,"By the way, the young master seems to be quite familiar with Daliang City, if it's convenient for the young master, could you show me around the city?",ยังไงก็ตาม คุณชายดูเหมือนจะค่อนข้างคุ้นเคยกับเมืองต้าเหลียง ถ้าหากไม่เป็นการรบกวนท่านมากเกินไป รบกวนช่วยพาข้าไปเที่ยวรอบๆ เมืองหน่อยได้ไหม?
 R10049-0_3_8_5,(Should I agree to show her around the city?),(ข้าควรพานางไปเที่ยวรอบๆ เมืองหรือไม่?)
-R10049-0_3_9_1,"I see, I was being presumptuous.\nIt's inconvenient for me to enter the city alone, I will wait here for a few days for the young master, if it's convenient for the young master, come find me then.","ขออภัยด้วย ข้าดันเผลอรบกวนคุณชายเกินไปเสียแล้ว\nข้าไม่สะดวกที่จะเข้าเมืองคนเดียวตามลำพัง ข้าจะรอที่นี่สักสองสามวัน เผื่อถ้าหากคุณชายมีสะดวกและมีเวลามากขึ้น แล้วค่อยกลับมาหาข้าแล้วกัน"
+R10049-0_3_9_1,"I see, I was being presumptuous.\nIt's inconvenient for me to enter the city alone, I will wait here for a few days for the young master, if it's convenient for the young master, come find me then.","ขออภัยด้วย ข้าดันเผลอรบกวนคุณชายเกินไปเสียแล้ว\nข้าไม่สะดวกที่จะเข้าเมืองคนเดียวตามลำพัง ข้าจะรอที่นี่สักสองสามวัน เผื่อถ้าหากคุณชายสะดวกและมีเวลามากขึ้น ค่อยกลับมาหาข้าแล้วกัน"
 R10049-0_3_10_1,"Young master, you're here, do you have time to show me around the city?",คุณชาย ท่านพอมีเวลาพาข้าเยี่ยมชมรอบๆ เมืองแล้วใช่ไหม?
-R10049-0_3_11_1,Then I'll have to trouble the young master.,ถ้าอย่างนั้น ข้าจะต้องรบกวนนายท่านด้วย
-R10049-0_3_11_2,"By the way, my name is {PlayerName}, may I know how to address the girl?","ยังไงก็ตาม, ข้าชื่อ {PlayerName} , ข้าจะขอรู้จักนามของท่านหน่อยได้ไหม?"
+R10049-0_3_11_1,Then I'll have to trouble the young master.,เช่นนั้นต้องรบกวนคุณชายแล้ว
+R10049-0_3_11_2,"By the way, my name is {PlayerName}, may I know how to address the girl?",จริงสิ ข้าชื่อ{PlayerName} ไม่ทราบว่าแม่นางมีนามว่าอะไร?
 R10049-0_3_11_3,The young master can call me Liu Yueying.,คุณชายสามารถเรียกข้าว่า หลิวเยว่อิง
 R10049-0_3_11_4,"Cherry blossom tree under the moon, nice name.\nMiss Liu, stay close to me, don't get lost.","ต้นอิงฮวาใต้แสงจันทร์ เป็นชื่อที่ไพเราะยิ่งนัก\nคุณหนูหลิว อยู่ใกล้ข้าไว้จะได้ไม่หลงทาง"
-R10049-0_3_11_5,Then I'll have to trouble {PlayerSurName} young master.,ถ้าอย่างนั้น ข้าจะต้องรบกวนคุณชาย{PlayerSurName}ด้วยแล้ว
+R10049-0_3_11_5,Then I'll have to trouble {PlayerSurName} young master.,ถ้าอย่างนั้น ข้าคงต้องรบกวนคุณชาย{PlayerSurName}แล้ว
 R10049-0_3_12_1,"My brothers, I appreciate your kindness, but the person we're waiting for is here, we have to ask for his opinion.","พี่น้องทั้งหลาย, ข้าซาบซึ้งในความมีน้ำใจของพวกเจ้า แต่คนที่พวกเรารออยู่ที่นี่ พวกเราต้องขอความเห็นจากพวกท่าน"
 R10049-0_3_12_2,"Heh, then call him over, let's see whose fist is bigger, his or mine!","เฮ่, ถ้าอย่างนั้นก็เรียกมาสิ มาดูกันว่าหมัดใครใหญ่กว่ากัน เป็นของเขาหรือของข้า!"
 R10049-0_3_12_3,"I'm just a weak Scholar, of course your fist is bigger.","ข้าเป็นเพียงนักปราชญ์อ่อนแอคนหนึ่ง, แน่นอนหมัดของเจ้าย่อมใหญ่กว่าอยู่แล้ว"
@@ -1046,8 +1046,8 @@ R10049-2_8_1_3,Is Miss Liu interested in this Arena? Would you like to take a cl
 R10049-2_8_1_4,"Ah, no need, I was just curious for a moment, don't delay {PlayerSurName} Sir's time, let's continue our tour.",อ๊ะ ไม่เป็นไรหรอก ข้าเพียงสงสัยชั่วครู่ไม่ควรค่าให้ คุณชาย{PlayerSurName}ต้องมาเสียเวลาหรอก ไปเยี่ยมชมเมืองกันต่อเถิด
 R10049-2_8_2_1,"It seems... it's an Arena? I'm not very clear, if Miss Liu is interested, why don't I go ask?",ดูเหมือนจะเป็น... ลานประลองเหรอ? ข้าก็ไม่ได้รู้จักมากเท่าไหร่ หากคุณหนูหลิว สงสัยข้าไปถามให้เอาไหม?
 R10049-2_8_2_2,"Ah, no need, I was just curious for a moment, don't delay {PlayerSurName} Sir's time, let's continue our tour.",อ๊ะ ไม่เป็นไรหรอก ข้าเพียงสงสัยชั่วครู่ไม่ควรค่าให้ คุณชาย{PlayerSurName}ต้องมาเสียเวลาหรอก ไปเยี่ยมชมเมืองกันต่อเถิด
-R10049-2_8_3_1,"Why is there suddenly such a gust of wind, Miss Liu, are you okay?",ไฉนจึงมีลมโชยมาฉับพลันเช่นนี้ คุณหนูหลิว ท่านเป็นอะไรหรือไม่?
-R10049-2_8_3_2,"It's okay, just my hair is messed up...\nWhy is there such a big wind all of a sudden...","ไม่เป็นไร ข้าแค่ผมเสียทรงไปสักหน่อย\nไฉนจึงมีลมใหญ่พัดมาอย่างฉับพลันเช่นนี้..."
+R10049-2_8_3_1,"Why is there suddenly such a gust of wind, Miss Liu, are you okay?",ไฉนจู่ๆจึงมีลมพัดแรงเช่นนี้ คุณหนูหลิว ท่านเป็นอะไรหรือไม่?
+R10049-2_8_3_2,"It's okay, just my hair is messed up...\nWhy is there such a big wind all of a sudden...","ไม่เป็นไร ข้าแค่ผมเสียทรงไปสักหน่อย\nเหตุใดจู่ๆจึงมีลมพัดแรงเช่นนี้ได้..."
 R10049-2_8_3_3,"It's okay, this is a wind vent, let's run away from here quickly.",ไม่เป็นไรก็ดีแล้ว นี่น่าจะเป็นช่องลมผ่าน เรารีบไปจากที่นี่กันเถอะ!
 R10049-2_8_4_1,There are so many watermelons here...,มีแตงโมเต็มไปหมดเลย...
 R10049-2_8_4_2,The river view here is really beautiful...,ทิวทัศน์แม่น้ำที่นี่งดงามมาก...
