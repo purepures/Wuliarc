@@ -27,7 +27,7 @@
 隆中书院老学究_题目5,"""The highest good is like water, water is good at ______""","""คุณธรรมสูงล้ำดั่งวารี  ______"""
 隆中书院老学究_题目6,"What is the next line after ""A tree as big as a man's embrace grows from a tiny shoot; A nine-storied tower rises from a heap of earth""?","ประโยคต่อไปของ ""ต้นไม้ใหญ่เติบโตจากต้นกล้า หอคอยสูงเสียดฟ้าเริ่มสร้างจากกองดิน"" คืออะไร?"
 隆中书院老学究_题目7,"What is the next line after ""Honorable and yet different""?","ประโยคต่อไปของ ""สุภาพชนกลมเกลียวแม้คิดต่าง"" คืออะไร?"
-隆中书院老学究_题目8,"""Man follows the earth, the earth follows the heaven, ___, ____""","""มนุษย์ยึดตามวิถีแห่งโลก โลกยึดตามวิถีแห่งฟ้าสวรรค์, ___, ____"" (ตอบข้อ 4)"
+隆中书院老学究_题目8,"""Man follows the earth, the earth follows the heaven, ___, ____""","""มนุษย์ยึดตามวิถีแห่งโลก, โลกยึดตามวิถีแห่งสวรรค์,  ____ , ____"""
 隆中书院老学究_题目9,"What is the next line after ""The mountain does not tire of height; the ocean does not tire of depth""?","ประโยคถัดไปของ ""ภูผาสูงเสียดฟ้ามิเบื่อหน่าย ทะเลลึกสุดสายก็มิหนี""?"
 隆中书院老学究_题目10,"What is the next line after ""The movement of the sun and the moon is as if it were among them""?","ประโยคถัดไปของ ""ตะวันเคลื่อนจันทราคล้อย ดั่งเจ้าลอยอยู่เคียงใกล้"" คืออะไร?"
 隆中书院老学究_题目11,"What is the next line after ""Honorable and magnanimous""?","ประโยคต่อไปของ ""คนดีใจกว้าง"" คืออะไร?"
@@ -56,7 +56,7 @@
 隆中书院老学究_题目3_答案1,"If a child does not learn, it is like breaking the loom.",เด็กไม่เรียนรู้ ก็เหมือนหักทอ
 隆中书院老学究_题目3_答案2,"If a person does not learn, he does not know righteousness.",คนถ้าไม่เรียนรู้ ก็ไร้คุณธรรม.
 隆中书院老学究_题目3_答案3,"If a person does not learn, he does not become a tool.","หากคนไม่เรียนรู้, ผู้นั้นก็ไม่กลายเป็นเครื่องมือ."
-隆中书院老学究_题目3_答案4,"If a tool is not sharpened, it is not worth money.","หากเครื่องมือไม่คม, เช่นนั้นมันก็ไร้ค่า."
+隆中书院老学究_题目3_答案4,"If a tool is not sharpened, it is not worth money.",หากเครื่องมือไม่คม เช่นนั้นมันก็ไร้ค่า
 隆中书院老学究_题目4_答案1,"A modest and virtuous young lady, I dream of her.",หญิงงามผู้เปี่ยมคุณธรรม ข้าเฝ้าฝันถึงนาง.
 隆中书院老学究_题目4_答案2,"A modest and virtuous young lady, Honorable towards her.",หญิงงามผู้เปี่ยมคุณธรรม เป็นเกียรติแก่นาง
 隆中书院老学究_题目4_答案3,"A lady of grace, Gentleman's Courtship.",หญิงงามได้พบพาน บุรุษย้ำทรนง.
@@ -76,7 +76,7 @@
 隆中书院老学究_题目8_答案1,"Heaven, earth and man, man can conquer heaven.",ฟ้าดินและมนุษย์ มนุษย์สามารถเอาชนะฟ้าได้
 隆中书院老学究_题目8_答案2,"Heaven's movement is strong, keep striving without rest.",การเคลื่อนไหวของสวรรค์แข็งแกร่ง พยายามอย่างไม่หยุดหย่อน
 隆中书院老学究_题目8_答案3,"When the blue sky dies, the yellow sky will rise.","เมื่อใดท้องฟ้าสว่างลาลับ, ฟ้าเหลืองยามเย็นจะเคลื่อนมา."
-隆中书院老学究_题目8_答案4,The way of heaven is the way of nature.,วิถีแห่งสวรรค์ ย่อมเป็นวิถีแห่งธรรมชาติ.
+隆中书院老学究_题目8_答案4,The way of heaven is the way of nature.,"สวรรค์ยึดตามวิถีแห่งเต๋า, เต๋ายึดตามวิถีแห่งธรรมชาติ."
 隆中书院老学究_题目9_答案1,"This is a humble room, but it is filled with my virtue.",นี่เป็นห้องที่ต่ำต้อย แต่เต็มไปด้วยคุณธรรมของข้า
 隆中书院老学究_题目9_答案2,"How high is the sky, how deep is the sea.",นภาสูงแค่ไหน ทะเลลึกเพียงใด
 隆中书院老学究_题目9_答案3,"Duke Zhou fed the people, and all hearts turned to him.",โจวอ๋องเคารพชาวประชาเป็นอย่างดี ทั่วปฐพีรวมใจภักดีพลัน.
@@ -146,17 +146,17 @@
 隆中书院老学究_题目25_答案3,"I worry, as do others.",ข้าก็รู้สึกกังวลเช่นกัน
 隆中书院老学究_题目25_答案4,"I am happy, as are others.",มาใส่ใจเขา
 院试1_题目1,"""What is the next sentence of 'The frog in the well cannot speak of the sea, because it is confined to the void'?""",ประโยคถัดไปของ 'กบในบ่อน้ำย่อมไม่อาจพูดถึงท้องทะเลได้ เพราะมันอยู่แต่ในที่แคบ' คืออะไร?
-院试1_题目2,"""What is the next sentence of 'A thousand cups are too few when you meet an Intimate'?""",ประโยคถัดไปของ 'ดื่มสุราพันจอกกับสหายผู้รู้ใจ ก็ยังน้อยไป' คืออะไร?  (ตอบข้อ 4)
+院试1_题目2,"""What is the next sentence of 'A thousand cups are too few when you meet an Intimate'?""",ประโยคถัดไปของ 'เมื่อพบพานสหายผู้รู้ใจ ดื่มเหล้าไปพันจอกก็ไม่พอ' คืออะไร?
 院试1_题目3,"""What is the next sentence of 'He who knows others is wise, he who knows himself is enlightened'?""",ประโยคถัดไปของ 'ผู้ที่รู้จักผู้อื่นคือคนฉลาด ผู้ที่รู้จักตนเองคือคนมีปัญญา' คืออะไร?  (ตอบข้อ 1)
 院试2_题目1,"""What is the next sentence of 'Not seeing oneself, therefore enlightened'?""",ประโยคถัดไปของ 'ไม่หลงยึดตนเอง จึงมองเห็นความจริงแจ่มชัด' คืออะไร? (ตอบข้อ 4)
 院试2_题目2,"""What is the next sentence of 'Piling up soil to form a mountain, wind and rain will rise'?""",ประโยคถัดไปของ 'น้ำหยดลงหินทุกวัน' คืออะไร?
-院试2_题目3,"""What is the next sentence of 'Persist and give up, rotten wood will not break'?""",ประโยคถัดไปของ 'แกะสลักแล้วล้มเลิก แม้เป็นไม้ผุก็ไม่เกิดรอย' คืออะไร?  (ตอบข้อ 2)
+院试2_题目3,"""What is the next sentence of 'Persist and give up, rotten wood will not break'?""",ประโยคถัดไปของ 'ความพยายามอยู่ที่ไหน' คืออะไร?
 院试3_题目1,"""What is the next sentence of 'If you don't climb high mountains, you won't know how high the sky is'?""",ประโยคถัดไปของ 'ไม่ขึ้นภูเขาสูง ย่อมไม่รู้ว่าท้องฟ้าสูงเพียงใด' คืออะไร?
-院试3_题目2,"""What is the next sentence of 'A good farmer does not stop plowing because of drought or flood'?""",ประโยคถัดไปของ 'ชาวนาที่ดีไม่หยุดไถนาเพราะน้ำแล้งหรือท่วม' คืออะไร? (ตอบข้อ 3)
+院试3_题目2,"""What is the next sentence of 'A good farmer does not stop plowing because of drought or flood'?""",ประโยคถัดไปของ 'ชาวนาดี มิหวั่น แม้น้ำแล้ง' คืออะไร?
 院试3_题目3,"""What is the next sentence of 'If the year is not cold, you won't know the strength of the pine and cypress'?""",ประโยคถัดไปของ 'หากฤดูหนาวไม่มาถึง ก็ยากจะรู้จักความเขียวชอุ่มของต้นสนต้นไทร' คืออะไร? (ตอบข้อ 4)
 院试4_题目1,"""What is the next sentence of 'A gentleman dies for his Intimate'?""",ประโยคถัดไปของ 'บุรุษยอมตายเพื่อสหายผู้รู้ใจ' คืออะไร?
 院试4_题目2,"""What is the next sentence of 'Drain the pond to fish, won't you catch them? But next year there will be no fish'?""",ประโยคถัดไปของ 'ตักน้ำหมดสระเพื่อจับปลา ไม่ใช่ว่าจะจับไม่ได้? แต่ปีหน้าจะไม่มีปลาให้จับ' คืออะไร? (ตอบข้อ 3)
-院试4_题目3,"""What is the next sentence of 'Having ten good Horses is not as good as having one Bole'?""",ประโยคถัดไปของ 'ครอบครองม้าดีสิบตัว มิสู้มีผู้รอบรู้ม้าดี' คืออะไร? (ตอบข้อ 3)
+院试4_题目3,"""What is the next sentence of 'Having ten good Horses is not as good as having one Bole'?""",ประโยคถัดไปของ 'แม้นมีม้าชั้นดีกระบี่เลิศ มิประเสริฐเทียบบัณฑิตคิดสร้างสรรค์' คืออะไร?
 院试5_题目1,"""What is the next sentence of 'Without indifference, there is no way to clarify your ambition'?""",ประโยคถัดไปของ 'หากมิสมถะ ก็มิอาจแจ้งในปณิธาน' คืออะไร? (ตอบข้อ 1)
 院试5_题目2,"""What is the next sentence of 'Under the fragrant bait, there must be a hanging fish'?""",ประโยคถัดไปของ 'ใต้เหยื่อหอมหวาน ย่อมมีปลาติดเบ็ด' คืออะไร?
 院试5_题目3,"""What is the next line of 'Three years of good deeds, known by few'?""",ประโยคถัดไปของ 'สะสมความดีสามปี แต่มีคนรู้เห็นน้อย' คืออะไร? (ตอบข้อ 1)
@@ -167,7 +167,7 @@
 院试1_题目2_答案1,Another round of 'Brotherhood'.,ขอสุราอีกจอกเถิด พี่น้องร่วมสาบาน
 院试1_题目2_答案2,True friends are hard to find.,สหายแท้หายากยิ่งนัก
 院试1_题目2_答案3,"Effective learner, one-stop solution.",ใจประสานดั่งเส้นด้ายแห่งโชคชะตา ย่อมรู้ใจกันแม้มิต้องเอ่ยวาจา
-院试1_题目2_答案4,"If words are not to the point, it is an abuse.",หากสนทนาไม่ถูกคอ แม้ครึ่งคำก็เกินพอ.
+院试1_题目2_答案4,"If words are not to the point, it is an abuse.",หากพบพานสหายไม่ถูกคอ เพียงครึ่งคำก็เกินพอจะทนฟัง.
 院试1_题目3_答案1,"The one who overcomes others is strong, the one who overcomes himself is powerful.",ผู้ชนะผู้อื่นคือผู้มีพละกำลัง แต่ผู้ชนะตนเองคือผู้ที่แข็งแกร่งแท้จริง.
 院试1_题目3_答案2,"The contented are rich, the ambitious have will.",ผู้ที่พอใจในสิ่งที่มีคือผู้มั่งคั่ง ผู้ที่มีความทะเยอทะยานคือผู้มีเจตจำนง
 院试1_题目3_答案3,"Know your enemy, win every battle.",รู้เขารู้เรา รบร้อยครั้ง ชนะร้อยครั้ง
@@ -181,7 +181,7 @@
 院试2_题目2_答案3,"Accumulate thickness to create radiance, and your descendants will be shaded.",สั่งสมคุณความดีดุจภูผาสูงส่ง ย่อมเป็นร่มเงาให้ลูกหลานสืบไป
 院试2_题目2_答案4,"Accumulate water to form a deep pool, and the dragon will be born there.",หินมันยังกร่อน.
 院试2_题目3_答案1,"Where sincerity is, even metal and stone will open.",จิตใจที่แน่วแน่ดั่งเหล็กกล้า ย่อมทำลายกำแพงหินให้พังทลาย
-院试2_题目3_答案2,"Persist without giving up, and even metal and stone can be carved.",แกะสลักอย่างไม่หยุดหย่อน แม้เป็นทองและหินก็สามารถแกะสลักได้.
+院试2_题目3_答案2,"Persist without giving up, and even metal and stone can be carved.",ความสำเร็จอยู่ที่นั่น.
 院试2_题目3_答案3,"With daily accumulation, even an iron rod can be ground into a needle.",วันเดือนผ่านไป ดั่งสากเหล็กถูกฝนจนเป็นเข็ม
 院试2_题目3_答案4,Ten mediocre horses can achieve success through perseverance.,แม้ม้าสิบตัวไร้ฝีเท้า หากบากบั่นไม่ย่อท้อ ย่อมพิชิตยอดเขาแห่งความสำเร็จได้
 院试3_题目1_答案1,"Without standing by a deep stream, one cannot know the thickness of the earth.",ไม่เคยไปยืนริมลำธารลึก ย่อมไม่รู้ถึงความหนาของแผ่นดิน.
@@ -190,7 +190,7 @@
 院试3_题目1_答案4,"Without entering the cold pool, one cannot know the depth of the water.",หากไม่ดำดิ่งสู่ห้วงน้ำเย็นเฉียบ จะล่วงรู้ความลึกล้ำของสายธารได้อย่างไร
 院试3_题目2_答案1,The honorable do not bend their waists for five pecks of rice.,วิญญูชนผู้ทรงคุณธรรม ย่อมไม่ยอมคุกเข่าแม้แลกด้วยทองคำนับพัน
 院试3_题目2_答案2,The gentleman does not abandon his path due to poverty.,ปราชญ์ผู้ทรงธรรม ย่อมไม่ละทิ้งวิถีแห่งคุณธรรม แม้ยามต้องเผชิญความยากไร้
-院试3_题目2_答案3,A good merchant does not sell at a loss.,พ่อค้าที่ดีจะไม่ซื้อขายโดยรีบเร่งหรือไม่ตรวจสอบ.
+院试3_题目2_答案3,A good merchant does not sell at a loss.,พ่อค้าแกร่ง ค้าขายมั่น มิแปรผัน.
 院试3_题目2_答案4,A man is not moved by a woman's beauty.,จอมยุทธ์ผู้แกร่งกล้า ย่อมไม่หวั่นไหวต่อเสน่ห์ของสตรี
 院试3_题目3_答案1,"If you don't sweep your own house, how can you sweep the world?",หากกวาดลานบ้านตนยังมิสะอาด จะหวังชำระล้างยุทธจักรให้บริสุทธิ์ได้อย่างไร
 院试3_题目3_答案2,"Without time, one cannot see a person's heart.",หากมิได้ร่วมทุกข์ร่วมสุขยาวนาน ย่อมยากจะหยั่งรู้น้ำจิตน้ำใจของผู้ใด
@@ -206,7 +206,7 @@
 院试4_题目2_答案4,"Disbanding the army and scattering the horses, isn't it peaceful? But there will be no soldiers next year.",ยุบกองทัพกระจายม้า สงบสุขมิใช่หรือ? แต่ปีหน้าจะไม่มีทหาร
 院试4_题目3_答案1,Gaining a thousand miles of land is not as good as gaining a sage.,ครอบครองดินแดนพันลี้ มิสู้ครอบครองหนึ่งปราชญ์
 院试4_题目3_答案2,Gaining a thousand acres of farmland is not as good as gaining a god of agriculture.,ครอบครองไร่นานับพันไร่ มิสู้มีเทพกสิกรรมอำนวย
-院试4_题目3_答案3,Gaining ten good swords is not as good as gaining a blacksmith.,ครอบครองกระบี่ดีสิบเล่ม มิสู้ได้ช่างตีดาบโอวเย่เพียงผู้เดียว.
+院试4_题目3_答案3,Gaining ten good swords is not as good as gaining a blacksmith.,ช่างฝีมือเลิศล้ำมีคุณอนันต์ สร้างสรรค์สิ่งสำคัญเกินเปรียบปาน.
 院试4_题目3_答案4,"There are always good horses in a thousand miles, but there are not always good horse trainers.",ทุ่งราบกว้างไกลมีอาชาดีนับพัน แต่มิได้มีผู้คัดสรรม้าศึกที่ดีมากมายเช่นนั้น
 院试5_题目1_答案1,"Without tranquility, one cannot reach far.",หากมิสงบ ก็มิอาจตรองการณ์ไกล.
 院试5_题目1_答案2,"Without generosity, one cannot cover all.",หากมิใจกว้าง การมิอาจครอบครองทุกสิ่ง
@@ -225,7 +225,7 @@
 太学馆对对子_题目3,Please complete the couplet: How can a sparrow know the ambition of a swan;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: นกกระจอกจะรู้ได้อย่างไรเล่า ถึงหงส์เฝ้าทะเยอทะยานสู่จุดหมาย
 太学馆对对子_题目4,Please complete the couplet: The body is a Buddha tree;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: กายคือโพธิ์ธรรมนำทางจิต
 太学馆对对子_题目5,Please complete the couplet: An old horse in the stable still aspires to gallop a thousand miles;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: ม้าแก่ยังใฝ่ฝันจะวิ่งไกลพันลี้ (ตอบข้อ 2)
-太学馆对对子_题目6,"Please complete the couplet: Great Ocean Manual, tolerance is greatness;",โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: ทะเลรับน้ำจากร้อยสาย จึงยิ่งใหญ่เพราะความใจกว้าง (ตอบข้อ 1)
+太学馆对对子_题目6,"Please complete the couplet: Great Ocean Manual, tolerance is greatness;",โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: ใจกว้างขวางดั่งสมุทรสุดประมาณ
 太学馆对对子_题目7,"Please complete the couplet: The sound of wind, rain, and reading enters the ears;",โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: เสียงลม เสียงฝน และเสียงอ่านหนังสือดังเข้าหูพร้อมกัน (ตอบข้อ 3)
 太学馆对对子_题目8,Please complete the couplet: A tiger drinks a cup and gets drunk in the mountains;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: พยัคฆ์ร้ายดื่มสุราหนึ่งจอกเมา มังกรแก้วสองจอกเล่าหลับใหลฝัน
 太学馆对对子_题目9,Please complete the couplet: All mountains bow down to it;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: หมื่นภูเขาก้มกราบแทบเท้า (ตอบข้อ 3)
@@ -246,8 +246,8 @@
 太学馆对对子_题目24,Please complete the couplet: Peace is originally set by the general;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: สร้างสุขด้วยมือ กลับมิได้ชม
 太学馆对对子_题目25,Please complete the couplet: Destined to meet from a thousand miles away;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: มีวาสนา แม้อยู่ไกลพันลี้ยังได้พบเจอ (ตอบข้อ 1)
 太学馆对对子_题目26,Please complete the couplet: The sharpness of a treasure sword comes from grinding;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: คมกระบี่แกร่งกล้าด้วยการฝน ดั่งใจคนอดทนย่อมแกร่งไหว
-太学馆对对子_题目27,Please complete the couplet: Holding a three-foot Longquan sword;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: ถือกระบี่หลงเฉวียนยาวสามฟุต (ตอบข้อ 1)
-太学馆对对子_题目28,Please complete the couplet: Jade can be shattered but its whiteness cannot be changed;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: หยกอาจแตกได้ แต่ความขาวบริสุทธิ์ไม่เปลี่ยนแปลง (ตอบข้อ 2)
+太学馆对对子_题目27,Please complete the couplet: Holding a three-foot Longquan sword;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: ถือกระบี่หลงเฉวียนอันคมกล้า
+太学馆对对子_题目28,Please complete the couplet: Jade can be shattered but its whiteness cannot be changed;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: หยกงามแท้แตกหักมิเปลี่ยนสี ขาวผ่องดีบริสุทธิ์มิรู้หาย
 太学馆对对子_题目29,Please complete the couplet: Good birds choose trees to nest;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: นกที่ดี เลือกต้นไม้ เพื่อพักพิง
 太学馆对对子_题目30,Please complete the couplet: Proud soldiers often lead to defeat since ancient times;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: ทัพออกศึก หากหลงตน ย่อมพ่ายแพ้
 太学馆对对子_题目31,Please complete the couplet: Horse neighs when it meets a good master;,โปรดต่อโคลงกลอนคู่นี้ให้สมบูรณ์: ม้าเมื่อพบผู้รู้ค่าม้า จึงส่งเสียงร้อง (ตอบข้อ 1)
@@ -290,7 +290,7 @@
 太学馆对对子_题目5_答案2,"Short awl in the bag, half-inch blade.",ดาบสั้นที่ซ่อนอยู่ในกระเป๋า
 太学馆对对子_题目5_答案3,Hang the sail directly to cross the sea.,ชักใบเรือข้ามทะเล
 太学馆对对子_题目5_答案4,Fierce horse neighs with great momentum.,ม้าพยศร้องก้องด้วยพลังมหาศาล
-太学馆对对子_题目6_答案1,"A thousand-foot wall stands, desireless is firm.",ผาตั้งสูงพันฟุต ถ้าปราศจากความอยากก็จะแข็งแกร่ง
+太学馆对对子_题目6_答案1,"A thousand-foot wall stands, desireless is firm.",ผาสูงชันตั้งตระหง่านมิหวั่นไหว
 太学馆对对子_题目6_答案2,"Great sound is silent, great image is formless.",เสียงยิ่งใหญ่เงียบงัน ภาพยิ่งใหญ่ไร้รูป
 太学馆对对子_题目6_答案3,"Knowing is easy, doing is hard, knowing and doing are one.",รู้ได้ง่าย ทำได้ยาก รู้และทำเป็นหนึ่งเดียว
 太学馆对对子_题目6_答案4,"One careless move, the whole game is lost.",พลาดเพียงก้าวเดียว พ่ายทั้งกระดาน
@@ -379,7 +379,7 @@
 太学馆对对子_题目27_答案3,Why use a butcher's knife to kill a chicken?,ฆ่าไก่ทำไมต้องใช้มีดเชือดวัว
 太学馆对对子_题目27_答案4,Winning fame in life and after death.,ได้ชื่อเสียงทั้งยามมีชีวิตและหลังสิ้นลม
 太学馆对对子_题目28_答案1,"Cinnabar can be ground, but its redness cannot be taken away.",ชาดบดได้ แต่สีแดงยังคงมิอาจถูกช่วงชิงไป
-太学馆对对子_题目28_答案2,"Bamboo can be burned, but its joints cannot be destroyed.",ไผ่เผาได้ แต่ไม่อาจทำลายปล้อง.
+太学馆对对子_题目28_答案2,"Bamboo can be burned, but its joints cannot be destroyed.",ไผ่เขียวสดเผาผลาญมลายกาย แต่ปล้องลายมิสูญหายไปตามควัน
 太学馆对对子_题目28_答案3,"A man can be killed, but his will cannot be taken away.",ผู้คนถูกฆ่าได้แต่ไม่อาจช่วงชิงปณิธานจากใจเขา
 太学馆对对子_题目28_答案4,"A gentleman can be killed, but not insulted.",บุรุษสามารถถูกฆ่าได้ แต่ไม่อาจยอมให้ใครหยามหมิ่นศักดิ์ศรี
 太学馆对对子_题目29_答案1,Honorable people do not stand under dangerous walls.,วิญญูชนไม่ยืนใต้กำแพงผุพัง
@@ -407,7 +407,7 @@
 太学馆对对子_题目34_答案3,Officials don't change their positions.,ขุนนางมิเปลี่ยนตำแหน่ง
 太学馆对对子_题目34_答案4,Being the head of a household is not like having a home.,เป็นหัวหน้าครอบครัว แต่กลับเหมือนไร้บ้านให้พักพิง
 太学馆对对子_题目35_答案1,Dare to laugh at Huang Chao for not being a man.,กล้าหัวร่อเย้ยหวงเฉาว่าไม่ใช่บุรุษแท้หรือ
-太学馆对对子_题目35_答案2,A cup of clear tea can intoxicate.,เมามายเป็นแน่ แม้ดื่มชาใส.
+太学馆对对子_题目35_答案2,A cup of clear tea can intoxicate.,เมามายเป็นแน่ แม้ดื่มชาใส
 太学馆对对子_题目35_答案3,Don't laugh at me for being drunk on the battlefield.,หากเมานอนกลางสนามรบ โปรดอย่าหัวเราะเยาะกัน
 太学馆对对子_题目35_答案4,Two cups of dragon sleep at the bottom of the sea.,มังกรอสรพิษทั้งคู่ หลับใหลเงียบงันใต้ท้องทะเล
 太学馆对对子_题目36_答案1,Every grass and tree is a Kunlun.,หญ้าหนึ่งต้น ไม้หนึ่งกิ่ง ล้วนสะท้อนถึงความยิ่งใหญ่แห่งคุนหลุน
@@ -630,24 +630,24 @@
 会试3_题目2,"""'The highest good is like water, water benefits all things and does not compete.' Who said this?""","""คุณธรรมอันสูงสุดเปรียบเหมือนน้ำ น้ำให้ประโยชน์แก่สรรพสิ่งและไม่แก่งแย่ง"" คำพูดนี้เป็นของนักปราชญ์ท่านใด? (ตอบข้อ 2)"
 会试3_题目3,"""Which book does the quote 'Life between heaven and earth is like a white horse passing a gap, suddenly it's over.' come from?""","""ชีวิตในโลกนี้เปรียบเสมือนม้าขาววิ่งผ่านรอยแยก ซึ่งรวดเร็วฉับพลัน"" คำพูดนี้เป็นของนักปราชญ์ท่านใด? (ตอบข้อ 2)"
 会试4_题目1,"""Which Archive does the quote 'Honorable is open and upright, while the villain is always in a hurry.' come from?""","คำว่า ""สุภาพชนสง่างามเปิดเผย คนชั่วมักเร่งรีบอยู่เสมอ"" มาจากตำราเล่มใด? (ตอบข้อ 1)"
-会试4_题目2,"""Which Archive does the quote 'When poor, one should improve oneself; when rich, one should benefit the world.' come from?""","คำว่า ""เมื่อยากจน ควรพัฒนาตนเอง เมื่อมั่งคั่ง ควรเกื้อกูลโลก"" มาจากตำราเล่มใด? (ตอบข้อ 3)"
+会试4_题目2,"""Which Archive does the quote 'When poor, one should improve oneself; when rich, one should benefit the world.' come from?""","คำว่า ""ยามขัดสนเฝ้าฝึกฝนคุณธรรมแห่งตน ยามสำเร็จผลร่วมช่วยเหลือทั่วใต้หล้า"" มาจากตำราของใคร?"
 会试4_题目3,"""Which Archive does the quote 'Learning without thinking leads to confusion, thinking without learning ends in danger.' come from?""","คำว่า ""เรียนรู้โดยไม่คิดทำให้หลงทาง คิดโดยไม่เรียนรู้ทำให้ตกอยู่ในอันตราย"" มาจากตำราเล่มใด? (ตอบข้อ 1)"
-会试5_题目1,"""Please complete the couplet: 'Since ancient times, talented people have faced many hardships;'""","โปรดต่อกลอนว่า ""ตั้งแต่โบราณมา ผู้มีพรสวรรค์มักเผชิญความยากลำบาก;"" (ตอบข้อ 3)"
+会试5_题目1,"""Please complete the couplet: 'Since ancient times, talented people have faced many hardships;'""","โปรดต่อกลอนว่า ""คนเก่งแต่เก่าก่อนล้วนผ่านทุกข์ ฟันฝ่าอุปสรรคหนักหน่วงไหว"""
 会试5_题目2,"""Please complete the couplet: 'Having seen through human nature, the autumn clouds are thick;'""","โปรดต่อกลอนว่า ""เมื่อมองทะลุถึงมนุษยธรรม เมฆฤดูใบไม้ร่วงก็ทวีความหนาแน่น;"" (ตอบข้อ 3)"
 会试5_题目3,"""Please complete the couplet: 'The art should start with diligent learning;'""","โปรดต่อกลอนว่า ""วิชาควรเริ่มจากความเพียรเรียนรู้;"" (ตอบข้อ 3)"
 会试6_题目1,"""Please complete the couplet: 'Poetry and books are not medicine, but they can cure vulgarity;'""","โปรดต่อกลอนว่า ""บทกวีและตำราไม่ใช่ยา แต่สามารถเยียวยาความหยาบกระด้าง;"" (ตอบข้อ 2)"
-会试6_题目2,"""Please complete the couplet: 'A room doesn't need to be large to be elegant;'""","โปรดต่อกลอนว่า ""ห้องงามไม่จำเป็นต้องใหญ่;"" (ตอบข้อ 4)"
+会试6_题目2,"""Please complete the couplet: 'A room doesn't need to be large to be elegant;'""","โปรดต่อกลอนว่า ""คนจะงาม งามที่ใจ ใช่ใบหน้า"" "
 会试6_题目3,"""Please complete the couplet: 'Calligraphy, painting, chess, and music shine through the ages;'""","โปรดต่อกลอนว่า ""อักษร ภาพเขียน หมากล้อม และดนตรี เจิดจรัสผ่านร้อยยุคสมัย;"" (ตอบข้อ 3)"
 会试7_题目1,"""What is the next line of 'A bird about to die, its song is sad;'?""","บทต่อไปของ ""นกใกล้ตาย เสียงร้องของมันเศร้าโศก;"" คืออะไร? (ตอบข้อ 3)"
 会试7_题目2,"""What is the next line of 'If the name is not correct, then the words will not be smooth;'?""","บทต่อไปของ ""ถ้าชื่อไม่ถูกต้อง คำพูดก็จะไม่ราบรื่น;"" คืออะไร? (ตอบข้อ 4)"
-会试7_题目3,"""What is the next line of 'If one's body is upright, one will act without being ordered;'?""","บทต่อไปของ ""หากตัวตรง ผู้คนจะทำตามโดยไม่ต้องสั่ง;"" คืออะไร? (ตอบข้อ 2)"
+会试7_题目3,"""What is the next line of 'If one's body is upright, one will act without being ordered;'?""","บทต่อไปของ ""ถึงบางพูดพูดดีมีศรีศักดิ์ มีคนรักรสถ้อยอร่อยจิต"" คืออะไร?"
 会试8_题目1,"""What is the next line of 'Honorable cherish virtue, while villains cherish wealth;'?""","บทต่อไปของ ""สุภาพชนรักษาคุณธรรม คนชั่วรักษาทรัพย์สิน;"" คืออะไร? (ตอบข้อ 2)"
-会试8_题目2,"""What is the next line of 'When three people walk together, there must be my teacher among them;'?""","บทต่อไปของ ""เมื่อสามคนเดินทางด้วยกัน ต้องมีผู้เป็นครูของข้าอยู่ในนั้น;"" คืออะไร? (ตอบข้อ 1)"
+会试8_题目2,"""What is the next line of 'When three people walk together, there must be my teacher among them;'?""","บทต่อไปของ ""คบคนพาล พาลพาไปหาผิด"" คืออะไร?"
 会试8_题目3,"""What is the next line of 'Do not worry about scarcity, but about inequality;'?""","บทต่อไปของ ""อย่ากังวลเรื่องความขาดแคลน แต่จงกังวลเรื่องความไม่เท่าเทียม;"" คืออะไร? (ตอบข้อ 1)"
 会试9_题目1,"""What is the next line of 'The world is bustling, all for profit;'?""","บทต่อไปของ ""โลกนี้คึกคักไปด้วยผลประโยชน์;"" คืออะไร? (ตอบข้อ 1)"
 会试9_题目2,"""What is the next line of 'The wise man worries a thousand times, there must be one mistake;'?""","บทต่อไปของ ""นักปราชญ์คิดอย่างรอบคอบพันครั้ง ย่อมมีหนึ่งความผิดพลาด;"" คืออะไร? (ตอบข้อ 3)"
-会试9_题目3,"""What is the next line of 'The limit of a strong crossbow, the arrow cannot penetrate the Lu's simple cloth;'?""","บทต่อไปของ ""แม้หน้าไม้ทรงพลังถึงที่สุด ลูกธนูก็ไม่สามารถทะลุผ่านผ้าของหลู่ได้;"" คืออะไร? (ตอบข้อ 2)"
-会试10_题目1,"""What is the next line of 'Heaven's timing is not as good as the geographical advantage;'?""","บทต่อไปของ ""เวลาแห่งสวรรค์ยังไม่สู้ประโยชน์แห่งทำเลที่ตั้ง;"" คืออะไร? (ตอบข้อ 1)"
+会试9_题目3,"""What is the next line of 'The limit of a strong crossbow, the arrow cannot penetrate the Lu's simple cloth;'?""","ประโยคต่อไปของ ""มีลาภ-เสื่อมลาภ"" คืออะไร?"
+会试10_题目1,"""What is the next line of 'Heaven's timing is not as good as the geographical advantage;'?""","ประโยคถัดไปของ ""ฟ้าลิขิตมิสู้ทำเลทอง"" คืออะไร?"
 会试10_题目2,"""What is the next line of 'A man must degrade himself before others will degrade him;'?""","บทต่อไปของ ""บุรุษต้องดูหมิ่นตนเองเสียก่อน แล้วผู้อื่นจึงจะดูหมิ่นเขาได้;"" คืออะไร? (ตอบข้อ 2)"
 会试10_题目3,"""Learn widely, ask carefully, ___, ___, ___.""","ศึกษาหาความรู้ให้กว้างไกล ไตร่ถามด้วยความรอบคอบ, ___, ___, ___. (ตอบข้อ 3)"
 会试1_题目1_答案1,No sorrow is greater than parting in life.,ไม่มีความเศร้าใดเทียบเท่ากับการจากลากันในชีวิต
@@ -700,7 +700,7 @@
 会试4_题目3_答案4,"""Tao Te Ching"".","""เต๋าเต๋อจิง"""
 会试5_题目1_答案1,A real man is always poisonous.,ชายชาตรีต้องมีความเด็ดเดี่ยว
 会试5_题目1_答案2,A thousand hammers and a hundred refinements make steel.,ผ่านการทุบตีและหลอมร้อยครั้งจึงกลายเป็นเหล็กกล้า
-会试5_题目1_答案3,There have always been few great men among the pampered.,ผู้ยิ่งใหญ่ไม่อาจเกิดจากผู้ที่เสวยสุข
+会试5_题目1_答案3,There have always been few great men among the pampered.,ผู้เสเพลเหลาะแหละไร้จิตใจ ยากจะยืนยิ่งใหญ่ในแดนดิน
 会试5_题目1_答案4,Don't laugh at the young for their lack of success.,อย่าหัวเราะเยาะคนหนุ่มเพียงเพราะเขายังไม่ประสบความสำเร็จ
 会试5_题目2_答案1,"Know a person's face, but not their heart.",รู้หน้า แต่ไม่รู้ใจ
 会试5_题目2_答案2,The taste of the world has become as thin as gauze over the years.,รสชาติของโลกนี้บางเบาดั่งลำลีเมื่อเวลาผ่านไป
@@ -717,7 +717,7 @@
 会试6_题目2_答案1,"Heaven and Earth, the sun and the moon are long.",สวรรค์และปฐพี ดวงอาทิตย์และดวงจันทร์ยืนยาว
 会试6_题目2_答案2,A thousand gold is not enough.,ทองพันตำลึงยังไม่เพียงพอ
 会试6_题目2_答案3,The scent of wine floats in the deep alley.,กลิ่นเหล้าลอยอบอวลในตรอกลึก
-会试6_题目2_答案4,The fragrance of flowers is not in their abundance.,ความหอมของดอกไม้ไม่ได้ขึ้นอยู่กับปริมาณ
+会试6_题目2_答案4,The fragrance of flowers is not in their abundance.,คนจะสวย สวยจรรยา ใช่ตาหวาน
 会试6_题目3_答案1,"The tones of gong, shang, jue, and zhi linger for three days.",ท่วงทำนองกง ซาง เจวี่ย และจื้อ ยังคงก้องในใจถึงสามวัน
 会试6_题目3_答案2,Good ministers and generals will be remembered for a thousand years.,ขุนนางและแม่ทัพที่ดีจะคงชื่อเสียงไว้ชั่วนิรันดร์
 会试6_题目3_答案3,Poetry and prose enlighten the world for a thousand years.,บทกวีและวรรณกรรมให้ความสว่างแก่โลกมานานนับพันปี
@@ -731,14 +731,14 @@
 会试7_题目2_答案3,"If reputation is upright, then words will be harmonious.",หากชื่อเสียงซื่อตรง คำพูดย่อมกลมกลืน
 会试7_题目2_答案4,"If words are discordant, then actions will fail.",หากคำพูดขัดแย้ง การกระทำย่อมล้มเหลว
 会试7_题目3_答案1,"If you are upright, you need not fear a crooked shadow.",หากท่านตรงไปตรงมา ก็ไม่จำเป็นต้องกลัวเงาที่บิดเบี้ยว
-会试7_题目3_答案2,"If one's character is not upright, even commands will not be obeyed.",หากนิสัยไม่ซื่อตรง แม้จะสั่งการก็ไม่มีใครปฏิบัติตาม
+会试7_题目3_答案2,"If one's character is not upright, even commands will not be obeyed.",แม้นพูดชั่วตัวตายทำลายมิตร จะชอบผิดในมนุษย์เพราะพูดจา
 会试7_题目3_答案3,"What the superior does, the inferior will follow.",สิ่งที่ผู้นำทำ ผู้ตามย่อมเลียนแบบ
 会试7_题目3_答案4,"Therefore, if you want unity from top to bottom, you must be upright.",ดังนั้น หากต้องการความสามัคคีจากบนสู่ล่าง ตัวเองต้องซื่อตรง
 会试8_题目1_答案1,"Honorable people cherish courtesy, while petty people cherish gold.",คนสูงศักดิ์หวงแหนมารยาท ในขณะที่คนต้อยต่ำหวงแหนทองคำ
 会试8_题目1_答案2,"Honorable people uphold justice, while petty people seek favor.",คนสูงศักดิ์ยึดถือความยุติธรรม ในขณะที่คนต้อยต่ำแสวงหาประโยชน์
 会试8_题目1_答案3,"Honorable people value virtue, while petty people harbor resentment.",คนสูงศักดิ์เห็นคุณค่าในคุณธรรม ในขณะที่คนต้อยต่ำเต็มไปด้วยความขุ่นเคือง
 会试8_题目1_答案4,"Honorable people treasure jade, while petty people seek profit.",คนสูงศักดิ์หวงแหนหยก ในขณะที่คนต้อยต่ำแสวงหากำไร
-会试8_题目2_答案1,"Choose the good and follow it, and change what is not good.",เลือกสิ่งที่ดีแล้วทำตาม และเปลี่ยนแปลงสิ่งที่ไม่ดี (ข้อถูก)
+会试8_题目2_答案1,"Choose the good and follow it, and change what is not good.",คบบัณฑิต บัณฑิตพาไปหาผล
 会试8_题目2_答案2,"A teacher is one who imparts knowledge, guides learning, and solves doubts.",ครูคือผู้ถ่ายทอดความรู้ ชี้แนะแนวทาง และแก้ไขข้อสงสัย
 会试8_题目2_答案3,"Once a teacher, always a father.", เป็นครูวันเดียว ก็ถือว่าเป็นพ่อไปตลอดชีวิต
 会试8_题目2_答案4,"Everyone has their strengths, do not be ashamed to ask questions.",ทุกคนล้วนมีความถนัด อย่าอายที่จะถาม
@@ -755,10 +755,10 @@
 会试9_题目2_答案3,"Foolish people worry a thousand times, and will surely succeed once.",คนโง่คิดพันครั้ง ย่อมมีหนึ่งครั้งที่สำเร็จ (ข้อถูก)
 会试9_题目2_答案4,"\n|Among a thousand worries of the patient, there must be one gain.",ในพันความกังวลของผู้ทุกข์ยาก ย่อมมีหนึ่งสิ่งที่ได้ประโยชน์
 会试9_题目3_答案1,"First blood, then decline, and finally exhaustion.",ครั้งแรกเต็มเปี่ยมด้วยพลัง ครั้งที่สองเริ่มถดถอย และครั้งที่สามย่อมหมดแรง
-会试9_题目3_答案2,"At the end of the storm, one cannot even float a feather.",เมื่อพายุสิ้นสุดลง พลังยังไม่อาจพยุงขนนกให้ลอยได้ (ข้อนี้ถูก)
+会试9_题目3_答案2,"At the end of the storm, one cannot even float a feather.",มียศ-เสื่อมยศ
 会试9_题目3_答案3,"It's not that the beginning is not strong, but the end is weak.",มิใช่ว่าต้นไม่แข็งแกร่ง แต่เพราะปลายอ่อนล้า
 会试9_题目3_答案4,"If it's not convenient to fight, it's better to make peace.",หากการต่อสู้ไม่เอื้ออำนวย สู้สร้างสันติจะดีกว่า
-会试10_题目1_答案1,Harmony among people is better than geographical advantage.,ความปรองดองในหมู่ผู้คน สำคัญยิ่งกว่าความได้เปรียบทางภูมิศาสตร์
+会试10_题目1_答案1,Harmony among people is better than geographical advantage.,ทำเลปองมิสู้สามัคคี
 会试10_题目1_答案2,Those who have geographical advantage will rule the world.,ผู้ที่ครองความได้เปรียบทางภูมิศาสตร์ ย่อมครองแผ่นดินได้
 会试10_题目1_答案3,"Those who follow the right path will have many helpers, those who lose the right path will have few.",ผู้เดินทางที่ถูกต้องจะมีผู้ช่วยมาก ผู้หลงทางจะมีผู้ช่วยน้อย
 会试10_题目1_答案4,"It's not that the city is not high, or the moat is not deep.",มิใช่ว่าเมืองไม่สูง หรือคูน้ำไม่ลึก
