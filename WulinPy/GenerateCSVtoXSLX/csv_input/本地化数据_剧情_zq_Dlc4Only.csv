@@ -1456,7 +1456,7 @@ R400008-3_1_7,Let him in.,ปล่อยเขาเข้ามา
 R400008-3_1_8,"Yes, sir, please follow me.",ครับท่าน เชิญตามข้ามา
 R400008-3_1_9,What can I do for you?,มีอะไรให้ข้าช่วยหรือ?
 R400008-3_1_10,Are you Boss Qian?,ท่านคือเถ้าแก่เฉียนใช่หรือไม่?
-R400008-3_1_11,"Yes, I am Qian Yankai! What can I do for you?",ใช่แล้ว ข้าคือเฉียนเยี่ยนไค! มีอะไรให้ข้าช่วยหรือ?
+R400008-3_1_11,"Yes, I am Qian Yankai! What can I do for you?",ใช่แล้ว ข้าคือเฉียนเหยียนไค! มีอะไรให้ข้าช่วยหรือ?
 R400008-3_1_12,"I am {PlayerName}, I want to take your ship to Penglai.",ข้าคือ {PlayerName} ข้าต้องการใช้เรือของท่านไปเผิงไหล
 R400008-3_1_13,"Go to Penglai? Alright, give me 100 taels for the ticket, and I'll take you to Penglai.",ไปเผิงไหลหรือ? เอาล่ะ จ่ายค่าตั๋วมา 100 ตำลึง แล้วข้าจะพาเจ้าไปเผิงไหล
 R400008-3_1_14,100 taels?! You're asking for too much!,100 ตำลึง?! ท่านเรียกมากเกินไปแล้ว!
@@ -1501,105 +1501,105 @@ R400008-3_6_3,"If I'm not mistaken, the person Mr. Qian paid for is our Singer G
 R400008-3_6_4,"Mr. Qian, do me a favor, and I'll let Xiaoyun stay with you for a few more days, how about it?",ท่านเจี้ยน กรุณาช่วยข้าสักเรื่อง และข้าจะปล่อยให้เสี่ยวหยุนพำนักอยู่กับท่านอีกสองสามวัน เป็นอย่างไรบ้าง?
 R400008-3_6_5,This...this...this...,นี่... นี่... นี่...
 R400008-3_6_6,"Not only that, for the next year, whenever Mr. Qian comes to Maiden House, it will be half price, how about it?",ไม่เพียงเท่านั้น ตลอดปีต่อไป ทุกครั้งที่ท่านเจี้ยนเสด็จมายังหอหมู่บุปผา จะได้รับส่วนลดครึ่งราคา เป็นอย่างไรบ้าง?
-R400008-3_6_7,"Alright, alright, alright, whatever Yan Dojokeeper needs me to do, I'll do it!"
-R400008-3_6_8,Just agree to take {PlayerName} on the ship and take him to Penglai Island.
+R400008-3_6_7,"Alright, alright, alright, whatever Yan Dojokeeper needs me to do, I'll do it!",ได้ ๆ ๆ! ไม่ว่าหยานผู้พิทักษ์จะร้องขอสิ่งใด ข้าก็จะทำตาม!
+R400008-3_6_8,Just agree to take {PlayerName} on the ship and take him to Penglai Island.,เพียงแค่ตกลงรับ {PlayerName} ขึ้นเรือ และนำเขาไปยังเกาะเผิงไหล่
 R400008-3_6_9,"Alright, you can count on me!",ได้ เชื่อมือข้าเถอะ!
 R400008-3_6_10,"{PlayerSurName}, please go to the Pier first, I'll be there shortly.",{PlayerSurName} ไปรอที่ท่าเรือก่อนเลย เดี๋ยวข้าจะตามไป
 R400008-3_6_11,Okay.,ได้
-R400008-3_6_12,"You're really something, Mr. Qian was so stunned when he saw you, he couldn't even speak properly."
-R400008-3_6_13,"If you've been a Dojokeeper at the Maiden House for so long, you naturally know how to deal with men like him."
-R400008-3_6_14,That's true...
-R400008-3_7_1,"{PlayerName}, I've done you a big favor, you have to be nice to me~"
-R400008-3_7_2,"Don't worry, whatever you want, even if it's the stars in the sky, I'll pluck them down for you."
-R400008-3_7_3,"I don't want the stars in the sky, I just hope you can forget about the affairs of the jianghu and live a peaceful life with me for a few years, can you promise me that?"
-R400008-3_7_4,"Yes, I promise you, as soon as these troubles are over, we'll live a peaceful life for a while."
-R400008-3_7_5,"Alright, don't forget what you said today."
-R400008-3_8_1,"Mr. Qian, do you know that I am Duke Kang's brother-in-law?"
-R400008-3_9_1,"Mr. Qian, do you know that I am Jian Yan Emperor's brother-in-law?"
-R400008-3_10_1,You...you're saying...
-R400008-3_10_2,"Mr. Qian, think about it, how much could this royal business be worth?"
-R400008-3_10_3,This...
-R400008-3_10_4,"If you help me this time, next time the royal family needs to purchase something, I guarantee your name will be heard."
-R400008-3_10_5,"Oh my, Lord Fuma, I was just joking with you~"
-R400008-3_10_6,"Isn't it just a trip to Penglai? Not to mention one trip, dozens of trips are nothing!"
-R400008-3_10_7,"Lord Fuma, go to the pier and wait for me, I'll be there soon."
-R400008-3_10_8,"Alright, see you at the pier."
-R400008-3_10_9,"Take care, Lord Fuma~"
-R400008-3_11_1,"If you don't have money, please leave and come back when you do."
-R400008-3_11_2,"Waiter, is my fish soup ready yet?"
-R400008-3_11_3,"Please wait a moment, I'll hurry it up for you..."
-R400008-3_11_4,"This Qian Yankai probably won't be swayed by anything other than money, how can I get him to let me on the boat..."
-R400008-3_12_1,"How's it going, have you gathered enough money yet?"
-R400008-3_13_1,"Mr. Qian, your fish~"
-R400008-3_13_2,"Finally, I've been waiting forever!"
-R400008-3_13_3,"You're back, how's it going, have you gathered enough money yet?"
-R400008-3_14_1,"You're back, how's it going, still haven't gathered enough money?"
-R400008-3_15_1,"Excuse me, boss, could you save a spot for me on the boat?"
-R400008-3_15_2,You—
-R400008-3_15_3,……
-R400008-3_15_4,The boat... the boat is full! I can't help you!
-R400008-3_15_5,"No problem, I can stay on the deck."
-R400008-3_15_6,……
-R400008-3_15_7,"I said there's no room, can't you understand human language!"
-R400008-3_15_8,"Hurry up and leave, don't ruin my mood!"
-R400008-3_15_9,……
-R400008-3_15_10,Oh? Isn't this Ding San? I didn't expect to see you again so soon.
-R400008-3_15_11,You--!
-R400008-3_15_12,Hmm? You know Mr. Qian?
-R400008-3_15_13,"Yes, yes! We've been old friends for many years."
-R400008-3_15_14,"Right, Mr. Qian?"
-R400008-3_15_15,"Yes, yes..."
-R400008-3_15_16,"Mr. Qian, why are you so pale? And why are you sweating so much? Are you not feeling well?"
-R400008-3_15_17,"Just... the fish wasn't fresh, my stomach hurts, haha, thank you for your concern."
-R400008-3_15_18,"Then why don't you go to the bathroom, why are you forcing yourself to stay here?"
-R400008-3_15_19,This... I... this...
-R400008-3_15_20,"Ding San, you wouldn't have forgotten our agreement and are trying to pull the same trick, would you?"
-R400008-3_15_21,……
-R400008-3_15_22,"If that's the case, then—"
-R400008-3_16_1,"Five Poisons plum needle? Ding San, you're really ruthless.\nToo bad, when it comes to throwing skills, you're still too green!"
-R400008-3_16_2,Tsk.
-R400008-3_17_1,"You actually used throwing, you despicable guy..."
-R400008-3_17_2,"Enough talk, let's settle our vendetta!"
-R400008-3_18_1,"I told you last time, if you don't repent, I will personally bring you to justice."
-R400008-3_18_2,"Ding San, I will make up for the mistakes I made today!"
-R400008-3_18_3,"Cough, cough, he actually had lime powder hidden on him..."
-R400008-3_18_4,"Are you alright, hero?"
-R400008-3_18_5,"I'm fine, this little trick is nothing to me. Besides, he took a punch from me, he should have internal injuries."
-R400008-3_18_5_1,"Speaking of which, Mr. Qian, how did he find you?"
-R400008-3_18_6,"Like you, he wanted to get on the boat but couldn't afford the fare, so he grabbed my wrist and forced me to comply."
-R400008-3_18_7,"The pale face and cold sweat you saw earlier were all because my wrist was grabbed by him, the pain was unbearable."
-R400008-3_18_8,"If it weren't for you, I don't know how much I would have suffered..."
-R400008-3_18_9,"So, since I saved you, shouldn't you show some gratitude?"
-R400008-3_18_10,"Of course, of course.\nHero, go to the pier and wait for me, I'll be there soon."
-R400008-3_18_11,"Alright, see you at the pier."
-R400008-3_19_1,Why don't you have money yet? I don't have time to wait for you to slowly earn money!
-R400008-3_20_1,"Waiter, how long has my fish soup been, why isn't it ready yet?"
-R400008-3_20_2,"The servant has already gone to hurry them up, please wait a little longer..."
-R400008-3_21_1,"Mr. Qian, your fish~"
-R400008-3_21_2,"Finally, I've been waiting forever!"
-R400008-3_21_3,This is so delicious~
-R400008-3_21_4,Eating with great relish
-R400008-3_21_5,"Oh, there's something wrong with this fish..."
-R400008-3_21_6,(It's about time for me to make my appearance)
-R400008-3_21_7,"Boss Qian, I'm back again."
-R400008-3_21_8,Oh...you...
-R400008-3_21_9,"Boss Qian, what's wrong with you? You look so pale, are you feeling unwell?"
-R400008-3_21_10,I...I...I have a stomachache...
-R400008-3_21_11,"The smell of this fish soup... No, there's poison in this soup!"
-R400008-3_21_12,"Boss Qian, don't panic, I know a little about medicine, I'll give you the antidote right away!"
-R400008-3_21_13,Okay...okay...
-R400008-3_21_14,"You take out the antidote you prepared earlier, pretend to be professional, and give it to Qian Yankai.\nQian Yankai's complexion quickly improves."
-R400008-3_21_15,Phew...phew...I feel much better.
-R400008-3_21_16,"The poison in your body has just been removed, you need to rest and avoid overwork."
-R400008-3_21_17,"I understand, thank you for your help, I thought I was going to die..."
-R400008-3_21_18,"You mentioned earlier that you wanted to go to Penglai, right? No problem, leave it to me.\nPlease wait for me at the pier, I'll be there soon."
-R400008-3_21_19,"Thank you very much, Boss Qian."
-R400008-3_21_20,"Don't mention it, you saved my life, it's nothing to offer you a boat ride."
-R400008-3_21_21,(Just as I expected.)
-R400008-3_21_22,"Alright, see you at the pier then."
-R400008-3-1_1_1,Why isn't the fish soup for the second floor ready yet?
-R400008-3-1_1_2,"Without rice, how can the cleverest housewife cook? We're out of fish in the kitchen, as soon as we have fish, the soup can be ready."
-R400008-3-1_1_3,This...aren't there other fish? Can we make do with them?
+R400008-3_6_12,"You're really something, Mr. Qian was so stunned when he saw you, he couldn't even speak properly.",เจ้าช่างน่าทึ่งยิ่งนัก ท่านเจี้ยนตกตะลึงจนพูดไม่ออกเมื่อได้เห็นเจ้า
+R400008-3_6_13,"If you've been a Dojokeeper at the Maiden House for so long, you naturally know how to deal with men like him.",หากเจ้าได้เป็นผู้พิทักษ์แห่งหอหมู่บุปผามานานเช่นนี้ ย่อมรู้จักวิธีรับมือกับบุรุษเช่นเขาอย่างเป็นธรรมดา
+R400008-3_6_14,That's true...,เป็นความจริงดังว่า...
+R400008-3_7_1,"{PlayerName}, I've done you a big favor, you have to be nice to me~",{PlayerName} ข้าได้อุปถัมภ์เจ้าเป็นอย่างมาก เจ้าต้องปฏิบัติต่อข้าอย่างดีนะ~
+R400008-3_7_2,"Don't worry, whatever you want, even if it's the stars in the sky, I'll pluck them down for you.",อย่าได้กังวลเลย ไม่ว่าเจ้าปรารถนาสิ่งใด แม้จะเป็นดวงดาวบนฟ้า ข้าก็จะเด็ดลงมาให้เจ้า
+R400008-3_7_3,"I don't want the stars in the sky, I just hope you can forget about the affairs of the jianghu and live a peaceful life with me for a few years, can you promise me that?",ข้าไม่ต้องการดวงดาวบนฟ้าหรอก เพียงหวังว่าเจ้าจะสลัดวางเรื่องราวแห่งยุทธภพ และใช้ชีวิตอันสงบสุขร่วมกับข้าสักปีสองปี เจ้าสัญญาได้หรือไม่
+R400008-3_7_4,"Yes, I promise you, as soon as these troubles are over, we'll live a peaceful life for a while.",ตกลง ข้าสัญญา ทันทีที่เรื่องวุ่นวายเหล่านี้สงบลง เราจะได้ใช้ชีวิตอันสงบสุขเป็นการชั่วคราวนี้
+R400008-3_7_5,"Alright, don't forget what you said today.",ดีแล้ว อย่าลืมสิ่งที่เจ้าได้กล่่าวไว้ในวันนี้เป็นอันขาด
+R400008-3_8_1,"Mr. Qian, do you know that I am Duke Kang's brother-in-law?",ท่านเฉียน ท่านทราบหรือไม่ว่าข้าเป็นน้องเขยของอ๋องคัง
+R400008-3_9_1,"Mr. Qian, do you know that I am Jian Yan Emperor's brother-in-law?",ท่านเฉียน ท่านทราบหรือไม่ว่าข้าเป็นน้องเขยของฮ่องเต้เจี้ยนหยาน
+R400008-3_10_1,You...you're saying...,เจ้า... เจ้ากำลังพูดว่า...
+R400008-3_10_2,"Mr. Qian, think about it, how much could this royal business be worth?",ท่านเฉียน จงคิดให้ดี มูลค่าของธุรกิจหลวงนี้จะเป็นเท่าใดกัน
+R400008-3_10_3,This...,นี่...
+R400008-3_10_4,"If you help me this time, next time the royal family needs to purchase something, I guarantee your name will be heard.",หากท่านช่วยข้าในครั้งนี้ ครั้งหน้าเมื่อราชวงศ์ประสงค์จะจัดหาสิ่งใด ข้าขอรับรองว่านามของท่านจะก้องดังทั่วหล้า
+R400008-3_10_5,"Oh my, Lord Fuma, I was just joking with you~",โอ๊ะ! ท่านฟูหม่า ข้าเพียงแค่หยอกล้อท่านเท่านั้น~
+R400008-3_10_6,"Isn't it just a trip to Penglai? Not to mention one trip, dozens of trips are nothing!",นี่มิใช่แค่การเดินทางไปเผิงไหลหรอกหรือ? ไม่ต้องพูดถึงแค่หนหนึ่ง แม้หลายสิบเที่ยวก็ไม่เป็นการยาก!
+R400008-3_10_7,"Lord Fuma, go to the pier and wait for me, I'll be there soon.",ท่านฟูหม่า จงไปรอข้าที่ท่าเรือ ข้าจะไปถึงในไม่ช้า
+R400008-3_10_8,"Alright, see you at the pier.",ได้เลย ท่าน จงพบกันที่ท่าเรือ
+R400008-3_10_9,"Take care, Lord Fuma~",รักษาตัวด้วย ท่านฟูหม่า~
+R400008-3_11_1,"If you don't have money, please leave and come back when you do.",หากไร้ซึ่งทรัพย์ จงหลีกไปเสีย เมื่อมีทรัพย์แล้วค่อยหวนกลับมา
+R400008-3_11_2,"Waiter, is my fish soup ready yet?",เสี่ยวเอ้อร์ ซุปปลาของข้าเสร็จหรือยัง?
+R400008-3_11_3,"Please wait a moment, I'll hurry it up for you...",โปรดรอสักครู่ ข้าจะเร่งให้ท่านเดี๋ยวนี้...
+R400008-3_11_4,"This Qian Yankai probably won't be swayed by anything other than money, how can I get him to let me on the boat...",เฉียนเหยียนไคผู้นี้ คงมิอาจหวั่นไหวด้วยสิ่งใด นอกเสียจากเงินทอง แล้วข้าจะทำเช่นไร จึงจักได้ขึ้นเรือ...
+R400008-3_12_1,"How's it going, have you gathered enough money yet?",เป็นอย่างไรบ้าง เล่า? รวบรวมเงินทองได้มากพอแล้วหรือยัง?
+R400008-3_13_1,"Mr. Qian, your fish~",ท่านเฉียน ปลาของท่านมาแล้ว~
+R400008-3_13_2,"Finally, I've been waiting forever!",ในที่สุด! ข้ารอคอยมานานแสนนาน!
+R400008-3_13_3,"You're back, how's it going, have you gathered enough money yet?",ท่านกลับมาแล้วหรือ? กิจธุระเป็นเช่นไรบ้างเล่า? เงินทองที่หมายมั่น ป่านนี้คงรวบรวมได้มากพอแล้วกระมัง?
+R400008-3_14_1,"You're back, how's it going, still haven't gathered enough money?",กลับมาแล้วหรือ? เป็นอย่างไรบ้าง? ยังหาเงินทองมาได้ไม่เพียงพออีกรึ?
+R400008-3_15_1,"Excuse me, boss, could you save a spot for me on the boat?",เรียนท่านหัวหน้า ข้าน้อยขอความกรุณาท่านโปรดเมตตาสำรองที่บนเรือให้ข้าสักที่ได้หรือไม่?
+R400008-3_15_2,You—,เจ้า—
+R400008-3_15_3,……,……
+R400008-3_15_4,The boat... the boat is full! I can't help you!,เรือ... เรือเต็มแล้ว! ข้าเองก็จนปัญญา ช่วยเหลือเจ้ามิได้!
+R400008-3_15_5,"No problem, I can stay on the deck.",ไม่เป็นไร ข้าสามารถอยู่บนดาดฟ้าได้
+R400008-3_15_6,……,……
+R400008-3_15_7,"I said there's no room, can't you understand human language!",ข้าบอกว่าไม่มีที่ เจ้าฟังภาษาคนไม่เข้าใจรึ!
+R400008-3_15_8,"Hurry up and leave, don't ruin my mood!",รีบไปเสีย อย่าทำให้ข้าเสียอารมณ์!
+R400008-3_15_9,……,……
+R400008-3_15_10,Oh? Isn't this Ding San? I didn't expect to see you again so soon.,โอ้? นี่มันติงซานมิใช่หรือ? ข้าไม่คิดว่าจะได้พบเจ้าเร็วเช่นนี้
+R400008-3_15_11,You--!,เจ้า...!
+R400008-3_15_12,Hmm? You know Mr. Qian?,หืม? เจ้ารู้จักคุณชายเฉียนด้วยรึ?
+R400008-3_15_13,"Yes, yes! We've been old friends for many years.",ใช่แล้ว! พวกเราเป็นสหายเก่าแก่กันมานานหลายปี
+R400008-3_15_14,"Right, Mr. Qian?",จริงหรือไม่ คุณชายเฉียน?
+R400008-3_15_15,"Yes, yes...",ใช่ๆ.......
+R400008-3_15_16,"Mr. Qian, why are you so pale? And why are you sweating so much? Are you not feeling well?",คุณชายเฉียน เหตุใดท่านจึงหน้าซีดเช่นนี้? และทำไมท่านถึงเหงื่อออกมากมายเช่นนี้? ท่านไม่สบายหรือ?
+R400008-3_15_17,"Just... the fish wasn't fresh, my stomach hurts, haha, thank you for your concern.",แค่... ปลาไม่สด ท้องข้าเลยเจ็บ ฮ่าๆ ขอบคุณสำหรับความห่วงใย
+R400008-3_15_18,"Then why don't you go to the bathroom, why are you forcing yourself to stay here?",ถ้าเช่นนั้น ทำไมท่านไม่ไปห้องน้ำเล่า ทำไมท่านต้องฝืนตัวเองอยู่ตรงนี้ด้วย?
+R400008-3_15_19,This... I... this...,นี่... ข้า... นี่...
+R400008-3_15_20,"Ding San, you wouldn't have forgotten our agreement and are trying to pull the same trick, would you?",ติงซาน เจ้าคงจะไม่ลืมข้อตกลงของเราและพยายามจะใช้กลอุบายเดิมใช่หรือไม่?
+R400008-3_15_21,……,……
+R400008-3_15_22,"If that's the case, then—",ถ้าเป็นเช่นนั้น ก็...
+R400008-3_16_1,"Five Poisons plum needle? Ding San, you're really ruthless.\nToo bad, when it comes to throwing skills, you're still too green!","เข็มพิษดอกเหมย? ติงซาน เจ้าช่างอำมหิตนัก\nน่าเสียดายเรื่องทักษะอาวุธลับ เจ้ายังอ่อนหัดนัก!"
+R400008-3_16_2,Tsk.,เฮ้อ
+R400008-3_17_1,"You actually used throwing, you despicable guy...",ถึงกับใช้อาวุธลับ! เจ้าคนต่ำช้า...
+R400008-3_17_2,"Enough talk, let's settle our vendetta!",พอเสียที มาสะสางความแค้นของเรากัน!
+R400008-3_18_1,"I told you last time, if you don't repent, I will personally bring you to justice.",ข้าบอกเจ้าไปแล้วครั้งก่อน หากเจ้าไม่สำนึกผิด ข้าจะนำตัวเจ้ามารับโทษด้วยตนเอง
+R400008-3_18_2,"Ding San, I will make up for the mistakes I made today!",ติงซาน ความผิดพลาดที่ข้าก่อขึ้น ข้าจะลบล้างในวันนี้!
+R400008-3_18_3,"Cough, cough, he actually had lime powder hidden on him...",แค่กๆ เขากลับซ่อนผงปูนขาวไว้ด้วย...
+R400008-3_18_4,"Are you alright, hero?",ท่านเป็นอะไรไหม ท่านจอมยุทธ?
+R400008-3_18_5,"I'm fine, this little trick is nothing to me. Besides, he took a punch from me, he should have internal injuries.",ข้าสบายดี กลเม็ดเล็กๆ น้อยๆ นี้ไม่มีผลอะไรกับข้า นอกจากนี้ เขายังโดนหมัดของข้าไป น่าจะมีอาการบาดเจ็บภายใน
+R400008-3_18_5_1,"Speaking of which, Mr. Qian, how did he find you?",ว่าแต่คุณเฉียน เขาหาคุณเจอได้อย่างไรครับ?
+R400008-3_18_6,"Like you, he wanted to get on the boat but couldn't afford the fare, so he grabbed my wrist and forced me to comply.",เหมือนเจ้า เขาก็อยากขึ้นเรือแต่ไม่มีเงินจ่ายค่าโดยสาร เลยคว้าข้อมือข้าแล้วบังคับให้ข้าทำตาม
+R400008-3_18_7,"The pale face and cold sweat you saw earlier were all because my wrist was grabbed by him, the pain was unbearable.",สีหน้าซีดเผือดและเหงื่อเย็นที่คุณเห็นก่อนหน้านี้เป็นเพราะข้อมือของข้าถูกเขาคว้าไว้ ความเจ็บปวดนั้นทนไม่ได้
+R400008-3_18_8,"If it weren't for you, I don't know how much I would have suffered...",ถ้าไม่ใช่เพราะท่าน ข้าไม่รู้ว่าข้าจะต้องทนทุกข์ทรมานมากแค่ไหน...
+R400008-3_18_9,"So, since I saved you, shouldn't you show some gratitude?",ดังนั้น ในเมื่อข้าช่วยท่านไว้ ท่านไม่ควรแสดงความกตัญญูบ้างเหรอ?
+R400008-3_18_10,"Of course, of course.\nHero, go to the pier and wait for me, I'll be there soon.","แน่นอน แน่นอน \nท่านจอมยุทธ์ ไปรอข้าที่ท่าเรือ เดี๋ยวข้าจะไปหา"
+R400008-3_18_11,"Alright, see you at the pier.",เอาล่ะ เจอกันที่ท่าเรือ
+R400008-3_19_1,Why don't you have money yet? I don't have time to wait for you to slowly earn money!,เงินทองหายไปไหนหมด? ข้าไม่มีเวลาคอยให้ท่านเอ้อระเหยลอยชายหาเงินนะ!
+R400008-3_20_1,"Waiter, how long has my fish soup been, why isn't it ready yet?",เสี่ยวเอ้อ ซุปปลาของข้าใช้เวลานานแค่ไหนแล้ว ทำไมยังไม่เสร็จสักที?
+R400008-3_20_2,"The servant has already gone to hurry them up, please wait a little longer...",บ่าวได้ไปเร่งพวกเขาแล้ว ขอท่านโปรดรออีกสักครู่...
+R400008-3_21_1,"Mr. Qian, your fish~","ท่านเฉียน, ปลาของท่านมาแล้ว~"
+R400008-3_21_2,"Finally, I've been waiting forever!",ในที่สุด! ข้ารอคอยมานานแสนนาน!
+R400008-3_21_3,This is so delicious~,รสชาตินี้เลิศล้ำ เกินจะเปรียบปาน ดุจดั่งโอสถสวรรค์ประทาน ช่างวิเศษยิ่งนัก!
+R400008-3_21_4,Eating with great relish,รับประทานอย่างเอร็ดอร่อยยิ่ง
+R400008-3_21_5,"Oh, there's something wrong with this fish...",อืม... ปลานี่ท่าทางจะมีอันใดผิดปกติเสียแล้ว...
+R400008-3_21_6,(It's about time for me to make my appearance),ถึงเวลาที่ข้าต้องปรากฏตัวแล้ว...
+R400008-3_21_7,"Boss Qian, I'm back again.",หัวหน้าเฉียน ข้ากลับมาแล้ว
+R400008-3_21_8,Oh...you...,โอ้...ท่าน...
+R400008-3_21_9,"Boss Qian, what's wrong with you? You look so pale, are you feeling unwell?",หัวหน้าเฉียน ท่านเป็นอะไรไป? สีหน้าไม่สู้ดี หรือว่าท่านไม่สบาย?
+R400008-3_21_10,I...I...I have a stomachache...,ข้า...ข้า...ข้า...ปวดท้องเหลือเกิน...
+R400008-3_21_11,"The smell of this fish soup... No, there's poison in this soup!",กลิ่นซุปปลานี่มัน... ไม่ใช่! ในซุปนี้มีพิษ!
+R400008-3_21_12,"Boss Qian, don't panic, I know a little about medicine, I'll give you the antidote right away!",หัวหน้าเฉียน อย่าเพิ่งตื่นตระหนก ข้ารู้วิชาแพทย์อยู่บ้าง ข้าจะรีบให้ยาถอนพิษท่านเดี๋ยวนี้!
+R400008-3_21_13,Okay...okay...,ก็ได้...ก็ได้...
+R400008-3_21_14,"You take out the antidote you prepared earlier, pretend to be professional, and give it to Qian Yankai.\nQian Yankai's complexion quickly improves.","ท่านหยิบยาแก้พิษที่เตรียมไว้ก่อนหน้าออกมา ทำท่าทีราวกับผู้เชี่ยวชาญ แล้วยื่นให้เฉียนเยี่ยนไค \nสีหน้าของเฉียนเยี่ยนไคดีขึ้นอย่างรวดเร็ว"
+R400008-3_21_15,Phew...phew...I feel much better.,เฮ้อ...เฮ้อ...รู้สึกดีขึ้นมากแล้ว
+R400008-3_21_16,"The poison in your body has just been removed, you need to rest and avoid overwork.",พิษในร่างกายของท่านเพิ่งถูกกำจัดไป ท่านต้องพักผ่อนและหลีกเลี่ยงการทำงานหนัก
+R400008-3_21_17,"I understand, thank you for your help, I thought I was going to die...",เข้าใจแล้ว ขอบคุณมากที่ช่วยชีวิต ข้าเกือบตายแล้วจริงๆ...
+R400008-3_21_18,"You mentioned earlier that you wanted to go to Penglai, right? No problem, leave it to me.\nPlease wait for me at the pier, I'll be there soon.","ก่อนหน้านี้ท่านพูดถึงเรื่องที่อยากไปเผิงไหลไม่ใช่หรือ? ไม่มีปัญหา เรื่องนี้ข้าจัดการเอง\nโปรดรอข้าอยู่ที่ท่าเรือ ข้าจะไปถึงในเร็ววัน"
+R400008-3_21_19,"Thank you very much, Boss Qian.",ขอบคุณท่านมากจริงๆ หัวหน้าเฉียน
+R400008-3_21_20,"Don't mention it, you saved my life, it's nothing to offer you a boat ride.",อย่าพูดถึงเรื่องนั้นเลย ท่านช่วยชีวิตข้าไว้ แค่ให้โดยสารเรือไปก็เล็กน้อยเกินไป
+R400008-3_21_21,(Just as I expected.),(เป็นไปตามที่คาดไว้)
+R400008-3_21_22,"Alright, see you at the pier then.",เอาล่ะ แล้วเจอกันที่ท่าเรือนะ
+R400008-3-1_1_1,Why isn't the fish soup for the second floor ready yet?,ซุปปลาสำหรับชั้นสองทำไมยังไม่เสร็จอีก?
+R400008-3-1_1_2,"Without rice, how can the cleverest housewife cook? We're out of fish in the kitchen, as soon as we have fish, the soup can be ready.",ไม่มีข้าวสาร เมียที่ฉลาดที่สุดก็ทำอาหารไม่ได้ ในครัวเราไม่มีปลา พอมีปลา ซุปก็พร้อมเสิร์ฟ
+R400008-3-1_1_3,This...aren't there other fish? Can we make do with them?,เอ่อ...ไม่มีปลาชนิดอื่นเลยเหรอ? พอจะใช้อย่างอื่นแทนไปก่อนได้รึเปล่า
 R400008-3-1_1_4,"The customer on the second floor is very picky, the soup has to be made with golden carp, sigh, I don't know where the guy who was supposed to fetch the fish has gone, when will the fish arrive..."
 R400008-3-1_1_5,"From the sound of it, the kitchen needs a <color=#c44b0e>golden carp</color>. If I have this golden carp, the dish that Boss Jin wants to eat..."
 R400008-3-1_2_1,"Phew, the golden carp has finally arrived, just in time."
