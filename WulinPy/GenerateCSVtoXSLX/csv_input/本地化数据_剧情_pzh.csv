@@ -572,7 +572,7 @@ R10112-3_4_3_1,"My three kings, they eat without restraint, suffering from const
 R10112-3_4_3_2,This doesn't seem right...,นี่มันไม่ใช่แล้ว...
 R10112-3_4_3_3,What are they singing about?,พวกมันร้องเพลงอะไรกัน?
 R10112-3_4_3_4,"If it has such an effect, I'd like to try it too",ถ้าหากมันมีสรรพคุณแบบนี้จริง ข้าก็อยากจะลองเหมือนกัน
-R10112-3_4_3_5,"What about laxative effects? The king said, just one bite of that Tang monk's flesh can grant you longevity and eternal youth! You must be a fake Zhu Bajie!",ดีท็อกซ์บ้าอะไรของแก องค์ราชาพูดว่าเนื้อของพระถังทำให้เป็นอมตะและเยาว์วัย แกมันตัวปลอม!
+R10112-3_4_3_5,"What about laxative effects? The king said, just one bite of that Tang monk's flesh can grant you longevity and eternal youth! You must be a fake Zhu Bajie!",ล้างพิษบ้าอะไรของเจ้า องค์ราชันย์พูดเองว่าเนื้อของพระถังทำให้เป็นอมตะและเยาว์วัย แกเป็นโป๊ยก่ายตัวปลอมแน่ๆ!
 R10112-3_4_3_6,"Yes, yes, it's Longevity and youth...\n(Oh no, I answered wrong...)","จริงด้วย กินแล้วจะเป็นอมตะและเยาว์วัย...\n(แย่ละ เหมือนข้าจะตอบผิด...)"
 R10112-3_4_4_1,Go back!,กลับไปซะ!
 R10112-3_4_4_2,Good!,ดี!
@@ -830,18 +830,18 @@ R10049-0_3_11_2,"By the way, my name is {PlayerName}, may I know how to address 
 R10049-0_3_11_3,The young master can call me Liu Yueying.,คุณชายสามารถเรียกข้าว่า หลิวเยว่อิง
 R10049-0_3_11_4,"Cherry blossom tree under the moon, nice name.\nMiss Liu, stay close to me, don't get lost.","ต้นอิงฮวาใต้แสงจันทร์ เป็นชื่อที่ไพเราะยิ่งนัก\nคุณหนูหลิว อยู่ใกล้ข้าไว้จะได้ไม่หลงทาง"
 R10049-0_3_11_5,Then I'll have to trouble {PlayerSurName} young master.,ถ้าอย่างนั้น ข้าคงต้องรบกวนคุณชาย{PlayerSurName}แล้ว
-R10049-0_3_12_1,"My brothers, I appreciate your kindness, but the person we're waiting for is here, we have to ask for his opinion.","พี่น้องทั้งหลาย, ข้าซาบซึ้งในความมีน้ำใจของพวกเจ้า แต่คนที่พวกเรารออยู่ที่นี่ พวกเราต้องขอความเห็นจากพวกท่าน"
-R10049-0_3_12_2,"Heh, then call him over, let's see whose fist is bigger, his or mine!","เฮ่, ถ้าอย่างนั้นก็เรียกมาสิ มาดูกันว่าหมัดใครใหญ่กว่ากัน เป็นของเขาหรือของข้า!"
-R10049-0_3_12_3,"I'm just a weak Scholar, of course your fist is bigger.","ข้าเป็นเพียงนักปราชญ์อ่อนแอคนหนึ่ง, แน่นอนหมัดของเจ้าย่อมใหญ่กว่าอยู่แล้ว"
-R10049-0_3_12_4,"Heh, your backup is him? Look at you, you can't even tie a chicken, don't disturb my mood if you don't want to eat a punch!","เฮ้, แกเป็นตัวสำรองของเขาเหรอ? ดูสิ แกผูกไก่ไม่เป็นเลย, ดังนั้น อย่ามารบกวนอารมณ์ข้าตอนนี้ ถ้าไม่อยากกินหมัดของข้า!"
-R10049-0_3_12_5,Oh? I just want to see your skills.,โอ้ว? ข้าแค่อยากเห็นฝีมือของเจ้า
-R10049-0_3_12_6,"Big brother, this guy is the Building owner of Tower of Prosperity...","พี่ใหญ่, คนๆ นี้เป็นเจ้าของหอเจิดจรัส..."
-R10049-0_3_12_7,"Haha, Miss Liu, this is all a misunderstanding, we just wanted to see if there's anything we can help with.","ฮ่าๆ, คุณหนูหลิว, ทั้งหมดนี้เป็นความเข้าใจผิดกัน เราแค่อยากดูว่ามีอะไรที่เราสามารถช่วยได้"
-R10049-0_3_12_8,"Since Miss Liu is here, there's naturally nothing for us brothers to do here. Excuse us, wish Miss Liu a prosperous business!","เนื่องจากคุณหนูหลิวอยู่ที่นี่, โดยปกติแล้วไม่มีอะไร พวกเราพี่น้องกันทั้งนั้น  ขออภัย, ขอให้คุณหนูหลิวมีกิจการเจริญรุ่งเรือง!"
-R10049-0_3_12_9,No need to see us off.,หวังว่าจะไม่เจอพวกเรานะ
-R10049-0_3_12_10,"Thank you, Miss Liu, for your help.","ขอบคุณ, คุณหนูหลิว,สำหรับความช่วยเหลือ"
-R10049-0_3_12_11,"Your acting is really bad, forget it. Time is pressing, don't make any more trouble.","ทักษะการแสดงของเจ้าน่ะแย่มาก, ลืมมันไปซะ มันผ่านไปแล้ว, อย่าสร้างปัญหาอีกต่อไป"
-R10049-0_3_12_12,"I didn't expect that the girl actually knows the owner of the {Building}, these {Ruffian}s really kicked the iron plate.","ข้าไม่ได้คาดหวังว่า แม่นางจะรู้จักกับเจ้าของ {Building} , จริงๆ {Ruffian} พวกนี้ ซวยจริงๆ เหมือนที่ต้องมาเจอตอ"
+R10049-0_3_12_1,"My brothers, I appreciate your kindness, but the person we're waiting for is here, we have to ask for his opinion.",พี่น้องทั้งหลาย ข้าซาบซึ้งในความมีน้ำใจของพวกท่าน แต่คนที่พวกเรารออยู่ที่นี่ เราต้องขอความเห็นจากเขาก่อน
+R10049-0_3_12_2,"Heh, then call him over, let's see whose fist is bigger, his or mine!",หืม ถ้าอย่างนั้นก็เรียกเขามาสิ มาดูกันว่าหมัดใครจะหนักกว่ากัน เป็นหมัดของเขาหรือของข้า!
+R10049-0_3_12_3,"I'm just a weak Scholar, of course your fist is bigger.",ข้าเป็นเพียงบัณฑิตอ่อนแอผู้หนึ่ง หมัดของเจ้าย่อมหนักกว่าอยู่แล้ว
+R10049-0_3_12_4,"Heh, your backup is him? Look at you, you can't even tie a chicken, don't disturb my mood if you don't want to eat a punch!",เฮ้ย เจ้าเป็นใครกัน? ดูเจ้าสิ ท่าทางปวกเปียกอ่อนแอเช่นนี้  อย่ามามาทำให้ข้ามีน้ำโหเลย ไม่งั้นจะให้ลองชิมหมัดของข้า!
+R10049-0_3_12_5,Oh? I just want to see your skills.,งั้นรึ? ข้าอยากเห็นฝีมือของเจ้าซะจริง
+R10049-0_3_12_6,"Big brother, this guy is the Building owner of Tower of Prosperity...",พี่ใหญ่ คนผู้นี้เป็นเจ้าของหอเจิดจรัส...
+R10049-0_3_12_7,"Haha, Miss Liu, this is all a misunderstanding, we just wanted to see if there's anything we can help with.",ฮาฮา คุณหนูหลิว ทั้งหมดนี้เป็นเรื่องเข้าใจผิดกัน เราแค่อยากดูว่ามีอะไรที่เราสามารถช่วยท่านได้ไหม
+R10049-0_3_12_8,"Since Miss Liu is here, there's naturally nothing for us brothers to do here. Excuse us, wish Miss Liu a prosperous business!",ในเมื่อคุณหนูหลิวก็อยู่ที่นี่แล้ว พวกเราพี่น้องคงไม่มีธุระอะไรอีก ขออภัยที่รบกวน พวกเราขอตัวก่อน ขอให้คุณหนูหลิวโชคดี!
+R10049-0_3_12_9,No need to see us off.,ไม่ส่งนะ
+R10049-0_3_12_10,"Thank you, Miss Liu, for your help.",ขอบคุณสำหรับความช่วยเหลือ
+R10049-0_3_12_11,"Your acting is really bad, forget it. Time is pressing, don't make any more trouble.",เจ้าแสดงไม่สมบทบาทเลย ช่างเถอะๆ เรื่องผ่านไปแล้ว ต่อไปอย่าได้สร้างปัญหาอีก
+R10049-0_3_12_12,"I didn't expect that the girl actually knows the owner of the {Building}, these {Ruffian}s really kicked the iron plate.",ไม่นึกเลยว่าแม่นางผู้นี้จะรู้จักกับเจ้าของหอเจิดจรัส อันธพาลพวกนั้นดวงซวยจริงๆ ต้องมาเจอตอเข้าซะแล้ว
 R10049-2_0_1,"{PlayerSurName} Sir, I'm sorry, I have important matters to attend to and can't stay any longer. If fate allows, we'll meet again elsewhere.","{PlayerSurName} นายท่าน, ข้าขอโทษ, ข้ามีเรื่องสำคัญที่ต้องจัดการและอยู่ต่อไม่ได้แล้ว หากโชคชะตาของเราต้องกัน ก็คงจะได้พบกันอีกครั้งในที่อื่นใดสักที่"
 R10049-2_0_2_1,"{PlayerSurName} Sir, isn't {Daliang City} in this direction?",คุณชาย{PlayerSurName} เมืองต้าเหลียงต้องไปอีกทางไม่ใช่เหรอเจ้าคะ?
 R10049-2_0_2_2,"Hahaha, you're right, I'm a bit disoriented.","ฮ่าๆๆ, เจ้าพูดถูกต้องแล้ว ข้าสับสนนิดหน่อย"
