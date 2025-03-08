@@ -1400,86 +1400,86 @@ R400008-1_1_1,"Master, I want to go to Penglai Island, do you know where I can f
 R400008-1_1_2,Penglai? There are quite a few vagabonds who want to go to Penglai recently.,เผิงไหลรึ? ช่วงนี้มีนักเดินทางพเนจรจำนวนไม่น้อยที่ต้องการไปยังเผิงไหล
 R400008-1_1_3,"The journey to Penglai is not peaceful, you need to find a big ship to go there, my small boat can't even go out to sea for more than a dozen miles, let alone Penglai.",เส้นทางสู่เผิงไหลมิได้ราบรื่น ท่านจำเป็นต้องหาเรือสำเภาใหญ่เพื่อเดินทางไป ที่ซึ่งเรือน้อยของข้า แม้แต่จะออกสู่ทะเลไปได้เพียงสิบกว่าลี้ยังมิอาจทำได้ ประสาอะไรกับเผิงไหลเล่า
 R400008-1_1_4,"Then may I ask, master, where can I find a big ship?",เช่นนั้นขอถามท่านอาจารย์ว่า ข้าจะหาเรือใหญ่ได้ที่ใด?
-R400008-1_1_5,"If you want to find a big ship to Penglai, you can only find Boss Qian in Lin'an City!",หากเจ้าต้องการหาเรือใหญ่ไปยังเผิงไหล เจ้าสามารถหาได้จากเถ้าแก่เฉียนในเมืองหลินอันเท่านั้น!
-R400008-1_1_6,Boss Qian?,เถ้าแก่เฉียนรึ?
-R400008-1_1_7,"Yes, Boss Qian, he often sails to Yan Country, and passes by Penglai Island on the way.",ใช่ เถ้าแก่เฉียน เขามักจะเดินเรือไปยังแคว้นเยียน และจะผ่านเกาะเผิงไหลระหว่างทาง
-R400008-1_1_8,Where can I find this Boss Qian?,ข้าจะหาเถ้าแก่เฉียนได้ที่ใด?
-R400008-1_1_9,"I don't know about that, I'm just a fisherman, I don't know him well. But he seems to deal with some antiques and rare items to sell overseas, you might be able to find out where he is at the Exquisite Pavilion.",ข้าไม่ทราบเรื่องนั้น ข้าเป็นแค่ชาวประมง ข้าไม่รู้จักเขาดีนัก แต่ดูเหมือนว่าเขาจะค้าขายของเก่าและของหายากเพื่อขายในต่างประเทศ เจ้าอาจจะสืบหาที่อยู่ของเขาได้ที่หอจิงจือ
+R400008-1_1_5,"If you want to find a big ship to Penglai, you can only find Boss Qian in Lin'an City!",หากเจ้าต้องการหาเรือใหญ่ไปยังเผิงไหล เจ้าสามารถหาได้จากเจ้าสัวเฉียนในเมืองหลินอันเท่านั้น!
+R400008-1_1_6,Boss Qian?,เจ้าสัวเฉียนรึ?
+R400008-1_1_7,"Yes, Boss Qian, he often sails to Yan Country, and passes by Penglai Island on the way.",ใช่ เจ้าสัวเฉียน เขามักจะเดินเรือไปยังแคว้นเยี่ยน และจะผ่านเกาะเผิงไหลระหว่างทาง
+R400008-1_1_8,Where can I find this Boss Qian?,ข้าจะหาเจ้าสัวเฉียนได้ที่ใด?
+R400008-1_1_9,"I don't know about that, I'm just a fisherman, I don't know him well. But he seems to deal with some antiques and rare items to sell overseas, you might be able to find out where he is at the Exquisite Pavilion.",ข้าไม่ทราบเรื่องนั้น ข้าเป็นแค่ชาวประมง ข้าไม่รู้จักเขาดีนัก แต่ข้าได้ยินมาว่า เขามักจะนำของสมบัติโบราณออกทะเลไปขาย ท่านลองไปสอบถามที่ศาลาปราณีตดู อาจจะได้ข่าวคราวของเขา
 R400008-1_1_10,"Thank you for the information, master.",ขอบคุณสำหรับข้อมูล ท่านอาจารย์
-R400008-2_1_1,"Innkeeper, I want to ask about Boss Qian.",เจ้าของโรงเตี๊ยม ข้าต้องการถามเรื่องเถ้าแก่เฉียน
-R400008-2_1_2,Boss Qian? Which Boss Qian?,เถ้าแก่เฉียน? เถ้าแก่เฉียนคนไหน?
-R400008-2_1_3,The one who often sails to Yan Yun.,คนที่มักจะเดินเรือไปยังแคว้นเยียนหยุนน่ะ
-R400008-2_2_1,"Oh, you mean Old Qian, you're out of luck, he just left after stocking up here.",อ้อ เจ้าหมายถึงเถ้าแก่เฉียน ข้าว่าเจ้าคงซวยแล้ว เขาเพิ่งออกไปหลังจากมาเก็บของที่นี่
+R400008-2_1_1,"Innkeeper, I want to ask about Boss Qian.",เถ้าแก่ ข้าต้องการถามเรื่องเจ้าสัวเฉียน
+R400008-2_1_2,Boss Qian? Which Boss Qian?,เจ้าสัวเฉียน? เจ้าสัวเฉียนคนไหน?
+R400008-2_1_3,The one who often sails to Yan Yun.,คนที่มักจะเดินเรือไปยังแคว้นเยี่ยนหยุนน่ะ
+R400008-2_2_1,"Oh, you mean Old Qian, you're out of luck, he just left after stocking up here.",อ้อ ท่านหมายถึงเฒ่าเฉียนผู้นั้นหรือ ท่านมาช้าไปก้าวหนึ่ง เขาเพิ่งจะขนสินค้าออกไปจากที่นี่เอง
 R400008-2_2_2,Do you know where he went?,ท่านรู้ไหมว่าเขาไปที่ไหน
-R400008-2_2_3,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเถ้าแก่เฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอสุราเทพนั่นแหละ
-R400008-2_2_4,"Wine God Tower, huh... alright, I'll go check it out, thank you, innkeeper.",หอสุราเทพหรือ... เอาล่ะ ข้าจะไปดู ขอบคุณนะเจ้าของโรงเตี๊ยม
-R400008-2_2_5,"Take care, guest, come back often~",ดูแลตัวเองด้วยนะท่านแขก กลับมาบ่อยๆ ล่ะ~
-R400008-2_3_1,"Oh, you mean Old Qian, yes, I know, he was just here.",อ๋อ ท่านหมายถึงตาแก่เฉียน ใช่ ข้ารู้ เขาเพิ่งจะอยู่ที่นี่
-R400008-2_3_2,Can the innkeeper tell me where he is now?,เจ้าของโรงเตี๊ยมบอกข้าได้ไหมว่าตอนนี้เขาอยู่ที่ไหน
-R400008-2_3_3,"Guest, we are here to do business and sell goods, you are not a regular here, if you want this information... it will cost you two guan.",ท่านแขก พวกเราอยู่ที่นี่เพื่อทำการค้าและขายสินค้า ท่านก็ไม่ใช่ขาประจำที่นี่ หากท่านต้องการข้อมูลนี้... จะคิดท่านสองก้วน
+R400008-2_2_3,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเจ้าสัวเฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอคอยเทพสุรานั่นแหละ
+R400008-2_2_4,"Wine God Tower, huh... alright, I'll go check it out, thank you, innkeeper.",หอคอยเทพสุราหรือ... เอาล่ะ ข้าจะลองไปดู ขอบคุณนะเถ้าแก่
+R400008-2_2_5,"Take care, guest, come back often~",ขอให้ท่านเดินทางโดยสวัสดิภาพ หวังว่าจักได้ต้อนรับท่านอีก~
+R400008-2_3_1,"Oh, you mean Old Qian, yes, I know, he was just here.",อ้อ เฒ่าเฉียนน่ะรึ? รู้จักสิ เขาเพิ่งจะอยู่ที่นี่เมื่อครู่
+R400008-2_3_2,Can the innkeeper tell me where he is now?,เถ้าแก่บอกข้าได้ไหมว่าตอนนี้เขาอยู่ที่ไหน
+R400008-2_3_3,"Guest, we are here to do business and sell goods, you are not a regular here, if you want this information... it will cost you two guan.",ท่านลูกค้า ร้านของเราทำการค้าขาย หากท่านมิใช่ลูกค้าประจำ ข่าวสารนี้หากท่านต้องการ... ราคาอยู่ที่สองตำลึง
 R400008-2_3_4,"Just a piece of information about someone's whereabouts, and it's worth two guan?",แค่ข้อมูลเล็กน้อยเกี่ยวกับที่อยู่ของคนคนหนึ่ง ถึงกับต้องใช้สองตำลึงเลยหรือ?
 R400008-2_3_5,"No choice, we also need to do business. If you are a regular customer, this information can be given to you for free, but...",ช่วยไม่ได้ พวกเราก็ต้องทำมาหากินเหมือนกัน ถ้าท่านเป็นลูกค้าประจำ ข้าคงให้ข้อมูลนี้ฟรีๆ ไปแล้ว แต่ว่า...
-R400008-2_3_6,"(The innkeeper demands two taels before he will tell me where Boss Qian is, what should I do?)",(เจ้าของโรงเตี๊ยมเรียกเงินสองตำลึงก่อนจะบอกข้าว่าเถ้าแก่เฉียนอยู่ที่ไหน ข้าควรทำอย่างไรดี?)
-R400008-2_4_1,"You are indeed generous, sir. I will rely on your patronage for my business in the future.",ท่านช่างใจกว้างจริงๆ ข้าขอฝากเนื้อฝากตัวกับท่านในการทำธุรกิจในภายภาคหน้าด้วย
-R400008-2_4_2,Can you tell me where Boss Qian went now?,บอกข้าได้หรือไม่ว่าเถ้าแก่เฉียนไปที่ไหนตอนนี้?
-R400008-2_4_3,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเถ้าแก่เฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอสุราเทพนั่นแหละ
-R400008-2_4_4,"Wine God Tower, huh... alright, I'll go check it out, thank you, innkeeper.",หอสุราเทพหรือ... เอาล่ะ ข้าจะไปดู ขอบคุณนะเจ้าของโรงเตี๊ยม
-R400008-2_4_5,"Take care, guest, come back often~",ดูแลตัวเองด้วยนะท่านแขก กลับมาบ่อยๆ ล่ะ~
-R400008-2_5_1,"You really know how to do business, sir.",ท่านนี่ทำธุรกิจเก่งจริงๆ เลย
-R400008-2_5_2,Can you tell me where Boss Qian went now?,บอกข้าได้หรือไม่ว่าเถ้าแก่เฉียนไปที่ไหนตอนนี้?
-R400008-2_5_3,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเถ้าแก่เฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอสุราเทพนั่นแหละ
-R400008-2_5_4,"Wine God Tower, huh... alright, I'll go check it out, thank you, innkeeper.",หอสุราเทพหรือ... เอาล่ะ ข้าจะไปดู ขอบคุณนะเจ้าของโรงเตี๊ยม
-R400008-2_5_5,"Take care, guest, come back often~",ดูแลตัวเองด้วยนะท่านแขก กลับมาบ่อยๆ ล่ะ~
+R400008-2_3_6,"(The innkeeper demands two taels before he will tell me where Boss Qian is, what should I do?)",(เถ้าแก่เรียกเงินสองตำลึงก่อนจะบอกข้าว่าเจ้าสัวเฉียนอยู่ที่ไหน ข้าควรทำอย่างไรดี?)
+R400008-2_4_1,"You are indeed generous, sir. I will rely on your patronage for my business in the future.",ท่านลูกค้าช่างใจกว้างจริงๆ ต่อไปภายหน้ากิจการน้อยๆ ของข้าคงต้องพึ่งพาท่านลูกค้าเป็นอย่างมาก
+R400008-2_4_2,Can you tell me where Boss Qian went now?,ครานี้ท่านคงบอกข้าได้แล้วสินะว่าเจ้าสัวเฉียนไปที่ใด?
+R400008-2_4_3,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเจ้าสัวเฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอคอยเทพสุรานั่นแหละ
+R400008-2_4_4,"Wine God Tower, huh... alright, I'll go check it out, thank you, innkeeper.",หอคอยเทพสุราหรือ... เอาล่ะ ข้าจะลองไปดู ขอบคุณนะเถ้าแก่
+R400008-2_4_5,"Take care, guest, come back often~",ขอให้ท่านเดินทางโดยสวัสดิภาพ หวังว่าจักได้ต้อนรับท่านอีก~
+R400008-2_5_1,"You really know how to do business, sir.",ท่านช่างทำการค้าได้เฉียบแหลมนัก
+R400008-2_5_2,Can you tell me where Boss Qian went now?,ครานี้ท่านคงบอกข้าได้แล้วสินะว่าเจ้าสัวเฉียนไปที่ใด?
+R400008-2_5_3,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเจ้าสัวเฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอคอยเทพสุรานั่นแหละ
+R400008-2_5_4,"Wine God Tower, huh... alright, I'll go check it out, thank you, innkeeper.",หอคอยเทพสุราหรือ... เอาล่ะ ข้าจะลองไปดู ขอบคุณนะเถ้าแก่
+R400008-2_5_5,"Take care, guest, come back often~",ขอให้ท่านเดินทางโดยสวัสดิภาพ หวังว่าจักได้ต้อนรับท่านอีก~
 R400008-2_6_1,Are you the infamous {PlayerName} who kills without blinking an eye?,ท่านคือ {PlayerName} ผู้โด่งดังที่สังหารผู้คนโดยไม่กระพริบตาใช่หรือไม่?
-R400008-2_6_2,"It seems you know my reputation, how much do you think this information is worth?",ดูเหมือนท่านจะรู้ถึงชื่อเสียงของข้า แล้วท่านคิดว่าข้อมูลนี้มีค่ามากแค่ไหน?
-R400008-2_6_3,"Oh, you're joking, this information is worthless.",โอ้ ท่านล้อเล่นแล้ว ข้อมูลนี้มันไร้ค่าสิ้นดี
-R400008-2_6_4,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเถ้าแก่เฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอสุราเทพนั่นแหละ
-R400008-2_6_5,"You're not lying to me, are you?",ท่านไม่ได้โกหกข้าใช่ไหม?
-R400008-2_6_6,"How dare I lie to you! You should go find him quickly, if you're late, he might not be there.",ข้าจะกล้าโกหกท่านได้อย่างไร! ท่านควรรีบไปหาเขาโดยไว หากท่านไปช้า เขาอาจจะไม่อยู่ที่นั่นแล้ว
+R400008-2_6_2,"It seems you know my reputation, how much do you think this information is worth?",ดูท่าท่านจะรู้จักชื่อเสียงของข้า ลองตรองดูอีกครา ข้อมูลนี้มีค่าเท่าใดกันแน่?
+R400008-2_6_3,"Oh, you're joking, this information is worthless.",โอ้ ท่านช่างกล่าวหยอกเย้า ข่าวสารนี้มิได้มีค่าอันใดเลย
+R400008-2_6_4,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเจ้าสัวเฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอคอยเทพสุรานั่นแหละ
+R400008-2_6_5,"You're not lying to me, are you?",ท่านไม่ได้หลอกลวงข้าใช่ไหม?
+R400008-2_6_6,"How dare I lie to you! You should go find him quickly, if you're late, he might not be there.",ข้าจะกล้าหลอกลวงท่านได้อย่างไร! ท่านควรรีบไปหาเขาโดยไว หากท่านไปช้า เขาอาจจะไม่อยู่ที่นั่นแล้ว
 R400008-2_6_7,"Alright, I'll go take a look.",เอาล่ะ ข้าจะไปดูหน่อย
-R400008-2_6_8,Phew... finally got rid of him.,เฮ้อ... ในที่สุดก็กำจัดเขาไปได้
-R400008-2_7_1,"Innkeeper, about Boss Qian...",เถ้าแก่ เรื่องของเจ้านายเฉียน...
-R400008-2_8_1,"Sir, thanks to your patronage today, I will naturally provide you with Boss Qian's whereabouts!",ท่าน ขอบคุณที่อุดหนุนในวันนี้ ข้าจะบอกที่อยู่ของเถ้าแก่เฉียนให้ท่านอย่างแน่นอน!
-R400008-2_8_2,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเถ้าแก่เฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอสุราเทพนั่นแหละ
-R400008-2_8_3,"Wine God Tower, huh... alright, I'll go check it out, thank you, innkeeper.",หอเทพสุรา... หืม เอาล่ะ ข้าจะไปดู ขอบคุณท่านเจ้าของโรงเตี๊ยม
-R400008-2_8_4,"Take care, guest, come back often~",ดูแลตัวเองด้วยนะ ท่านแขก กลับมาบ่อยๆ ล่ะ~
-R400008-2_9_1,"You're asking about Boss Qian's whereabouts again? The price is still the same, two taels!",ถามหาเรื่องของเถ้าแก่เฉียนอีกแล้วรึ? ราคายังคงเดิม สองตำลึง!
+R400008-2_6_8,Phew... finally got rid of him.,เฮ้อ... ในที่สุดคนผู้นั้นก็ไปได้เสียที
+R400008-2_7_1,"Innkeeper, about Boss Qian...",เถ้าแก่ เรื่องของเจ้าสัวเฉียน...
+R400008-2_8_1,"Sir, thanks to your patronage today, I will naturally provide you with Boss Qian's whereabouts!",ท่านลูกค้า วันนี้ร้านของข้าได้รับความกรุณาจากท่านเป็นอย่างดี ข้าขอมอบข่าวสารเกี่ยวกับเจ้าสัวเฉียนให้ท่านโดยไม่คิดเงิน
+R400008-2_8_2,"Old Qian seems to have made a fortune recently, he seemed in a good mood, I guess he went to the Wine God Tower.",ช่วงนี้เหมือนเจ้าสัวเฉียนจะร่ำรวยขึ้นมาก ดูอารมณ์ดี ข้าว่าเขาคงไปหอคอยเทพสุรานั่นแหละ
+R400008-2_8_3,"Wine God Tower, huh... alright, I'll go check it out, thank you, innkeeper.",หอคอยเทพสุราหรือ... เอาล่ะ ข้าจะลองไปดู ขอบคุณนะเถ้าแก่
+R400008-2_8_4,"Take care, guest, come back often~",ขอให้ท่านเดินทางโดยสวัสดิภาพ หวังว่าจักได้ต้อนรับท่านอีก~
+R400008-2_9_1,"You're asking about Boss Qian's whereabouts again? The price is still the same, two taels!",มาถามข่าวสารของเจ้าสัวเฉียนอีกแล้วรึ? ราคายังคงเดิม สองตำลึง!
 R400008-2_10_1,"This... by the way, the innkeeper of the Treasure Pavilion has already...",เอ่อ... ว่าแต่ ท่านเจ้าของหอสมบัติได้...
-R400008-2_10_2,"It seems that to find Boss Qian's whereabouts, I'll have to search the entire city...",ดูท่าว่าถ้าจะตามหาเถ้าแก่เฉียน คงต้องค้นหาไปทั่วทั้งเมืองเสียแล้ว...
+R400008-2_10_2,"It seems that to find Boss Qian's whereabouts, I'll have to search the entire city...",ดูท่าว่าถ้าจะตามหาเจ้าสัวเฉียน คงต้องค้นหาไปทั่วทั้งเมืองเสียแล้ว...
 R400008-3_1_1,Why is there music at the Wine God Tower today?,วันนี้เหตุใดจึงมีเสียงดนตรีที่หอเทพสุรา?
-R400008-3_1_2,Are you a guest of Boss Qian?,ท่านเป็นแขกของเถ้าแก่เฉียนหรือ?
-R400008-3_1_3,"Boss Qian is indeed here, I have business with him.",เถ้าแก่เฉียนอยู่ที่นี่จริง ข้ามีธุระกับเขา
-R400008-3_1_4,"Sir, this place has been booked by Boss Qian. If you are not his guest, please leave.",ท่านครับ ที่นี่เถ้าแก่เฉียนจองไว้แล้ว หากท่านมิใช่แขกของเขา โปรดออกไปเสีย
-R400008-3_1_5,"I have important business with Boss Qian, I hope you can make an exception.",ข้ามีธุระสำคัญกับเถ้าแก่เฉียน หวังว่าท่านจะยกเว้นให้ได้
+R400008-3_1_2,Are you a guest of Boss Qian?,ท่านเป็นแขกของเจ้าสัวเฉียนหรือ?
+R400008-3_1_3,"Boss Qian is indeed here, I have business with him.",เจ้าสัวเฉียนอยู่ที่นี่จริงๆ ข้ามีธุระกับเขา
+R400008-3_1_4,"Sir, this place has been booked by Boss Qian. If you are not his guest, please leave.",คุณชายขอรับ ที่นี่เจ้าสัวเฉียนจองไว้แล้ว หากท่านมิใช่แขกของเขา โปรดเชิญท่านออกไป
+R400008-3_1_5,"I have important business with Boss Qian, I hope you can make an exception.",ข้ามีธุระสำคัญกับเจ้าสัวเฉียน หวังว่าท่านจะยกเว้นให้ได้
 R400008-3_1_6,This...,เอ่อ...
 R400008-3_1_7,Let him in.,ปล่อยเขาเข้ามา
-R400008-3_1_8,"Yes, sir, please follow me.",ครับท่าน เชิญตามข้ามา
+R400008-3_1_8,"Yes, sir, please follow me.",ขอรับนายท่าน เชิญตามข้ามา
 R400008-3_1_9,What can I do for you?,มีอะไรให้ข้าช่วยหรือ?
-R400008-3_1_10,Are you Boss Qian?,ท่านคือเถ้าแก่เฉียนใช่หรือไม่?
+R400008-3_1_10,Are you Boss Qian?,ท่านคือเจ้าสัวเฉียนงั้นหรือ?
 R400008-3_1_11,"Yes, I am Qian Yankai! What can I do for you?",ใช่แล้ว ข้าคือเฉียนเหยียนไค! มีอะไรให้ข้าช่วยหรือ?
-R400008-3_1_12,"I am {PlayerName}, I want to take your ship to Penglai.",ข้าคือ {PlayerName} ข้าต้องการใช้เรือของท่านไปเผิงไหล
-R400008-3_1_13,"Go to Penglai? Alright, give me 100 taels for the ticket, and I'll take you to Penglai.",ไปเผิงไหลหรือ? เอาล่ะ จ่ายค่าตั๋วมา 100 ตำลึง แล้วข้าจะพาเจ้าไปเผิงไหล
+R400008-3_1_12,"I am {PlayerName}, I want to take your ship to Penglai.",ข้าคือ {PlayerName} ข้าต้องการโดยสารเรือของท่านไปเผิงไหล
+R400008-3_1_13,"Go to Penglai? Alright, give me 100 taels for the ticket, and I'll take you to Penglai.",ไปเผิงไหลหรือ? ได้สิ จ่ายค่าเดินทางมา 100 ตำลึง แล้วข้าจะพาเจ้าไปเผิงไหล
 R400008-3_1_14,100 taels?! You're asking for too much!,100 ตำลึง?! ท่านเรียกมากเกินไปแล้ว!
-R400008-3_1_15,"In the whole Lin'an City, only my ship can take you to Penglai. My ship is originally for cargo, if you want to get on, I have to move the sailors to the cargo hold, which means I can carry 4 less boxes of goods. Each box of goods is 30 taels, so I'm actually saving you 20 guan!",ในเมืองหลินอันทั้งหมด มีเพียงเรือของข้าเท่านั้นที่สามารถพาเจ้าไปยังเผิงไหลได้ เรือของข้าเดิมทีใช้สำหรับบรรทุกสินค้า หากเจ้าต้องการขึ้นเรือ ข้าต้องย้ายลูกเรือไปที่ห้องเก็บสินค้า ซึ่งหมายความว่าข้าสามารถบรรทุกสินค้าได้น้อยลง 4 กล่อง สินค้าแต่ละกล่องมีราคา 30 ตำลึง ดังนั้นข้าจึงประหยัดเงินให้เจ้า 20 ตำลึง!
+R400008-3_1_15,"In the whole Lin'an City, only my ship can take you to Penglai. My ship is originally for cargo, if you want to get on, I have to move the sailors to the cargo hold, which means I can carry 4 less boxes of goods. Each box of goods is 30 taels, so I'm actually saving you 20 guan!",ทั่วทั้งเมืองหลินอัน มีเพียงเรือข้าลำนี้เท่านั้นที่สามารถนำพวกเจ้าไปยังเผิงไหลได้ เรือของข้าเดิมทีใช้สำหรับบรรทุกสินค้า หากเจ้าต้องการขึ้นเรือ ข้าต้องย้ายลูกเรือไปที่ห้องเก็บสินค้า ซึ่งจะทำให้บรรทุกสินค้าได้น้อยลง 4 หีบ สินค้าหนึ่งหีบมีมูลค่า 30 ตำลึง นั่นหมายความว่าข้าลดราคาให้พวกเจ้าไป 20 ตำลึงแล้วนะ!
 R400008-3_1_16,"(This guy is as cunning as his name suggests, what should I do?)",(ชายผู้นี้เจ้าเล่ห์สมชื่อจริงๆ ข้าควรทำอย่างไรดี?)
-R400008-3_2_1,"Here's 100 taels, can I get on the ship now?",นี่คือ 100 ตำลึง ตอนนี้ข้าขึ้นเรือได้เลยหรือไม่?
-R400008-3_2_2,"Good, you are indeed generous! Please wait for me at the pier, I'll be there soon.",ดี เจ้าใจกว้างจริงๆ! โปรดรอข้าอยู่ที่ท่าเรือ ข้าจะไปถึงในเร็ววัน
-R400008-3_2_3,"Alright, I hope you won't go back on your word.",เอาล่ะ ข้าหวังว่าท่านจะไม่กลับคำ
-R400008-3_2_4,"Don't worry, we do business with integrity! See you at the pier!",ไม่ต้องกังวล เราทำธุรกิจด้วยความซื่อสัตย์! แล้วพบกันที่ท่าเรือ!
-R400008-3_3_1,"It seems you haven't heard about what I've done? You dare to make such unreasonable demands, do you not want that thing on your neck?",ดูเหมือนว่าท่านจะยังไม่เคยได้ยินเรื่องที่ข้าทำมา? ท่านกล้าเรียกร้องอย่างไม่สมเหตุสมผลเช่นนี้ ท่านไม่อยากเก็บสิ่งนั้นไว้บนคอของท่านแล้วหรือ?
+R400008-3_2_1,"Here's 100 taels, can I get on the ship now?",นี่เงินร้อยตำลึงทอง ข้าขึ้นเรือได้หรือยัง?
+R400008-3_2_2,"Good, you are indeed generous! Please wait for me at the pier, I'll be there soon.",ยอดเยี่ยม เจ้าช่างใจถึงยิ่งนัก! โปรดไปรอข้าที่ท่าเรือก่อนเถิด ข้าจะตามไปในอีกไม่ช้า
+R400008-3_2_3,"Alright, I hope you won't go back on your word.",ดี ข้าหวังว่าท่านจะไม่กลับคำพูดนะ
+R400008-3_2_4,"Don't worry, we do business with integrity! See you at the pier!",วางใจเถิด เราทำการค้าด้วยความซื่อสัตย์! แล้วพบกันที่ท่าเรือ!
+R400008-3_3_1,"It seems you haven't heard about what I've done? You dare to make such unreasonable demands, do you not want that thing on your neck?",ดูเหมือนว่าท่านคงมิเคยได้ยินกิตติศัพท์ของข้าสินะ? กล้าดียังไงมาเสนอข้อเรียกร้องที่ไร้เหตุผลเช่นนี้ ท่านมิอยากเก็บหัวของท่านไว้บนบ่าแล้วกระนั้นหรือ?
 R400008-3_3_2,"What happens in the jianghu has nothing to do with me, I've seen all kinds of storms at sea! If you kill me here, you can forget about going to Penglai in this lifetime.",สิ่งที่เกิดขึ้นในยุทธภพไม่เกี่ยวอะไรกับข้า ข้าเจอพายุมาทุกรูปแบบในทะเล! หากท่านฆ่าข้าที่นี่ ท่านลืมเรื่องที่จะไปเผิงไหลในชาตินี้ได้เลย
 R400008-3_3_3,"Put away your attitude, or I'll have to raise the price.",เก็บท่าทีของท่านไปซะ มิฉะนั้นข้าคงต้องขึ้นราคาแล้ว
 R400008-3_3_4,"Hahaha, harmony brings wealth, harmony brings wealth.",ฮ่าๆๆ ความปรองดองนำมาซึ่งความมั่งคั่ง ความปรองดองนำมาซึ่งความมั่งคั่ง
-R400008-3_4_1,"How about this, I'll escort your ship this time, can you give me a discount?",เอาอย่างนี้ไหม คราวนี้ข้าจะคุ้มกันเรือของท่าน ท่านพอจะลดราคาให้ข้าได้ไหม
-R400008-3_4_2,"Thank you for your kindness, but before setting sail, we avoid bad luck. Please don't jinx it.",ขอบคุณในความหวังดีของท่าน แต่ก่อนออกเรือ เราหลีกเลี่ยงโชคร้าย ขอความกรุณาท่านอย่ากล่าววาจาเป็นลางร้าย
-R400008-3_4_3,"Even if there were thieves on the ship, you, as a hero, wouldn't just sit by and watch the only person who knows the location of Penglai, would you?",ถึงแม้จะมีโจรอยู่บนเรือ ท่านในฐานะยอดฝีมือ คงจะไม่นั่งมองคนที่รู้ที่ตั้งของเผิงไหลเพียงคนเดียวนิ่งเฉยหรอกใช่ไหม?
+R400008-3_4_1,"How about this, I'll escort your ship this time, can you give me a discount?",เอาอย่างนี้ไหม ข้าจะรับหน้าที่คุ้มกันภัยให้ท่านตลอดการเดินทาง ท่านลดค่าโดยสารให้ข้าสักหน่อยจะเป็นไร?
+R400008-3_4_2,"Thank you for your kindness, but before setting sail, we avoid bad luck. Please don't jinx it.",ขอบคุณในความหวังดีของท่าน แต่ก่อนออกเรือ สิ่งที่ต้องห้ามที่สุดคือคำพูดอัปมงคล ขอความกรุณาท่านอย่ากล่าววาจาที่เป็นลางร้ายเลย
+R400008-3_4_3,"Even if there were thieves on the ship, you, as a hero, wouldn't just sit by and watch the only person who knows the location of Penglai, would you?",หากเกิดเหตุการณ์เลวร้ายที่สุด บนเรือต้องเผชิญหน้ากับโจรจริงๆ ท่านจอมยุทธ์คงมิอาจปล่อยให้ข้า ผู้เดียวที่รู้เส้นทางสู่เผิงไหล ถูกทำร้ายได้กระมัง? 
 R400008-3_4_4,……,……
 R400008-3_4_5,"So, hero, let's cut to the chase, money is the most tangible thing.",เอาล่ะ ท่านจอมยุทธ์ เข้าเรื่องกันเลยดีกว่า เงินทองคือสิ่งที่เป็นรูปธรรมที่สุด
-R400008-3_5_1,"Mr. Qian, do you know this person?",คุณเฉียนรู้จักคนๆ นี้เหรอ?
+R400008-3_5_1,"Mr. Qian, do you know this person?",ท่านเจ้าสัวเฉียน ท่านรู้จักคนผู้นี้หรือ?
 R400008-3_5_2,...Me?,...ข้าหรือ?
 R400008-3_5_3,"I don't know, who is he?",ข้าไม่รู้ เขาคือใคร?
 R400008-3_5_4,"Shen Wuqi from the Night Auction Market, even if you haven't met him, you should have heard of him!",เสิ่น อู๋ฉี จากตลาดประมูลราตรี ถึงท่านจะยังไม่เคยเจอเขา แต่ท่านก็น่าจะเคยได้ยินชื่อเขาบ้างสิ!
-R400008-3_5_5,"You're the Shen from the Night Auction Market, one of the three major merchants in Zhongzhou along with the Flourishing Flower Tower and Glittering Artifact Auction?!",ท่านคือเสิ่นจากตลาดประมูลราตรี หนึ่งในสามพ่อค้าใหญ่แห่งจงโจว ร่วมกับหอหมู่ฮวา และการประมูลอาวุธวิบวับกระนั้นหรือ?!
+R400008-3_5_5,"You're the Shen from the Night Auction Market, one of the three major merchants in Zhongzhou along with the Flourishing Flower Tower and Glittering Artifact Auction?!",ท่านคือเสิ่นจากตลาดประมูลราตรี หนึ่งในสามพ่อค้าใหญ่แห่งจงโจว เคียงคู่กับหอเจิดจรัสและหอไข่มุกหรือ?!
 R400008-3_5_6,"Uh, I don't know about the three major merchants... but I am Shen Wuqi from the Night Auction Market, there's no mistake about that.",เอ่อ ข้าไม่รู้เรื่องสามพ่อค้าใหญ่หรอก... แต่ข้าคือเสิ่น อู๋ฉี จากตลาดประมูลราตรี ไม่มีผิดพลาดแน่นอน
 R400008-3_5_7,"Oh my, I didn't expect to meet you in person, come, come, let's sit down and talk.",โอ้ตายแล้ว ข้าไม่คิดว่าจะได้พบท่านตัวเป็นๆ เชิญๆ มานั่งคุยกันก่อน
 R400008-3_5_8,Hold on.,เดี๋ยวก่อนนะ
