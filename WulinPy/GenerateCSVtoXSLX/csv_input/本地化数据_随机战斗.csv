@@ -40,7 +40,7 @@ failItemOtherTip_汴州城,"How did you get such a valuable treasure? You must h
 failItemBagTip_汴州城,"The goods are confiscated, you can go now, go wherever you want!",ของถูกยึดแล้ว จะไปไหนก็ไป!
 failBuffTip_汴州城,I hope you reflect on your actions! Don't show up in public for a while!,ข้าหวังว่าเจ้าจะไตร่ตรองการกระทำของตนนะ! ช่วงนี้อย่าปรากฏตัวในที่สาธารณะสักพัก!
 startTip_九流门,"You must be tired of living to walk into the trap! Brothers, let's make sure this kid doesn't leave!",เดินมาเหยียบกับดักเช่นนี้ คงจะเบื่อชีวิตแล้วสินะ พี่น้อง อย่าให้ไอ้หนูนี่รอดไปได้
-fightTip_九流门,"You chose this! It seems that today, the Nine Factions Sect will be your burial ground!",เจ้าเลือกเองนะ! ดูเหมือนว่าวันนี้นิกายเก้าฝ่ายแห่งนี้จะเป็นที่ฝังศพของเจ้า!
+fightTip_九流门,"You chose this! It seems that today, the Nine Factions Sect will be your burial ground!",นี่คือสิ่งที่เจ้าเลือกเอง! ดูท่าวันนี้ นิกายเก้าฝ่ายจักกลายเป็นที่ฝังศพของเจ้า!
 explainSuccessTip_九流门,"It seems you have a point! Go quickly, don't let my brothers see you again!",ที่เจ้าพูดมาก็ถูก รีบไป! อย่าให้พี่น้องข้าเจอเจ้าอีก
 explainFailTip_九流门,Say it again and I'll cut off your tongue! Let's see if you can lie then!,ถ้ายังไม่หุบปากข้าจะตัดลิ้นเจ้าทิ้งซะ! ดูซิว่าเจ้าจะยังโกหกได้อีกหรือไม่!
 apologySuccessTip_九流门,"Money can solve everything! Since you're willing to bleed, I'll spare your worthless life!",เงินสามารถแก้ปัญหาได้ทุกสิ่ง! ในเมื่อเจ้ายอมหลั่งเลือดแลก ข้าจะไว้ชีวิตไร้ค่านี้ละกัน!
@@ -50,8 +50,8 @@ runAwayFailTip_九流门,Want to escape from the Nine Factions Sect? Still dream
 failMoneyTip_九流门,"Wouldn't it be better to do this earlier? Brothers, let's go! Let's eat meat!",แล้วทำไมไม่ทำแบบนี้ซะตั้งแต่แรก พี่น้อง ไปกันเถอะ! ไปกินเนื้อกัน!
 failItemOtherTip_九流门,"How dare a nobody like you use such a thing? People need face, trees need bark, you can get lost now!",คนไร้ค่าเช่นเจ้ากล้าใช้ของแบบนี้ได้อย่างไร! หัวล้านได้หวีชัดๆ ไสหัวไป!
 failItemBagTip_九流门,"Looking at your poor appearance, I didn't expect to find anything good on you! Go, go, go! Hurry up and leave!",เมื่อดูจากรูปร่างดั่งผ้าขี้ริ้วของเจ้า ข้าไม่คิดว่าเจ้าจะมีทองได้แน่นอน ไป! จะไปไหนก็ไสหัวไปซะ!
-failBuffTip_九流门,"Run for your life! Hahaha! If you cause trouble again, Nine Factions Sect will make you regret it! Enter vertically and exit horizontally!",วิ่งเพื่อชีวิตของเจ้า! ฮ่าๆๆ! หากเจ้าสร้างปัญหาอีกครั้ง นิกายเก้าฝ่ายจะทำให้เจ้าสำนึกเสียใจ! เข้าทางสวรรค์ออกทางนรก!
-startTip_儒圣馆,"You've provoked me time and time again, today I'll let you know that Confucius Temple is not to be trifled with!",เจ้ายั่วยุข้าครั้งแล้วครั้งเล่า วันนี้ข้าจะบอกเจ้าว่าวัดขงจื้อไม่เล่นด้วย!
+failBuffTip_九流门,"Run for your life! Hahaha! If you cause trouble again, Nine Factions Sect will make you regret it! Enter vertically and exit horizontally!",หนีเอาชีวิตรอดไปเถิด! ฮ่าๆๆ! หากกล้ากลับมาสร้างปัญหาอีก นิกายเก้าฝ่ายจักทำให้เจ้าต้องแบกรับผลกรรมอย่างแน่นอน! เข้าทางสวรรค์ออกทางนรก!
+startTip_儒圣馆,"You've provoked me time and time again, today I'll let you know that Confucius Temple is not to be trifled with!",เจ้าท้าทายข้าซ้ำแล้วซ้ำเล่า วันนี้จักให้รู้ว่าวัดขงจื๊อไม่ได้อ่อนแอ!
 fightTip_儒圣馆,"You've got guts, today I'll let you see the power of Confucius Temple, and scare you out of your wits!",นับว่าเจ้ากล้าไม่เบา วันนี้ข้าจะแสดงพลังของวัดขงจื้อให้เจ้าเห็น!
 explainSuccessTip_儒圣馆,"Hmph, I suppose you wouldn't dare to lie! But if there's a next time, you'll regret it for the rest of your life!",ฮึ่ม ข้าคิดว่าเจ้าคงจะไม่กล้าโกหก! แต่ถ้ามีครั้งต่อไปเจ้าจะต้องเสียใจไปตลอดชีวิต!
 explainFailTip_儒圣馆,A mouth that only speaks nonsense is better off being poisoned mute.,ปากที่พูดจาไร้สาระเช่นนี้ สมควรแล้วที่จะถูกยาพิษปิดปาก !
@@ -84,7 +84,7 @@ apologyItemQuitTip_ 九江水寨,"Who are you trying to fool? If you really piss
 runAwaySuccessTip_九江水寨,Damn it! You're as cunning as a loach!,น่าหงุดหงิดนัก ! เจ้านี่ดิ้นได้ยิ่งกว่าปลาไหลซะอีก !
 runAwayFailTip_九江水寨,"No matter how fast you run, you can't escape from the palm of our hand!",ต่อให้เจ้าเร็วแค่ไหนก็หนีไม่พ้นเงื้อมมือของพวกเรา!
 failMoneyTip_九江水寨,"Looking at your pocket cleaner than your face, but actually rich as oil! Interesting!",ผ้าขี้ริ้วห่อทองชัดๆ! เจ้านี่น่าสนใจนัก!
-failItemOtherTip_九江水寨,"It's a waste to leave these treasures to you! Trash should stay in the mud, stop pretending to be a big shot!",สมบัติล้ำค่าพวกนี้อยู่ในมือเจ้าก็เสียเปล่า เป็นขยะก็ไปมุดอยู่ในถังซะ ไม่ต้องออกมาทำตัวยิ่งใหญ่!
+failItemOtherTip_九江水寨,"It's a waste to leave these treasures to you! Trash should stay in the mud, stop pretending to be a big shot!",สมบัติล้ำค่าพวกนี้อยู่ในมือเจ้าก็เสียเปล่า หากเจ้าเป็นขยะก็ไปมุดอยู่ในถังซะ ไม่ต้องออกมาทำตัวยิ่งใหญ่!
 failItemBagTip_九江水寨,"We've taken the stuff, as for your people, Jiujiang Fortress doesn't take in trash! Get lost!",เราจัดการเรียบร้อยแล้ว ส่วนคนของเจ้า ค่ายน้ำจิ่วเจียงไม่ต้อนรับขยะ! ไสหัวไป!
 failBuffTip_九江水寨,"Go back to your gutter and stay put! If you're incompetent, don't come out and make a fool of yourself!",กลับไปมุดอยู่ในรูเสียไป เจ้าหน้าโง่ อย่าได้ออกมาขายขำให้ชาวบ้านเขาหัวเราะเยาะเลย!
 startTip_琳琅书院,"Daring to cause trouble in Linlang Academy, you must have eaten the heart of a bear and the gall of a leopard!",ไปกินดีหมีที่ไหนมา ถึงได้กล้าก่อปัญหาในสถาบันหลินหลาง!
@@ -94,12 +94,12 @@ explainFailTip_琳琅书院,You're talking nonsense! It seems we need to teach y
 apologySuccessTip_琳琅书院,"Money isn't everything, but without money, you can't do anything. We'll reluctantly accept this time, but don't make it a habit!",เงินไม่ใช่ทุกอย่าง แต่เกือบทุกอย่างต้องใช้เงิน ครั้งนี้ข้าจะให้อภัยแต่ ครั้งถัดไปอย่าให้มี!
 apologyItemQuitTip_ 琳琅书院,"Where did you learn this boring trick from, some second-rate sorcerer?","เจ้าไปเรียนกลไร้สาระนี่มาจากไหน, พวกหมอผีปาหี่ที่ไหนมันสอนเจ้ามา!?"
 runAwaySuccessTip_琳琅书院,"You can't be lucky all the time, good luck to you!",เจ้าโชคดีไปไม่ได้ตลอดหรอก คราวหน้าก็ขอให้โชคดีแล้วกัน !
-runAwayFailTip_琳琅书院,Thinking of escaping from Linlang Academy is like a fool's dream!,หลบหนีสถาบันหลินหลางก็เหมือนคนโง่ฝันลมๆแล้งๆ !
+runAwayFailTip_琳琅书院,Thinking of escaping from Linlang Academy is like a fool's dream!,หลบหนีสถาบันหลินหลางก็ไม่ต่างอะไรจากการฝันลมๆแล้งๆ !
 failMoneyTip_琳琅书院,"It's good that you know your mistake, but don't make the same mistake again!",ดีที่เจ้ายังรู้ว่าตัวเองผิด คราวหน้าอย่าทำผิดแบบเดิมอีก!
 failItemOtherTip_琳琅书院,"If you dare to offend again, you'll lose more than just things!",คราวหน้าหากกล้าทำอีก เจ้าโดนหนักกว่านี้แน่!
 failItemBagTip_琳琅书院,"Scholars only talk about reason, they don't shed blood. Remember this lesson and don't offend again!",บันฑิตคุยด้วยเหตุผล มิจำเป็นต้องนองเลือด จำบทเรียนนี้เอาไว้แล้วอย่ามาวุ่นวายอีก!
 failBuffTip_琳琅书院,"How annoying! Don't show up in front of us again, or we'll beat you every time we see you!",น่ารำคาญชะมัด! อย่ามาปรากฏตัวต่อหน้าเราอีก ไม่งั้นเราจะทุบตีเจ้าทุกครั้งที่เจอเจ้า!
-startTip_释法寺,"The abbot has ordered, {player name} has committed grave sins, we must capture him alive!",เจ้าอาวาสสั่ง {player name} ได้ทำบาปร้ายแรง ให้จับเป็นกลับไป!
+startTip_释法寺,"The abbot has ordered, {player name} has committed grave sins, we must capture him alive!",ท่านเจ้าอาวาสมีบัญชา {player name} ก่อกรรมทำเข็ญหนักหนา จำต้องจับเป็นผู้นี้!
 fightTip_释法寺,"In that case, I'll give you three moves! So you can't say the monk is bullying you!","ถ้าอย่างนี้, อาตมาจะต่อให้ประสกสามกระบวนท่า! ประสกจะได้พูดไม่ได้ว่าภิกษุกำลังรังแกประสก!!"
 explainSuccessTip_释法寺,"In front of Buddha, we don't lie. I believe what you say.",ประสกคงไม่โกหกหน้าพระพุทธองค์ อาตมาจะเชื่อสิ่งที่ประสกพูด
 explainFailTip_释法寺,"In front of Buddha, how dare you speak wildly?", ต่อหน้าพุทธองค์ กล้าพูดจาหยาบคายได้อย่างไร?
@@ -111,8 +111,8 @@ failMoneyTip_释法寺,Knowing your mistakes and correcting them is the greatest
 failItemOtherTip_释法寺,"I hope Buddha will feel your repentance, Amitabha.", สัพเพสัตตา สัมมา สัมพุทธัสสะ อมิตาพุทธ
 failItemBagTip_释法寺,"The sea of suffering is boundless, turn back is the shore. I hope you remember this lesson and repent as soon as possible.",สังสารวัฏเป็นทุกข์ ไม่มีที่สิ้นสุด หันหลังกลับมาสู่ทางสว่างยังไม่สาย หวังว่าประสกจะจดจำบทเรียนนี้แล้วกลับตัวกลับใจนะ
 failBuffTip_释法寺,All things in the world have karma. I hope you can become a kind person after this.,สรรพสิ่งล้วนเป็นไปตามกรรม อาตมาหวังว่าประสกจะเป็นคนที่จิตใจงดงามขึ้น
-startTip_铁浮屠,"I was just worrying about where to find you, and you delivered yourself to my doorstep!",ข้ากำลังเครียดอยู่เลยว่าจะหาเจ้าเจอได้ที่ไหน แต่เจ้าก็ดันโผล่มาอยู่หน้าบ้านข้าเฉยเลย!
-fightTip_铁浮屠,"Did we hear wrong? It's good to be brave, but it's useless to lose your life!",ข้าหูฝาดไปหรือเปล่า มีความกล้าก็ดี แต่ถ้าตายไปก็ไร้ค่า!
+startTip_铁浮屠,"I was just worrying about where to find you, and you delivered yourself to my doorstep!",ข้ากำลังเครียดอยู่เลยว่าจะหาเจ้าได้ที่ไหน แต่เจ้าก็ดันโผล่มาอยู่หน้าบ้านข้าเฉยเลย!
+fightTip_铁浮屠,"Did we hear wrong? It's good to be brave, but it's useless to lose your life!",ข้าหูฝาดไปหรือเปล่า มีความกล้านับว่าดี แต่หากตายไปก็ไร้ค่า!
 explainSuccessTip_铁浮屠,"Sweet talk, if we find out it's fake, we'll send you to the king of hell!",ปากดีนัก หากเจ้าหลอกลวงพวกข้าล่ะก็ พวกข้าจะส่งเจ้าไปเข้าเฝ้ายมบาล
 explainFailTip_铁浮屠,"Such poor acting, and you still want to deceive Levitational Steel? How stupid!", แสดงได้ห่วยแตกขนาดนี้ แต่ยังกล้ามาหลอกลวงเจดีย์เหล็กอีกรึ? โง่ยิ่งนัก!!
 apologySuccessTip_铁浮屠,"It seems you're also a timid person who cherishes life! Levitational Steel won't stoop to crush an ant, get lost!","ดูเหมือนเจ้าจะเป็นคนขี้อายที่ทะนุถนอมชีวิตด้วย! เจดีย์เหล็กจะไม่ก้มลงไปขยี้มด, ไสหัวไปซะ!"
@@ -126,9 +126,9 @@ failBuffTip_铁浮屠,Offending Levitational Steel won't end well! Next time we 
 startTip_叶家军,"Ye Family Battalion is your sworn enemy, and you dare to come here!",กองพันตระกูลเย่เป็นศัตรูคู่อาฆาตกับเจ้า แต่เจ้ายังกล้ามาเหยียบที่นี้งั้นรึ!
 fightTip_叶家军,"We're professionals when it comes to fighting, with your mediocre skills, you're just asking for humiliation!",เรื่องวรยุทธพวกเรามิเป็นรองใคร ฝีมือกระจอกงอกง่อยเช่นเจ้า คงไม่พ้นหาเรื่องใส่ตัว!
 explainSuccessTip_叶家军,"We'll let you go this time! If there's a next time, we won't be lenient!",ครั้งนี้จะปล่อยเจ้าไปก่อน! หากมีครั้งหน้า เราไม่ละเว้นเจ้าแน่!
-explainFailTip_叶家军,The soldiers of Ye Family Battalion are no fools! Don't think you can fool them!,ทหารของกองพันตระกูลเย่ไม่ได้โง่! อย่าคิดว่าเจ้าจะหลอกพวกเขาได้!
+explainFailTip_叶家军,The soldiers of Ye Family Battalion are no fools! Don't think you can fool them!,ทหารของกองพันตระกูลเย่ไม่ได้โง่! อย่าคิดว่าเจ้าจะหลอกได้!
 apologySuccessTip_叶家军,"If you had admitted your mistake earlier, would you have fallen to this point? You can go now!",หากเจ้ายอมรับความผิดพลาดก่อนหน้านี้ เจ้าจะตกมาถึงจุดนี้หรือไม่? เจ้าไปได้แล้ว!
-apologyItemQuitTip_ 叶家军,You'll soon find out how foolish it is to mess with Ye Family Battalion!,เจ้าได้รู้ว่าการมาหาเรื่องกองพันตระกูลเย่ เป็นเรื่องโง่เขลาแค่ไหน!
+apologyItemQuitTip_ 叶家军,You'll soon find out how foolish it is to mess with Ye Family Battalion!,เจ้าจะได้รู้ว่าการมาหาเรื่องกองพันตระกูลเย่เป็นเรื่องโง่เขลาเพียงใด!
 runAwaySuccessTip_叶家军,"Hmph, forget it, don't chase the poor!",ฮืม ลืมมันซะ อย่าไล่ล่าคนจน!
 runAwayFailTip_叶家军,"With your weak physique, even ten years of training won't help you outrun Ye Family Battalion!",ด้วยร่างกายที่อ่อนแอของเจ้า การฝึกฝนแม้สิบปีก็ไม่ช่วยให้เจ้ารอดพ้นจากกองพันตระกูลเย่ได้!
 failMoneyTip_叶家军,I was just worrying about not having money to buy military rations! Consider your contribution as a compensation! You can go now!,ข้ากำลังกังวลเรื่องเสียงกองทัพพอดี ถือว่านี่เป็นค่าชดเชยแล้วกัน เจ้าไปได้!
@@ -154,8 +154,8 @@ explainFailTip_黑风寨,"Are you trying to fool the ghosts by burning paper mon
 apologySuccessTip_黑风寨,"Alright, alright, if you were this capable in the first place, you wouldn't be in this situation today. Get lost, and don't let us see you again!","เออ เออ, ถ้าเจ้าเก่งขนาดนี้แต่แรก เจ้าคงไม่ต้องมาอยู่ตกในสถานการณ์เช่นนี้ ! ไสหัวไป แล้วอย่ามาให้ข้าเห็นหน้าอีก !"
 apologyItemQuitTip_ 黑风寨,"Huh? Are you messing with me? Brothers, attack and chop them up!","หืม? เจ้าเล่นตลกกับข้ารึยังไง? พี่น้องทั้งหลาย, สับมันให้เละ !"
 runAwaySuccessTip_黑风寨,Damn! Where did he go? He disappeared in such a short time? Consider this bastard lucky!,บ้าจริง! มันหายไปไหนแล้ว? แค่แป๊ปเดียวหายไปได้ไง โชคดีไปนะเจ้าคนสารเลว!
-runAwayFailTip_黑风寨,"Come back here! You think you can run away in front of me? Do you know who I am? Brothers, chop them up!","กลับมานี่! เจ้าบังอาจหนีต่อหน้าข้าแบบนี้ได้รึไง? ท่านปู่ผู้นี้จะขอสั่งสอนเจ้า พี่น้อง, สับมันให้เละ!!"
+runAwayFailTip_黑风寨,"Come back here! You think you can run away in front of me? Do you know who I am? Brothers, chop them up!","กลับมานี่เลย! คิดว่าจะมาหนีต่อหน้าข้าแบบนี้ได้รึไง? ท่านปู่ผู้นี้จะขอสั่งสอนเจ้า พี่น้อง, สับมันให้เละ!!"
 failMoneyTip_黑风寨,"Kid, didn't expect you to be so rich! Then leave some for us to build our stronghold! Hahahaha!",ไอ้หนู ไม่คิดว่าเอ็งจะรวยขนาดนี้! ทิ้งเงินไว้ให้พวกข้าต่อเติมค่ายซะเถิด! ฮ่า ฮ่า ฮ่าาาาา!
-failItemOtherTip_黑风寨,"Hmph! It's a waste for you useless people to have these treasures, hand them over!", ฮึ! พวกขยะไร้ค่าอย่างพวกเจ้า มิจำเป็นต้องมีสมบัติเช่นนี้ ส่งมาให้หมดเสีย!
+failItemOtherTip_黑风寨,"Hmph! It's a waste for you useless people to have these treasures, hand them over!",ฮึ่ม! พวกเจ้าเศษสวะไร้ค่า ใช้ของล้ำค่าเหล่านี้ช่างเป็นการเหยียบย่ำคุณค่าโดยแท้ จงส่งมันมาเสียให้หมด!
 failItemBagTip_黑风寨,"Didn't expect this kid to have so many good things in his bag, leave the things and get lost! The boss taught us not to slaughter.",ไม่คิดว่าไอ้หนุ่มนี่จะมีของดีเยอะขนาดนี้ ทิ้งของไว้แล้วไสหัวไปเสีย! หัวหน้าสอนข้าไว้ว่าไม่ให้ฆ่าพร่ำเพรื่อ
 failBuffTip_黑风寨,"Hmph! This is what happens when you offend our Black Wind Stronghold, disappear from my sight and enjoy the rest of your life!"," ฮึ่ม! นี่แหละผลที่แกมาเหยียดหยามค่ายลมทมิฬ, ไปให้พ้นแล้วอย่าได้กลับมาให้ข้าเห็นอีก!"

@@ -67,7 +67,7 @@
 隆中书院老学究_题目5_答案4,Flows eastward and does not return.,ไหลไปทางทิศตะวันออกและไม่หวนกลับ
 隆中书院老学究_题目6_答案1,"A thousand-mile dike, destroyed by an ant hole.",เขื่อนสูงพันลี้ พังทลายเพราะรูมด
 隆中书院老学究_题目6_答案2,"Without accumulating small steps, there is no way to reach a thousand miles.",หากไม่สะสมก้าวเล็กๆ ก็ไม่มีทางไปถึงพันลี้
-隆中书院老学究_题目6_答案3,A thousand-mile journey begins with a single step.,การเดินทางพันลี้ เริ่มต้นจากก้าวแรก.
+隆中书院老学究_题目6_答案3,A thousand-mile journey begins with a single step.,การเดินทางพันลี้ เริ่มต้นที่ก้าวแรก.
 隆中书院老学究_题目6_答案4,"The mighty river and sea, accumulate from small streams.",แม่น้ำและทะเลอันยิ่งใหญ่ล้วนเกิดจากลำธารเล็กๆ
 隆中书院老学究_题目7_答案1,The petty man is always worried.,คนใจแคบมักจะกังวล
 隆中书院老学究_题目7_答案2,The petty man is inconsistent.,คนใจแคบมักจะไม่สอดคล้องกัน
@@ -121,7 +121,7 @@
 隆中书院老学究_题目19_答案2,"Know a person's face, but not their heart.",เหมือนเห็นใบหน้าคน แต่ไม่อาจรู้จิตใจ.
 隆中书院老学究_题目19_答案3,"Know a scholar's face, but not their heart.",รู้จักใบหน้าของบัณฑิต แต่ไม่รู้จักจิตใจของพวกเขา
 隆中书院老学究_题目19_答案4,Drawing a tiger but it turns out to be a dog.,วาดเสือแต่กลายเป็นหมา
-隆中书院老学究_题目20_答案1,"If you don't sweep your own house, you can't sweep the world.",บ้านยังมิกวาด จะไปช่วยโลกได้เยี่ยงไร
+隆中书院老学究_题目20_答案1,"If you don't sweep your own house, you can't sweep the world.",หากมิอาจปัดกวาดเรือนตนให้สะอาด จะอาจหาญปัดกวาดใต้หล้าได้อย่างไร
 隆中书院老学究_题目20_答案2,"If you don't read books, you can't pass the exam.",ถ้าไม่อ่านหนังสือสอบไม่ผ่าน
 隆中书院老学究_题目20_答案3,"If you don't accumulate small streams, you can't form rivers and seas.",ไม่สะสมสายน้ำเล็ก ๆ ก็ไม่อาจเป็นแม่น้ำและทะเลได้.
 隆中书院老学究_题目20_答案4,"If you don't accumulate soil, you can't pile up Mount Tai.",ถ้าไม่สะสมดิน ก็ถมภูเขาไท่ไม่ได้
@@ -626,7 +626,7 @@
 会试2_题目1,"""What is the next line of 'Five-flower horse, thousand-gold fur'?""","ประโยคถัดไปของ ""เพื่อนกินหาง่าย"" คืออะไร?"
 会试2_题目2,"""What is the next line of 'Left to lead yellow, right to hold blue'?""","บทต่อไปของ ""มือซ้ายชูเหลือง มือขวาถือฟ้า"" คืออะไร? (ตอบข้อ 2)"
 会试2_题目3,"""What is the next line of 'The Roc flies with the wind in one day'?""","บทต่อไปของ ""วิหคพญาอินทรีโบยบินกับสายลมในหนึ่งวัน"" คืออะไร? (ตอบข้อ 1)"
-会试3_题目1,"""'The tree that can be embraced grows from a tiny sprout; the nine-story tower begins with a heap of earth; the journey of a thousand miles starts from beneath one's feet.' Who said this?""","""ต้นไม้ใหญ่เติบโตจากต้นกล้า หอคอยสูงเสียดฟ้าเริ่มสร้างจากกองดิน การเดินทางพันลี้เริ่มต้นจากก้าวแรก"" คำพูดนี้เป็นของนักปราชญ์ท่านใด?"
+会试3_题目1,"""'The tree that can be embraced grows from a tiny sprout; the nine-story tower begins with a heap of earth; the journey of a thousand miles starts from beneath one's feet.' Who said this?""","""ต้นไม้ใหญ่เติบโตจากต้นกล้า หอคอยสูงเสียดฟ้าเริ่มสร้างจากกองดิน การเดินทางพันลี้เริ่มต้นที่ก้าวแรก"" คำพูดนี้เป็นของนักปราชญ์ท่านใด?"
 会试3_题目2,"""'The highest good is like water, water benefits all things and does not compete.' Who said this?""","""คุณธรรมอันสูงสุดเปรียบเหมือนน้ำ น้ำให้ประโยชน์แก่สรรพสิ่งและไม่แก่งแย่ง"" คำพูดนี้เป็นของนักปราชญ์ท่านใด? (ตอบข้อ 2)"
 会试3_题目3,"""Which book does the quote 'Life between heaven and earth is like a white horse passing a gap, suddenly it's over.' come from?""","""ชีวิตในโลกนี้เปรียบเสมือนม้าขาววิ่งผ่านรอยแยก ซึ่งรวดเร็วฉับพลัน"" คำพูดนี้เป็นของนักปราชญ์ท่านใด? (ตอบข้อ 2)"
 会试4_题目1,"""Which Archive does the quote 'Honorable is open and upright, while the villain is always in a hurry.' come from?""","คำว่า ""สุภาพชนสง่างามเปิดเผย คนชั่วมักเร่งรีบอยู่เสมอ"" มาจากตำราเล่มใด? (ตอบข้อ 1)"
