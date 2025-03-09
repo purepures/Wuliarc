@@ -1735,7 +1735,7 @@ PLD-5_1_23,"It's nothing, if it weren't for you catching these three on the ship
 PLD-5_1_24,It's not troublesome to look after these three for you.
 PLD-5_1_25,"Then I'll have to trouble you, sir."
 PLD-5_2_1,"May I know your name, sir?"
-PLD-5_2_2,Shi Heng.
+PLD-5_2_2,Shi Heng.,สือเหิง
 PLD-5_2_3,"Thank you, Brother Shi."
 PLD-5_2_4,It's nothing.
 PLD-5_3_1,"We've arrived at Wu Shi, we should be able to--"
@@ -1755,7 +1755,7 @@ M2324-1_1_1,"Brother {PlayerSurName}, you visit late at night, is there anything
 M2324-1_1_2,"Nothing much, just saw you on the ship and wanted to say hello."
 M2324-1_1_3,"Brother {PlayerSurName}, you are too polite, in fact, I have a favor to ask."
 M2324-1_1_4,Please speak.
-M2324-1_1_5,"At the previous Swordsmanship Tournament, {PlayerSurName} brother, you commented on Shi Heng's kung fu, but you didn't give any advice on my swordsmanship."
+M2324-1_1_5,"At the previous Swordsmanship Tournament, {PlayerSurName} brother, you commented on Shi Heng's kung fu, but you didn't give any advice on my swordsmanship.",ในงานชุมนุมวิจารณ์กระบี่ครั้งก่อน น้อง{PlayerSurName} ท่านได้วิจารณ์วรยุทธ์ของสือเหิง แต่กลับมิได้ชี้แนะวิชากระบี่ของข้า
 M2324-1_1_6,"This... (Oh no, was there such a thing? I've already forgotten...)"
 M2324-1_1_7,"Since returning from the Swordsmanship Tournament, I've gained new insights into swordsmanship, and I'd like to hear your evaluation, brother."
 M2324-1_1_8,I hope {PlayerSurName} brother will not hesitate to enlighten me.
@@ -1971,7 +1971,7 @@ M2330-2_2_9,"No, what's wrong with that batch of goods?"
 M2330-2_2_10,"In that batch of goods, there are stolen items hidden."
 M2330-2_2_11,What stolen items?
 M2330-2_2_12,"I don't know, but from the looks of it, it should be something from the Buddhist sect, so I asked Master Wu Jing to take a look."
-M2330-2_2_13,"Master Shi Heng is right, those items indeed belong to the Buddhist sect, judging by the craftsmanship, they are either the burial objects of the Accomplished monk or the treasures of the temple!"
+M2330-2_2_13,"Master Shi Heng is right, those items indeed belong to the Buddhist sect, judging by the craftsmanship, they are either the burial objects of the Accomplished monk or the treasures of the temple!",ท่านสือเหิงกล่าวได้ถูกต้อง สิ่งเหล่านั้นเป็นของสำนักสงฆ์ ดูจากงานฝีมือแล้ว ไม่ใช่ของฝังศพของหลวงจีนผู้ทรงศีล แต่เป็นของสะสมในวัด!
 M2330-2_2_14,"In any case, they are all priceless treasures!"
 M2330-2_2_15,"Since Master Wu Jing said so, it must be correct."
 M2330-2_2_16,"This ship is heading to the Yan Kingdom, could it be that Boss Qian is selling these items to the Yan people in exchange for wealth?"
